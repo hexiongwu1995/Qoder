@@ -14,36 +14,4 @@
 #let force_kgf = sample.map(row => row.at(3)).map(value => float(value))
 
 
-#"he何雄武".len()
 
-#"he何雄武".first()
-
-#"何雄武he何雄武".first()
-
-#"何雄武he何雄武".last()
-
-#"何雄武he何雄武".at(9)
-
-#"何雄武he何雄武".slice(0, 6)
-
-
-#"何雄武he何雄武".clusters()
-
-#"何雄武he何雄武".codepoints()
-
-#"何雄武he何雄武".codepoints().map(it => it.to-unicode())
-
-
-#"何雄武he何雄武".codepoints().map(str.to-unicode)
-
-#str.from-unicode(20309)
-
-#"何雄武he何雄武".contains("何")
-
-#("雄武" in "何雄武he何雄武")
-
-#{ "雄武" in "何雄武he何雄武" }
-
-#"何雄武he何雄武".find("何")
-
-#"何雄武he何雄武".find(regex("[雄, 何]"))
