@@ -1,5 +1,5 @@
 
-// 对尼龙-6的拉伸测试数据文件进行处理，绘制应力-应变曲线图。注意：拉伸测试被提前终止，实验数据不全。
+// 对尼龙-6的拉伸测试数据文件进行处理，绘制工程应力-工程应变曲线图。注意：拉伸测试被提前终止，实验数据不全。
 // 在线弹性区间拟合直线，计算杨氏模量E。同时提取屈服强度 sigma_y, 抗拉强度 sigma_UTS，及断裂伸长率 delta 。
 
 #import "@preview/numty:0.1.0" as nt
@@ -15,7 +15,6 @@
 #let deform_mm = sample.map(row => row.at(2)).map(value => float(value))
 
 #let force_kgf = sample.map(row => row.at(3)).map(value => float(value))
-
 
 #let (gauge, width, thickness) = (100, 10, 4)
 
@@ -39,9 +38,12 @@
 )
 
 #lq.diagram(
+  title: [Nylon-6 Tensile Test],
   width: 60%,
   height: 5cm,
   legend: (position: (0%, 0%)),
+  xlabel: [Strain],
+  ylabel: [Stress],
   lq.plot(
     strain_perc,
     stress_Mpa,
@@ -56,8 +58,9 @@
   ),
 )
 
+杨氏模量为：$E = #calc.round(slope, digits: 3) "Mpa"$
 
 
 
-
+我不明白屈服强度、抗拉强度的定义。由于测试被提前终止，无法计算得到真实的断裂伸长率性能参数。
 
