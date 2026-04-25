@@ -6,7 +6,7 @@
 #import "@preview/lilaq:0.6.0" as lq
 #import "@preview/statastic:1.0.0" as st
 
-#let raw = csv("/data/尼龙6-拉伸测试-5mm每min-标距100mm-宽度10mm-厚度4mm.csv")
+#let raw = csv("尼龙6-拉伸测试-5mm每min-标距100mm-宽度10mm-厚度4mm.csv")
 
 #let sample = raw.slice(1).filter(row => calc.rem(int(row.at(0)), 10) == 0).filter(row => float(row.at(2)) > 0)
 
