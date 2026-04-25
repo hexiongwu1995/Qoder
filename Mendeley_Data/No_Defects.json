@@ -1,0 +1,7987 @@
+{
+  "0_1": [
+    {
+      "Time (sec)": 20.3,
+      "Extension (mm)": 1.6894,
+      "Load (N)": 14.49
+    },
+    {
+      "Time (sec)": 20.4,
+      "Extension (mm)": 1.6977,
+      "Load (N)": 15.3
+    },
+    {
+      "Time (sec)": 20.5,
+      "Extension (mm)": 1.706,
+      "Load (N)": 17.71
+    },
+    {
+      "Time (sec)": 20.6,
+      "Extension (mm)": 1.7144,
+      "Load (N)": 20.93
+    },
+    {
+      "Time (sec)": 20.7,
+      "Extension (mm)": 1.7227,
+      "Load (N)": 23.35
+    },
+    {
+      "Time (sec)": 20.8,
+      "Extension (mm)": 1.7311,
+      "Load (N)": 26.57
+    },
+    {
+      "Time (sec)": 20.9,
+      "Extension (mm)": 1.7394,
+      "Load (N)": 29.79
+    },
+    {
+      "Time (sec)": 21.0,
+      "Extension (mm)": 1.7477,
+      "Load (N)": 33.82
+    },
+    {
+      "Time (sec)": 21.1,
+      "Extension (mm)": 1.7561,
+      "Load (N)": 37.04
+    },
+    {
+      "Time (sec)": 21.2,
+      "Extension (mm)": 1.7644,
+      "Load (N)": 40.26
+    },
+    {
+      "Time (sec)": 21.3,
+      "Extension (mm)": 1.7727,
+      "Load (N)": 44.29
+    },
+    {
+      "Time (sec)": 21.4,
+      "Extension (mm)": 1.781,
+      "Load (N)": 48.32
+    },
+    {
+      "Time (sec)": 21.5,
+      "Extension (mm)": 1.7894,
+      "Load (N)": 51.54
+    },
+    {
+      "Time (sec)": 21.6,
+      "Extension (mm)": 1.7977,
+      "Load (N)": 55.56
+    },
+    {
+      "Time (sec)": 21.7,
+      "Extension (mm)": 1.8061,
+      "Load (N)": 59.59
+    },
+    {
+      "Time (sec)": 21.8,
+      "Extension (mm)": 1.8144,
+      "Load (N)": 63.62
+    },
+    {
+      "Time (sec)": 21.9,
+      "Extension (mm)": 1.8227,
+      "Load (N)": 67.64
+    },
+    {
+      "Time (sec)": 22.0,
+      "Extension (mm)": 1.8311,
+      "Load (N)": 71.67
+    },
+    {
+      "Time (sec)": 22.1,
+      "Extension (mm)": 1.8394,
+      "Load (N)": 76.5
+    },
+    {
+      "Time (sec)": 22.2,
+      "Extension (mm)": 1.8477,
+      "Load (N)": 81.34
+    },
+    {
+      "Time (sec)": 22.3,
+      "Extension (mm)": 1.856,
+      "Load (N)": 86.17
+    },
+    {
+      "Time (sec)": 22.4,
+      "Extension (mm)": 1.8644,
+      "Load (N)": 91.81
+    },
+    {
+      "Time (sec)": 22.5,
+      "Extension (mm)": 1.8727,
+      "Load (N)": 96.64
+    },
+    {
+      "Time (sec)": 22.6,
+      "Extension (mm)": 1.8811,
+      "Load (N)": 101.47
+    },
+    {
+      "Time (sec)": 22.7,
+      "Extension (mm)": 1.8894,
+      "Load (N)": 107.11
+    },
+    {
+      "Time (sec)": 22.8,
+      "Extension (mm)": 1.8977,
+      "Load (N)": 111.94
+    },
+    {
+      "Time (sec)": 22.9,
+      "Extension (mm)": 1.9061,
+      "Load (N)": 116.77
+    },
+    {
+      "Time (sec)": 23.0,
+      "Extension (mm)": 1.9144,
+      "Load (N)": 121.6
+    },
+    {
+      "Time (sec)": 23.1,
+      "Extension (mm)": 1.9227,
+      "Load (N)": 126.44
+    },
+    {
+      "Time (sec)": 23.2,
+      "Extension (mm)": 1.931,
+      "Load (N)": 132.07
+    },
+    {
+      "Time (sec)": 23.3,
+      "Extension (mm)": 1.9394,
+      "Load (N)": 136.9
+    },
+    {
+      "Time (sec)": 23.4,
+      "Extension (mm)": 1.9477,
+      "Load (N)": 141.73999
+    },
+    {
+      "Time (sec)": 23.5,
+      "Extension (mm)": 1.9561,
+      "Load (N)": 147.37001
+    },
+    {
+      "Time (sec)": 23.6,
+      "Extension (mm)": 1.9644,
+      "Load (N)": 152.21
+    },
+    {
+      "Time (sec)": 23.7,
+      "Extension (mm)": 1.9727,
+      "Load (N)": 157.04
+    },
+    {
+      "Time (sec)": 23.8,
+      "Extension (mm)": 1.9811,
+      "Load (N)": 161.87
+    },
+    {
+      "Time (sec)": 23.9,
+      "Extension (mm)": 1.9894,
+      "Load (N)": 167.51
+    },
+    {
+      "Time (sec)": 24.0,
+      "Extension (mm)": 1.9977,
+      "Load (N)": 172.34
+    },
+    {
+      "Time (sec)": 24.1,
+      "Extension (mm)": 2.006,
+      "Load (N)": 177.17001
+    },
+    {
+      "Time (sec)": 24.2,
+      "Extension (mm)": 2.0144,
+      "Load (N)": 181.99999
+    },
+    {
+      "Time (sec)": 24.3,
+      "Extension (mm)": 2.0227,
+      "Load (N)": 187.63999
+    },
+    {
+      "Time (sec)": 24.4,
+      "Extension (mm)": 2.0311,
+      "Load (N)": 192.47
+    },
+    {
+      "Time (sec)": 24.5,
+      "Extension (mm)": 2.0394,
+      "Load (N)": 197.31
+    },
+    {
+      "Time (sec)": 24.6,
+      "Extension (mm)": 2.0477,
+      "Load (N)": 202.14
+    },
+    {
+      "Time (sec)": 24.7,
+      "Extension (mm)": 2.0561,
+      "Load (N)": 206.97
+    },
+    {
+      "Time (sec)": 24.8,
+      "Extension (mm)": 2.0644,
+      "Load (N)": 212.61001
+    },
+    {
+      "Time (sec)": 24.9,
+      "Extension (mm)": 2.0727,
+      "Load (N)": 217.43999
+    },
+    {
+      "Time (sec)": 25.0,
+      "Extension (mm)": 2.081,
+      "Load (N)": 222.27
+    },
+    {
+      "Time (sec)": 25.1,
+      "Extension (mm)": 2.0894,
+      "Load (N)": 227.1
+    },
+    {
+      "Time (sec)": 25.2,
+      "Extension (mm)": 2.0977,
+      "Load (N)": 231.94
+    },
+    {
+      "Time (sec)": 25.3,
+      "Extension (mm)": 2.1061,
+      "Load (N)": 236.76999
+    },
+    {
+      "Time (sec)": 25.4,
+      "Extension (mm)": 2.1144,
+      "Load (N)": 241.6
+    },
+    {
+      "Time (sec)": 25.5,
+      "Extension (mm)": 2.1227,
+      "Load (N)": 246.42999
+    },
+    {
+      "Time (sec)": 25.6,
+      "Extension (mm)": 2.1311,
+      "Load (N)": 251.26001
+    },
+    {
+      "Time (sec)": 25.7,
+      "Extension (mm)": 2.1394,
+      "Load (N)": 256.1
+    },
+    {
+      "Time (sec)": 25.8,
+      "Extension (mm)": 2.1477,
+      "Load (N)": 260.92999
+    },
+    {
+      "Time (sec)": 25.9,
+      "Extension (mm)": 2.156,
+      "Load (N)": 265.76
+    },
+    {
+      "Time (sec)": 26.0,
+      "Extension (mm)": 2.1644,
+      "Load (N)": 270.58999
+    },
+    {
+      "Time (sec)": 26.1,
+      "Extension (mm)": 2.1727,
+      "Load (N)": 275.43001
+    },
+    {
+      "Time (sec)": 26.2,
+      "Extension (mm)": 2.1811,
+      "Load (N)": 280.26
+    },
+    {
+      "Time (sec)": 26.3,
+      "Extension (mm)": 2.1894,
+      "Load (N)": 284.28001
+    },
+    {
+      "Time (sec)": 26.4,
+      "Extension (mm)": 2.1977,
+      "Load (N)": 289.12
+    },
+    {
+      "Time (sec)": 26.5,
+      "Extension (mm)": 2.2061,
+      "Load (N)": 293.94999
+    },
+    {
+      "Time (sec)": 26.6,
+      "Extension (mm)": 2.2144,
+      "Load (N)": 297.98001
+    },
+    {
+      "Time (sec)": 26.7,
+      "Extension (mm)": 2.2227,
+      "Load (N)": 302.81
+    },
+    {
+      "Time (sec)": 26.8,
+      "Extension (mm)": 2.231,
+      "Load (N)": 307.63999
+    },
+    {
+      "Time (sec)": 26.9,
+      "Extension (mm)": 2.2394,
+      "Load (N)": 312.47
+    },
+    {
+      "Time (sec)": 27.0,
+      "Extension (mm)": 2.2477,
+      "Load (N)": 316.49999
+    },
+    {
+      "Time (sec)": 27.1,
+      "Extension (mm)": 2.2561,
+      "Load (N)": 321.33001
+    },
+    {
+      "Time (sec)": 27.2,
+      "Extension (mm)": 2.2644,
+      "Load (N)": 325.36
+    },
+    {
+      "Time (sec)": 27.3,
+      "Extension (mm)": 2.2727,
+      "Load (N)": 330.18999
+    },
+    {
+      "Time (sec)": 27.4,
+      "Extension (mm)": 2.2811,
+      "Load (N)": 335.02
+    },
+    {
+      "Time (sec)": 27.5,
+      "Extension (mm)": 2.2894,
+      "Load (N)": 339.04999
+    },
+    {
+      "Time (sec)": 27.6,
+      "Extension (mm)": 2.2977,
+      "Load (N)": 343.88001
+    },
+    {
+      "Time (sec)": 27.7,
+      "Extension (mm)": 2.306,
+      "Load (N)": 347.91
+    },
+    {
+      "Time (sec)": 27.8,
+      "Extension (mm)": 2.3144,
+      "Load (N)": 352.73999
+    },
+    {
+      "Time (sec)": 27.9,
+      "Extension (mm)": 2.3227,
+      "Load (N)": 356.77001
+    },
+    {
+      "Time (sec)": 28.0,
+      "Extension (mm)": 2.331,
+      "Load (N)": 360.79
+    },
+    {
+      "Time (sec)": 28.1,
+      "Extension (mm)": 2.3394,
+      "Load (N)": 365.62001
+    },
+    {
+      "Time (sec)": 28.2,
+      "Extension (mm)": 2.3477,
+      "Load (N)": 369.65
+    },
+    {
+      "Time (sec)": 28.3,
+      "Extension (mm)": 2.3561,
+      "Load (N)": 374.47999
+    },
+    {
+      "Time (sec)": 28.4,
+      "Extension (mm)": 2.3644,
+      "Load (N)": 378.51001
+    },
+    {
+      "Time (sec)": 28.5,
+      "Extension (mm)": 2.3727,
+      "Load (N)": 383.34
+    },
+    {
+      "Time (sec)": 28.6,
+      "Extension (mm)": 2.381,
+      "Load (N)": 387.36999
+    },
+    {
+      "Time (sec)": 28.7,
+      "Extension (mm)": 2.3894,
+      "Load (N)": 391.40001
+    },
+    {
+      "Time (sec)": 28.8,
+      "Extension (mm)": 2.3977,
+      "Load (N)": 395.42
+    },
+    {
+      "Time (sec)": 28.9,
+      "Extension (mm)": 2.406,
+      "Load (N)": 400.25001
+    },
+    {
+      "Time (sec)": 29.0,
+      "Extension (mm)": 2.4144,
+      "Load (N)": 404.28001
+    },
+    {
+      "Time (sec)": 29.1,
+      "Extension (mm)": 2.4227,
+      "Load (N)": 408.31
+    },
+    {
+      "Time (sec)": 29.2,
+      "Extension (mm)": 2.4311,
+      "Load (N)": 412.33999
+    },
+    {
+      "Time (sec)": 29.3,
+      "Extension (mm)": 2.4394,
+      "Load (N)": 416.36
+    },
+    {
+      "Time (sec)": 29.4,
+      "Extension (mm)": 2.4477,
+      "Load (N)": 420.38999
+    },
+    {
+      "Time (sec)": 29.5,
+      "Extension (mm)": 2.456,
+      "Load (N)": 424.41999
+    },
+    {
+      "Time (sec)": 29.6,
+      "Extension (mm)": 2.4644,
+      "Load (N)": 429.25
+    },
+    {
+      "Time (sec)": 29.7,
+      "Extension (mm)": 2.4727,
+      "Load (N)": 432.46999
+    },
+    {
+      "Time (sec)": 29.8,
+      "Extension (mm)": 2.481,
+      "Load (N)": 437.30001
+    },
+    {
+      "Time (sec)": 29.9,
+      "Extension (mm)": 2.4894,
+      "Load (N)": 440.52
+    },
+    {
+      "Time (sec)": 30.0,
+      "Extension (mm)": 2.4977,
+      "Load (N)": 444.54999
+    },
+    {
+      "Time (sec)": 30.1,
+      "Extension (mm)": 2.5061,
+      "Load (N)": 448.58001
+    },
+    {
+      "Time (sec)": 30.2,
+      "Extension (mm)": 2.5144,
+      "Load (N)": 452.6
+    },
+    {
+      "Time (sec)": 30.3,
+      "Extension (mm)": 2.5227,
+      "Load (N)": 456.62999
+    },
+    {
+      "Time (sec)": 30.4,
+      "Extension (mm)": 2.531,
+      "Load (N)": 459.85001
+    },
+    {
+      "Time (sec)": 30.5,
+      "Extension (mm)": 2.5394,
+      "Load (N)": 463.88
+    },
+    {
+      "Time (sec)": 30.6,
+      "Extension (mm)": 2.5477,
+      "Load (N)": 467.89999
+    },
+    {
+      "Time (sec)": 30.7,
+      "Extension (mm)": 2.556,
+      "Load (N)": 471.92998
+    },
+    {
+      "Time (sec)": 30.8,
+      "Extension (mm)": 2.5644,
+      "Load (N)": 475.14997
+    },
+    {
+      "Time (sec)": 30.9,
+      "Extension (mm)": 2.5727,
+      "Load (N)": 479.17999
+    },
+    {
+      "Time (sec)": 31.0,
+      "Extension (mm)": 2.5811,
+      "Load (N)": 482.39999
+    },
+    {
+      "Time (sec)": 31.1,
+      "Extension (mm)": 2.5894,
+      "Load (N)": 486.43
+    },
+    {
+      "Time (sec)": 31.2,
+      "Extension (mm)": 2.5977,
+      "Load (N)": 489.65
+    },
+    {
+      "Time (sec)": 31.3,
+      "Extension (mm)": 2.606,
+      "Load (N)": 493.68002
+    },
+    {
+      "Time (sec)": 31.4,
+      "Extension (mm)": 2.6144,
+      "Load (N)": 496.90001
+    },
+    {
+      "Time (sec)": 31.5,
+      "Extension (mm)": 2.6227,
+      "Load (N)": 500.92002
+    },
+    {
+      "Time (sec)": 31.6,
+      "Extension (mm)": 2.631,
+      "Load (N)": 504.15002
+    },
+    {
+      "Time (sec)": 31.7,
+      "Extension (mm)": 2.6394,
+      "Load (N)": 507.37001
+    },
+    {
+      "Time (sec)": 31.8,
+      "Extension (mm)": 2.6477,
+      "Load (N)": 511.39003
+    },
+    {
+      "Time (sec)": 31.9,
+      "Extension (mm)": 2.6561,
+      "Load (N)": 514.61002
+    },
+    {
+      "Time (sec)": 32.0,
+      "Extension (mm)": 2.6644,
+      "Load (N)": 517.84001
+    },
+    {
+      "Time (sec)": 32.1,
+      "Extension (mm)": 2.6727,
+      "Load (N)": 521.06
+    },
+    {
+      "Time (sec)": 32.2,
+      "Extension (mm)": 2.681,
+      "Load (N)": 524.28
+    },
+    {
+      "Time (sec)": 32.3,
+      "Extension (mm)": 2.6894,
+      "Load (N)": 527.49999
+    },
+    {
+      "Time (sec)": 32.4,
+      "Extension (mm)": 2.6977,
+      "Load (N)": 530.71998
+    },
+    {
+      "Time (sec)": 32.5,
+      "Extension (mm)": 2.706,
+      "Load (N)": 533.93997
+    },
+    {
+      "Time (sec)": 32.6,
+      "Extension (mm)": 2.7144,
+      "Load (N)": 537.16002
+    },
+    {
+      "Time (sec)": 32.7,
+      "Extension (mm)": 2.7227,
+      "Load (N)": 540.39001
+    },
+    {
+      "Time (sec)": 32.8,
+      "Extension (mm)": 2.7311,
+      "Load (N)": 543.61001
+    },
+    {
+      "Time (sec)": 32.9,
+      "Extension (mm)": 2.7394,
+      "Load (N)": 546.83
+    },
+    {
+      "Time (sec)": 33.0,
+      "Extension (mm)": 2.7477,
+      "Load (N)": 549.25002
+    },
+    {
+      "Time (sec)": 33.1,
+      "Extension (mm)": 2.756,
+      "Load (N)": 552.47001
+    },
+    {
+      "Time (sec)": 33.2,
+      "Extension (mm)": 2.7644,
+      "Load (N)": 554.87998
+    },
+    {
+      "Time (sec)": 33.3,
+      "Extension (mm)": 2.7727,
+      "Load (N)": 558.10003
+    },
+    {
+      "Time (sec)": 33.4,
+      "Extension (mm)": 2.781,
+      "Load (N)": 561.33002
+    },
+    {
+      "Time (sec)": 33.5,
+      "Extension (mm)": 2.7894,
+      "Load (N)": 563.73999
+    },
+    {
+      "Time (sec)": 33.6,
+      "Extension (mm)": 2.7977,
+      "Load (N)": 566.95998
+    },
+    {
+      "Time (sec)": 33.7,
+      "Extension (mm)": 2.8061,
+      "Load (N)": 569.38
+    },
+    {
+      "Time (sec)": 33.8,
+      "Extension (mm)": 2.8144,
+      "Load (N)": 571.79002
+    },
+    {
+      "Time (sec)": 33.9,
+      "Extension (mm)": 2.8227,
+      "Load (N)": 574.20999
+    },
+    {
+      "Time (sec)": 34.0,
+      "Extension (mm)": 2.831,
+      "Load (N)": 576.63001
+    },
+    {
+      "Time (sec)": 34.1,
+      "Extension (mm)": 2.8394,
+      "Load (N)": 579.03998
+    },
+    {
+      "Time (sec)": 34.2,
+      "Extension (mm)": 2.8477,
+      "Load (N)": 582.26002
+    },
+    {
+      "Time (sec)": 34.3,
+      "Extension (mm)": 2.856,
+      "Load (N)": 584.67999
+    },
+    {
+      "Time (sec)": 34.4,
+      "Extension (mm)": 2.8644,
+      "Load (N)": 587.10001
+    },
+    {
+      "Time (sec)": 34.5,
+      "Extension (mm)": 2.8727,
+      "Load (N)": 589.50998
+    },
+    {
+      "Time (sec)": 34.6,
+      "Extension (mm)": 2.8811,
+      "Load (N)": 591.11997
+    },
+    {
+      "Time (sec)": 34.7,
+      "Extension (mm)": 2.8894,
+      "Load (N)": 593.54
+    },
+    {
+      "Time (sec)": 34.8,
+      "Extension (mm)": 2.8977,
+      "Load (N)": 595.96002
+    },
+    {
+      "Time (sec)": 34.9,
+      "Extension (mm)": 2.906,
+      "Load (N)": 597.57002
+    },
+    {
+      "Time (sec)": 35.0,
+      "Extension (mm)": 2.9144,
+      "Load (N)": 599.97998
+    },
+    {
+      "Time (sec)": 35.1,
+      "Extension (mm)": 2.9227,
+      "Load (N)": 601.58998
+    },
+    {
+      "Time (sec)": 35.2,
+      "Extension (mm)": 2.931,
+      "Load (N)": 604.01
+    },
+    {
+      "Time (sec)": 35.3,
+      "Extension (mm)": 2.9394,
+      "Load (N)": 605.62
+    },
+    {
+      "Time (sec)": 35.4,
+      "Extension (mm)": 2.9477,
+      "Load (N)": 607.22999
+    },
+    {
+      "Time (sec)": 35.5,
+      "Extension (mm)": 2.956,
+      "Load (N)": 608.83999
+    },
+    {
+      "Time (sec)": 35.6,
+      "Extension (mm)": 2.9644,
+      "Load (N)": 610.44998
+    },
+    {
+      "Time (sec)": 35.7,
+      "Extension (mm)": 2.9727,
+      "Load (N)": 612.05998
+    },
+    {
+      "Time (sec)": 35.8,
+      "Extension (mm)": 2.981,
+      "Load (N)": 613.66998
+    },
+    {
+      "Time (sec)": 35.9,
+      "Extension (mm)": 2.9894,
+      "Load (N)": 614.48
+    },
+    {
+      "Time (sec)": 36.0,
+      "Extension (mm)": 2.9977,
+      "Load (N)": 616.09
+    },
+    {
+      "Time (sec)": 36.1,
+      "Extension (mm)": 3.006,
+      "Load (N)": 616.89002
+    },
+    {
+      "Time (sec)": 36.2,
+      "Extension (mm)": 3.0144,
+      "Load (N)": 617.7
+    },
+    {
+      "Time (sec)": 36.3,
+      "Extension (mm)": 3.0227,
+      "Load (N)": 618.51002
+    },
+    {
+      "Time (sec)": 36.4,
+      "Extension (mm)": 3.031,
+      "Load (N)": 619.30999
+    },
+    {
+      "Time (sec)": 36.5,
+      "Extension (mm)": 3.0394,
+      "Load (N)": 619.30999
+    },
+    {
+      "Time (sec)": 36.6,
+      "Extension (mm)": 3.0477,
+      "Load (N)": 619.30999
+    },
+    {
+      "Time (sec)": 36.7,
+      "Extension (mm)": 3.056,
+      "Load (N)": 619.30999
+    },
+    {
+      "Time (sec)": 36.8,
+      "Extension (mm)": 3.0644,
+      "Load (N)": 619.30999
+    },
+    {
+      "Time (sec)": 36.9,
+      "Extension (mm)": 3.0727,
+      "Load (N)": 617.7
+    },
+    {
+      "Time (sec)": 37.0,
+      "Extension (mm)": 3.081,
+      "Load (N)": 616.09
+    },
+    {
+      "Time (sec)": 37.1,
+      "Extension (mm)": 3.0894,
+      "Load (N)": 614.48
+    },
+    {
+      "Time (sec)": 37.2,
+      "Extension (mm)": 3.0977,
+      "Load (N)": 611.26001
+    },
+    {
+      "Time (sec)": 37.3,
+      "Extension (mm)": 3.106,
+      "Load (N)": 606.43002
+    },
+    {
+      "Time (sec)": 37.4,
+      "Extension (mm)": 3.1143,
+      "Load (N)": 595.14999
+    }
+  ],
+  "0_2": [
+    {
+      "Time (sec)": 21.2,
+      "Extension (mm)": 1.7645,
+      "Load (N)": 16.1
+    },
+    {
+      "Time (sec)": 21.3,
+      "Extension (mm)": 1.7729,
+      "Load (N)": 19.32
+    },
+    {
+      "Time (sec)": 21.4,
+      "Extension (mm)": 1.7813,
+      "Load (N)": 24.16
+    },
+    {
+      "Time (sec)": 21.5,
+      "Extension (mm)": 1.7896,
+      "Load (N)": 28.99
+    },
+    {
+      "Time (sec)": 21.6,
+      "Extension (mm)": 1.7979,
+      "Load (N)": 33.82
+    },
+    {
+      "Time (sec)": 21.7,
+      "Extension (mm)": 1.8062,
+      "Load (N)": 39.46
+    },
+    {
+      "Time (sec)": 21.8,
+      "Extension (mm)": 1.8146,
+      "Load (N)": 44.29
+    },
+    {
+      "Time (sec)": 21.9,
+      "Extension (mm)": 1.8229,
+      "Load (N)": 49.93
+    },
+    {
+      "Time (sec)": 22.0,
+      "Extension (mm)": 1.8312,
+      "Load (N)": 55.56
+    },
+    {
+      "Time (sec)": 22.1,
+      "Extension (mm)": 1.8395,
+      "Load (N)": 60.4
+    },
+    {
+      "Time (sec)": 22.2,
+      "Extension (mm)": 1.8479,
+      "Load (N)": 65.23
+    },
+    {
+      "Time (sec)": 22.3,
+      "Extension (mm)": 1.8563,
+      "Load (N)": 70.87
+    },
+    {
+      "Time (sec)": 22.4,
+      "Extension (mm)": 1.8646,
+      "Load (N)": 76.5
+    },
+    {
+      "Time (sec)": 22.5,
+      "Extension (mm)": 1.8729,
+      "Load (N)": 81.34
+    },
+    {
+      "Time (sec)": 22.6,
+      "Extension (mm)": 1.8812,
+      "Load (N)": 86.97
+    },
+    {
+      "Time (sec)": 22.7,
+      "Extension (mm)": 1.8896,
+      "Load (N)": 91.81
+    },
+    {
+      "Time (sec)": 22.8,
+      "Extension (mm)": 1.8979,
+      "Load (N)": 97.44
+    },
+    {
+      "Time (sec)": 22.9,
+      "Extension (mm)": 1.9062,
+      "Load (N)": 102.27
+    },
+    {
+      "Time (sec)": 23.0,
+      "Extension (mm)": 1.9145,
+      "Load (N)": 107.11
+    },
+    {
+      "Time (sec)": 23.1,
+      "Extension (mm)": 1.9229,
+      "Load (N)": 113.55
+    },
+    {
+      "Time (sec)": 23.2,
+      "Extension (mm)": 1.9313,
+      "Load (N)": 118.37999
+    },
+    {
+      "Time (sec)": 23.3,
+      "Extension (mm)": 1.9396,
+      "Load (N)": 123.21
+    },
+    {
+      "Time (sec)": 23.4,
+      "Extension (mm)": 1.9479,
+      "Load (N)": 128.85
+    },
+    {
+      "Time (sec)": 23.5,
+      "Extension (mm)": 1.9562,
+      "Load (N)": 134.49
+    },
+    {
+      "Time (sec)": 23.6,
+      "Extension (mm)": 1.9646,
+      "Load (N)": 139.32
+    },
+    {
+      "Time (sec)": 23.7,
+      "Extension (mm)": 1.9729,
+      "Load (N)": 144.15
+    },
+    {
+      "Time (sec)": 23.8,
+      "Extension (mm)": 1.9812,
+      "Load (N)": 149.79
+    },
+    {
+      "Time (sec)": 23.9,
+      "Extension (mm)": 1.9895,
+      "Load (N)": 154.62
+    },
+    {
+      "Time (sec)": 24.0,
+      "Extension (mm)": 1.9979,
+      "Load (N)": 160.26
+    },
+    {
+      "Time (sec)": 24.1,
+      "Extension (mm)": 2.0063,
+      "Load (N)": 165.09001
+    },
+    {
+      "Time (sec)": 24.2,
+      "Extension (mm)": 2.0146,
+      "Load (N)": 170.72999
+    },
+    {
+      "Time (sec)": 24.3,
+      "Extension (mm)": 2.0229,
+      "Load (N)": 175.56
+    },
+    {
+      "Time (sec)": 24.4,
+      "Extension (mm)": 2.0312,
+      "Load (N)": 181.2
+    },
+    {
+      "Time (sec)": 24.5,
+      "Extension (mm)": 2.0396,
+      "Load (N)": 186.03
+    },
+    {
+      "Time (sec)": 24.6,
+      "Extension (mm)": 2.0479,
+      "Load (N)": 191.67
+    },
+    {
+      "Time (sec)": 24.7,
+      "Extension (mm)": 2.0562,
+      "Load (N)": 196.5
+    },
+    {
+      "Time (sec)": 24.8,
+      "Extension (mm)": 2.0645,
+      "Load (N)": 201.33
+    },
+    {
+      "Time (sec)": 24.9,
+      "Extension (mm)": 2.0729,
+      "Load (N)": 206.97
+    },
+    {
+      "Time (sec)": 25.0,
+      "Extension (mm)": 2.0813,
+      "Load (N)": 211.80001
+    },
+    {
+      "Time (sec)": 25.1,
+      "Extension (mm)": 2.0896,
+      "Load (N)": 216.62999
+    },
+    {
+      "Time (sec)": 25.2,
+      "Extension (mm)": 2.0979,
+      "Load (N)": 221.47
+    },
+    {
+      "Time (sec)": 25.3,
+      "Extension (mm)": 2.1062,
+      "Load (N)": 227.1
+    },
+    {
+      "Time (sec)": 25.4,
+      "Extension (mm)": 2.1146,
+      "Load (N)": 231.94
+    },
+    {
+      "Time (sec)": 25.5,
+      "Extension (mm)": 2.1229,
+      "Load (N)": 236.76999
+    },
+    {
+      "Time (sec)": 25.6,
+      "Extension (mm)": 2.1312,
+      "Load (N)": 241.6
+    },
+    {
+      "Time (sec)": 25.7,
+      "Extension (mm)": 2.1395,
+      "Load (N)": 246.42999
+    },
+    {
+      "Time (sec)": 25.8,
+      "Extension (mm)": 2.1479,
+      "Load (N)": 252.07001
+    },
+    {
+      "Time (sec)": 25.9,
+      "Extension (mm)": 2.1562,
+      "Load (N)": 256.9
+    },
+    {
+      "Time (sec)": 26.0,
+      "Extension (mm)": 2.1646,
+      "Load (N)": 261.73001
+    },
+    {
+      "Time (sec)": 26.1,
+      "Extension (mm)": 2.1729,
+      "Load (N)": 266.57
+    },
+    {
+      "Time (sec)": 26.2,
+      "Extension (mm)": 2.1812,
+      "Load (N)": 271.39999
+    },
+    {
+      "Time (sec)": 26.3,
+      "Extension (mm)": 2.1896,
+      "Load (N)": 277.04
+    },
+    {
+      "Time (sec)": 26.4,
+      "Extension (mm)": 2.1979,
+      "Load (N)": 281.05999
+    },
+    {
+      "Time (sec)": 26.5,
+      "Extension (mm)": 2.2062,
+      "Load (N)": 285.89001
+    },
+    {
+      "Time (sec)": 26.6,
+      "Extension (mm)": 2.2145,
+      "Load (N)": 290.73
+    },
+    {
+      "Time (sec)": 26.7,
+      "Extension (mm)": 2.2229,
+      "Load (N)": 296.36001
+    },
+    {
+      "Time (sec)": 26.8,
+      "Extension (mm)": 2.2312,
+      "Load (N)": 300.39
+    },
+    {
+      "Time (sec)": 26.9,
+      "Extension (mm)": 2.2396,
+      "Load (N)": 306.02999
+    },
+    {
+      "Time (sec)": 27.0,
+      "Extension (mm)": 2.2479,
+      "Load (N)": 310.06001
+    },
+    {
+      "Time (sec)": 27.1,
+      "Extension (mm)": 2.2562,
+      "Load (N)": 314.89
+    },
+    {
+      "Time (sec)": 27.2,
+      "Extension (mm)": 2.2646,
+      "Load (N)": 319.72001
+    },
+    {
+      "Time (sec)": 27.3,
+      "Extension (mm)": 2.2729,
+      "Load (N)": 324.55
+    },
+    {
+      "Time (sec)": 27.4,
+      "Extension (mm)": 2.2812,
+      "Load (N)": 329.37999
+    },
+    {
+      "Time (sec)": 27.5,
+      "Extension (mm)": 2.2895,
+      "Load (N)": 334.22001
+    },
+    {
+      "Time (sec)": 27.6,
+      "Extension (mm)": 2.2979,
+      "Load (N)": 338.24
+    },
+    {
+      "Time (sec)": 27.7,
+      "Extension (mm)": 2.3062,
+      "Load (N)": 343.07001
+    },
+    {
+      "Time (sec)": 27.8,
+      "Extension (mm)": 2.3145,
+      "Load (N)": 347.91
+    },
+    {
+      "Time (sec)": 27.9,
+      "Extension (mm)": 2.3229,
+      "Load (N)": 351.92999
+    },
+    {
+      "Time (sec)": 28.0,
+      "Extension (mm)": 2.3312,
+      "Load (N)": 356.77001
+    },
+    {
+      "Time (sec)": 28.1,
+      "Extension (mm)": 2.3396,
+      "Load (N)": 361.6
+    },
+    {
+      "Time (sec)": 28.2,
+      "Extension (mm)": 2.3479,
+      "Load (N)": 365.62001
+    },
+    {
+      "Time (sec)": 28.3,
+      "Extension (mm)": 2.3562,
+      "Load (N)": 370.46
+    },
+    {
+      "Time (sec)": 28.4,
+      "Extension (mm)": 2.3645,
+      "Load (N)": 374.47999
+    },
+    {
+      "Time (sec)": 28.5,
+      "Extension (mm)": 2.3729,
+      "Load (N)": 379.32001
+    },
+    {
+      "Time (sec)": 28.6,
+      "Extension (mm)": 2.3812,
+      "Load (N)": 383.34
+    },
+    {
+      "Time (sec)": 28.7,
+      "Extension (mm)": 2.3895,
+      "Load (N)": 388.16999
+    },
+    {
+      "Time (sec)": 28.8,
+      "Extension (mm)": 2.3979,
+      "Load (N)": 392.20001
+    },
+    {
+      "Time (sec)": 28.9,
+      "Extension (mm)": 2.4062,
+      "Load (N)": 397.02999
+    },
+    {
+      "Time (sec)": 29.0,
+      "Extension (mm)": 2.4146,
+      "Load (N)": 401.06001
+    },
+    {
+      "Time (sec)": 29.1,
+      "Extension (mm)": 2.4229,
+      "Load (N)": 405.89
+    },
+    {
+      "Time (sec)": 29.2,
+      "Extension (mm)": 2.4312,
+      "Load (N)": 409.91999
+    },
+    {
+      "Time (sec)": 29.3,
+      "Extension (mm)": 2.4395,
+      "Load (N)": 413.95001
+    },
+    {
+      "Time (sec)": 29.4,
+      "Extension (mm)": 2.4479,
+      "Load (N)": 418.78
+    },
+    {
+      "Time (sec)": 29.5,
+      "Extension (mm)": 2.4562,
+      "Load (N)": 422.79999
+    },
+    {
+      "Time (sec)": 29.6,
+      "Extension (mm)": 2.4645,
+      "Load (N)": 426.83001
+    },
+    {
+      "Time (sec)": 29.7,
+      "Extension (mm)": 2.4729,
+      "Load (N)": 430.86
+    },
+    {
+      "Time (sec)": 29.8,
+      "Extension (mm)": 2.4812,
+      "Load (N)": 434.88999
+    },
+    {
+      "Time (sec)": 29.9,
+      "Extension (mm)": 2.4896,
+      "Load (N)": 438.91001
+    },
+    {
+      "Time (sec)": 30.0,
+      "Extension (mm)": 2.4979,
+      "Load (N)": 443.73999
+    },
+    {
+      "Time (sec)": 30.1,
+      "Extension (mm)": 2.5062,
+      "Load (N)": 446.96999
+    },
+    {
+      "Time (sec)": 30.2,
+      "Extension (mm)": 2.5145,
+      "Load (N)": 451.8
+    },
+    {
+      "Time (sec)": 30.3,
+      "Extension (mm)": 2.5229,
+      "Load (N)": 455.81999
+    },
+    {
+      "Time (sec)": 30.4,
+      "Extension (mm)": 2.5312,
+      "Load (N)": 459.85001
+    },
+    {
+      "Time (sec)": 30.5,
+      "Extension (mm)": 2.5395,
+      "Load (N)": 463.88
+    },
+    {
+      "Time (sec)": 30.6,
+      "Extension (mm)": 2.5479,
+      "Load (N)": 467.89999
+    },
+    {
+      "Time (sec)": 30.7,
+      "Extension (mm)": 2.5562,
+      "Load (N)": 471.13001
+    },
+    {
+      "Time (sec)": 30.8,
+      "Extension (mm)": 2.5646,
+      "Load (N)": 475.14997
+    },
+    {
+      "Time (sec)": 30.9,
+      "Extension (mm)": 2.5729,
+      "Load (N)": 479.17999
+    },
+    {
+      "Time (sec)": 31.0,
+      "Extension (mm)": 2.5812,
+      "Load (N)": 483.21001
+    },
+    {
+      "Time (sec)": 31.1,
+      "Extension (mm)": 2.5895,
+      "Load (N)": 486.43
+    },
+    {
+      "Time (sec)": 31.2,
+      "Extension (mm)": 2.5979,
+      "Load (N)": 490.45002
+    },
+    {
+      "Time (sec)": 31.3,
+      "Extension (mm)": 2.6062,
+      "Load (N)": 494.47998
+    },
+    {
+      "Time (sec)": 31.4,
+      "Extension (mm)": 2.6145,
+      "Load (N)": 497.69998
+    },
+    {
+      "Time (sec)": 31.5,
+      "Extension (mm)": 2.6229,
+      "Load (N)": 501.73
+    },
+    {
+      "Time (sec)": 31.6,
+      "Extension (mm)": 2.6312,
+      "Load (N)": 504.94999
+    },
+    {
+      "Time (sec)": 31.7,
+      "Extension (mm)": 2.6396,
+      "Load (N)": 508.98001
+    },
+    {
+      "Time (sec)": 31.8,
+      "Extension (mm)": 2.6479,
+      "Load (N)": 512.2
+    },
+    {
+      "Time (sec)": 31.9,
+      "Extension (mm)": 2.6562,
+      "Load (N)": 515.41999
+    },
+    {
+      "Time (sec)": 32.0,
+      "Extension (mm)": 2.6645,
+      "Load (N)": 518.63998
+    },
+    {
+      "Time (sec)": 32.1,
+      "Extension (mm)": 2.6729,
+      "Load (N)": 521.85997
+    },
+    {
+      "Time (sec)": 32.2,
+      "Extension (mm)": 2.6812,
+      "Load (N)": 525.08002
+    },
+    {
+      "Time (sec)": 32.3,
+      "Extension (mm)": 2.6895,
+      "Load (N)": 528.31002
+    },
+    {
+      "Time (sec)": 32.4,
+      "Extension (mm)": 2.6979,
+      "Load (N)": 531.53001
+    },
+    {
+      "Time (sec)": 32.5,
+      "Extension (mm)": 2.7062,
+      "Load (N)": 534.75
+    },
+    {
+      "Time (sec)": 32.6,
+      "Extension (mm)": 2.7146,
+      "Load (N)": 537.96999
+    },
+    {
+      "Time (sec)": 32.7,
+      "Extension (mm)": 2.7229,
+      "Load (N)": 541.18998
+    },
+    {
+      "Time (sec)": 32.8,
+      "Extension (mm)": 2.7312,
+      "Load (N)": 544.40998
+    },
+    {
+      "Time (sec)": 32.9,
+      "Extension (mm)": 2.7395,
+      "Load (N)": 546.83
+    },
+    {
+      "Time (sec)": 33.0,
+      "Extension (mm)": 2.7479,
+      "Load (N)": 550.04999
+    },
+    {
+      "Time (sec)": 33.1,
+      "Extension (mm)": 2.7562,
+      "Load (N)": 552.47001
+    },
+    {
+      "Time (sec)": 33.2,
+      "Extension (mm)": 2.7645,
+      "Load (N)": 555.69001
+    },
+    {
+      "Time (sec)": 33.3,
+      "Extension (mm)": 2.7729,
+      "Load (N)": 558.10003
+    },
+    {
+      "Time (sec)": 33.4,
+      "Extension (mm)": 2.7812,
+      "Load (N)": 560.51999
+    },
+    {
+      "Time (sec)": 33.5,
+      "Extension (mm)": 2.7896,
+      "Load (N)": 563.73999
+    },
+    {
+      "Time (sec)": 33.6,
+      "Extension (mm)": 2.7979,
+      "Load (N)": 566.16001
+    },
+    {
+      "Time (sec)": 33.7,
+      "Extension (mm)": 2.8062,
+      "Load (N)": 568.56997
+    },
+    {
+      "Time (sec)": 33.8,
+      "Extension (mm)": 2.8145,
+      "Load (N)": 570.99
+    },
+    {
+      "Time (sec)": 33.9,
+      "Extension (mm)": 2.8229,
+      "Load (N)": 573.41002
+    },
+    {
+      "Time (sec)": 34.0,
+      "Extension (mm)": 2.8312,
+      "Load (N)": 575.81998
+    },
+    {
+      "Time (sec)": 34.1,
+      "Extension (mm)": 2.8395,
+      "Load (N)": 577.42998
+    },
+    {
+      "Time (sec)": 34.2,
+      "Extension (mm)": 2.8479,
+      "Load (N)": 579.85
+    },
+    {
+      "Time (sec)": 34.3,
+      "Extension (mm)": 2.8562,
+      "Load (N)": 581.46
+    },
+    {
+      "Time (sec)": 34.4,
+      "Extension (mm)": 2.8646,
+      "Load (N)": 583.88002
+    },
+    {
+      "Time (sec)": 34.5,
+      "Extension (mm)": 2.8729,
+      "Load (N)": 585.49002
+    },
+    {
+      "Time (sec)": 34.6,
+      "Extension (mm)": 2.8812,
+      "Load (N)": 587.10001
+    },
+    {
+      "Time (sec)": 34.7,
+      "Extension (mm)": 2.8895,
+      "Load (N)": 588.71001
+    },
+    {
+      "Time (sec)": 34.8,
+      "Extension (mm)": 2.8979,
+      "Load (N)": 590.32001
+    },
+    {
+      "Time (sec)": 34.9,
+      "Extension (mm)": 2.9062,
+      "Load (N)": 591.11997
+    },
+    {
+      "Time (sec)": 35.0,
+      "Extension (mm)": 2.9145,
+      "Load (N)": 591.93
+    },
+    {
+      "Time (sec)": 35.1,
+      "Extension (mm)": 2.9229,
+      "Load (N)": 592.73003
+    },
+    {
+      "Time (sec)": 35.2,
+      "Extension (mm)": 2.9312,
+      "Load (N)": 593.54
+    },
+    {
+      "Time (sec)": 35.3,
+      "Extension (mm)": 2.9396,
+      "Load (N)": 594.34002
+    },
+    {
+      "Time (sec)": 35.4,
+      "Extension (mm)": 2.9479,
+      "Load (N)": 594.34002
+    },
+    {
+      "Time (sec)": 35.5,
+      "Extension (mm)": 2.9562,
+      "Load (N)": 595.14999
+    },
+    {
+      "Time (sec)": 35.6,
+      "Extension (mm)": 2.9645,
+      "Load (N)": 595.14999
+    },
+    {
+      "Time (sec)": 35.7,
+      "Extension (mm)": 2.9729,
+      "Load (N)": 594.34002
+    },
+    {
+      "Time (sec)": 35.8,
+      "Extension (mm)": 2.9812,
+      "Load (N)": 593.54
+    },
+    {
+      "Time (sec)": 35.9,
+      "Extension (mm)": 2.9895,
+      "Load (N)": 591.93
+    },
+    {
+      "Time (sec)": 36.0,
+      "Extension (mm)": 2.9979,
+      "Load (N)": 589.50998
+    },
+    {
+      "Time (sec)": 36.1,
+      "Extension (mm)": 3.0062,
+      "Load (N)": 584.67999
+    }
+  ],
+  "0_3": [
+    {
+      "Time (sec)": 23.3,
+      "Extension (mm)": 1.9396,
+      "Load (N)": 103.89
+    },
+    {
+      "Time (sec)": 23.4,
+      "Extension (mm)": 1.9479,
+      "Load (N)": 107.11
+    },
+    {
+      "Time (sec)": 23.5,
+      "Extension (mm)": 1.9562,
+      "Load (N)": 111.13
+    },
+    {
+      "Time (sec)": 23.6,
+      "Extension (mm)": 1.9646,
+      "Load (N)": 115.16
+    },
+    {
+      "Time (sec)": 23.7,
+      "Extension (mm)": 1.9729,
+      "Load (N)": 119.19001
+    },
+    {
+      "Time (sec)": 23.8,
+      "Extension (mm)": 1.9812,
+      "Load (N)": 124.01999
+    },
+    {
+      "Time (sec)": 23.9,
+      "Extension (mm)": 1.9896,
+      "Load (N)": 127.24
+    },
+    {
+      "Time (sec)": 24.0,
+      "Extension (mm)": 1.9979,
+      "Load (N)": 132.07
+    },
+    {
+      "Time (sec)": 24.1,
+      "Extension (mm)": 2.0063,
+      "Load (N)": 136.09999
+    },
+    {
+      "Time (sec)": 24.2,
+      "Extension (mm)": 2.0146,
+      "Load (N)": 140.13
+    },
+    {
+      "Time (sec)": 24.3,
+      "Extension (mm)": 2.0229,
+      "Load (N)": 144.15
+    },
+    {
+      "Time (sec)": 24.4,
+      "Extension (mm)": 2.0312,
+      "Load (N)": 148.99001
+    },
+    {
+      "Time (sec)": 24.5,
+      "Extension (mm)": 2.0396,
+      "Load (N)": 153.00999
+    },
+    {
+      "Time (sec)": 24.6,
+      "Extension (mm)": 2.0479,
+      "Load (N)": 157.84
+    },
+    {
+      "Time (sec)": 24.7,
+      "Extension (mm)": 2.0562,
+      "Load (N)": 161.87
+    },
+    {
+      "Time (sec)": 24.8,
+      "Extension (mm)": 2.0646,
+      "Load (N)": 165.90001
+    },
+    {
+      "Time (sec)": 24.9,
+      "Extension (mm)": 2.0729,
+      "Load (N)": 170.72999
+    },
+    {
+      "Time (sec)": 25.0,
+      "Extension (mm)": 2.0813,
+      "Load (N)": 174.76
+    },
+    {
+      "Time (sec)": 25.1,
+      "Extension (mm)": 2.0896,
+      "Load (N)": 179.59
+    },
+    {
+      "Time (sec)": 25.2,
+      "Extension (mm)": 2.0979,
+      "Load (N)": 183.62001
+    },
+    {
+      "Time (sec)": 25.3,
+      "Extension (mm)": 2.1062,
+      "Load (N)": 188.44999
+    },
+    {
+      "Time (sec)": 25.4,
+      "Extension (mm)": 2.1146,
+      "Load (N)": 192.47
+    },
+    {
+      "Time (sec)": 25.5,
+      "Extension (mm)": 2.1229,
+      "Load (N)": 196.5
+    },
+    {
+      "Time (sec)": 25.6,
+      "Extension (mm)": 2.1312,
+      "Load (N)": 201.33
+    },
+    {
+      "Time (sec)": 25.7,
+      "Extension (mm)": 2.1396,
+      "Load (N)": 205.35999
+    },
+    {
+      "Time (sec)": 25.8,
+      "Extension (mm)": 2.1479,
+      "Load (N)": 210.19
+    },
+    {
+      "Time (sec)": 25.9,
+      "Extension (mm)": 2.1562,
+      "Load (N)": 214.22
+    },
+    {
+      "Time (sec)": 26.0,
+      "Extension (mm)": 2.1646,
+      "Load (N)": 218.25001
+    },
+    {
+      "Time (sec)": 26.1,
+      "Extension (mm)": 2.1729,
+      "Load (N)": 223.07999
+    },
+    {
+      "Time (sec)": 26.2,
+      "Extension (mm)": 2.1812,
+      "Load (N)": 227.1
+    },
+    {
+      "Time (sec)": 26.3,
+      "Extension (mm)": 2.1896,
+      "Load (N)": 231.13
+    },
+    {
+      "Time (sec)": 26.4,
+      "Extension (mm)": 2.1979,
+      "Load (N)": 235.95999
+    },
+    {
+      "Time (sec)": 26.5,
+      "Extension (mm)": 2.2062,
+      "Load (N)": 239.99001
+    },
+    {
+      "Time (sec)": 26.6,
+      "Extension (mm)": 2.2146,
+      "Load (N)": 244.82
+    },
+    {
+      "Time (sec)": 26.7,
+      "Extension (mm)": 2.2229,
+      "Load (N)": 248.84999
+    },
+    {
+      "Time (sec)": 26.8,
+      "Extension (mm)": 2.2312,
+      "Load (N)": 252.88001
+    },
+    {
+      "Time (sec)": 26.9,
+      "Extension (mm)": 2.2396,
+      "Load (N)": 257.70999
+    },
+    {
+      "Time (sec)": 27.0,
+      "Extension (mm)": 2.2479,
+      "Load (N)": 261.73001
+    },
+    {
+      "Time (sec)": 27.1,
+      "Extension (mm)": 2.2562,
+      "Load (N)": 265.76
+    },
+    {
+      "Time (sec)": 27.2,
+      "Extension (mm)": 2.2646,
+      "Load (N)": 270.58999
+    },
+    {
+      "Time (sec)": 27.3,
+      "Extension (mm)": 2.2729,
+      "Load (N)": 274.62001
+    },
+    {
+      "Time (sec)": 27.4,
+      "Extension (mm)": 2.2812,
+      "Load (N)": 278.65
+    },
+    {
+      "Time (sec)": 27.5,
+      "Extension (mm)": 2.2896,
+      "Load (N)": 282.66999
+    },
+    {
+      "Time (sec)": 27.6,
+      "Extension (mm)": 2.2979,
+      "Load (N)": 287.51001
+    },
+    {
+      "Time (sec)": 27.7,
+      "Extension (mm)": 2.3062,
+      "Load (N)": 291.53
+    },
+    {
+      "Time (sec)": 27.8,
+      "Extension (mm)": 2.3145,
+      "Load (N)": 296.36001
+    },
+    {
+      "Time (sec)": 27.9,
+      "Extension (mm)": 2.3229,
+      "Load (N)": 300.39
+    },
+    {
+      "Time (sec)": 28.0,
+      "Extension (mm)": 2.3312,
+      "Load (N)": 304.41999
+    },
+    {
+      "Time (sec)": 28.1,
+      "Extension (mm)": 2.3396,
+      "Load (N)": 308.44001
+    },
+    {
+      "Time (sec)": 28.2,
+      "Extension (mm)": 2.3479,
+      "Load (N)": 312.47
+    },
+    {
+      "Time (sec)": 28.3,
+      "Extension (mm)": 2.3562,
+      "Load (N)": 317.29999
+    },
+    {
+      "Time (sec)": 28.4,
+      "Extension (mm)": 2.3646,
+      "Load (N)": 321.33001
+    },
+    {
+      "Time (sec)": 28.5,
+      "Extension (mm)": 2.3729,
+      "Load (N)": 325.36
+    },
+    {
+      "Time (sec)": 28.6,
+      "Extension (mm)": 2.3812,
+      "Load (N)": 329.37999
+    },
+    {
+      "Time (sec)": 28.7,
+      "Extension (mm)": 2.3895,
+      "Load (N)": 333.41001
+    },
+    {
+      "Time (sec)": 28.8,
+      "Extension (mm)": 2.3979,
+      "Load (N)": 338.24
+    },
+    {
+      "Time (sec)": 28.9,
+      "Extension (mm)": 2.4062,
+      "Load (N)": 341.45999
+    },
+    {
+      "Time (sec)": 29.0,
+      "Extension (mm)": 2.4146,
+      "Load (N)": 346.30001
+    },
+    {
+      "Time (sec)": 29.1,
+      "Extension (mm)": 2.4229,
+      "Load (N)": 350.31999
+    },
+    {
+      "Time (sec)": 29.2,
+      "Extension (mm)": 2.4312,
+      "Load (N)": 355.16001
+    },
+    {
+      "Time (sec)": 29.3,
+      "Extension (mm)": 2.4396,
+      "Load (N)": 359.18
+    },
+    {
+      "Time (sec)": 29.4,
+      "Extension (mm)": 2.4479,
+      "Load (N)": 363.20999
+    },
+    {
+      "Time (sec)": 29.5,
+      "Extension (mm)": 2.4562,
+      "Load (N)": 367.24001
+    },
+    {
+      "Time (sec)": 29.6,
+      "Extension (mm)": 2.4645,
+      "Load (N)": 371.26
+    },
+    {
+      "Time (sec)": 29.7,
+      "Extension (mm)": 2.4729,
+      "Load (N)": 376.08999
+    },
+    {
+      "Time (sec)": 29.8,
+      "Extension (mm)": 2.4812,
+      "Load (N)": 380.12001
+    },
+    {
+      "Time (sec)": 29.9,
+      "Extension (mm)": 2.4896,
+      "Load (N)": 384.15
+    },
+    {
+      "Time (sec)": 30.0,
+      "Extension (mm)": 2.4979,
+      "Load (N)": 388.16999
+    },
+    {
+      "Time (sec)": 30.1,
+      "Extension (mm)": 2.5062,
+      "Load (N)": 392.20001
+    },
+    {
+      "Time (sec)": 30.2,
+      "Extension (mm)": 2.5146,
+      "Load (N)": 396.23
+    },
+    {
+      "Time (sec)": 30.3,
+      "Extension (mm)": 2.5229,
+      "Load (N)": 401.06001
+    },
+    {
+      "Time (sec)": 30.4,
+      "Extension (mm)": 2.5312,
+      "Load (N)": 405.09
+    },
+    {
+      "Time (sec)": 30.5,
+      "Extension (mm)": 2.5395,
+      "Load (N)": 409.10999
+    },
+    {
+      "Time (sec)": 30.6,
+      "Extension (mm)": 2.5479,
+      "Load (N)": 413.14001
+    },
+    {
+      "Time (sec)": 30.7,
+      "Extension (mm)": 2.5562,
+      "Load (N)": 417.17
+    },
+    {
+      "Time (sec)": 30.8,
+      "Extension (mm)": 2.5646,
+      "Load (N)": 421.18999
+    },
+    {
+      "Time (sec)": 30.9,
+      "Extension (mm)": 2.5729,
+      "Load (N)": 425.22001
+    },
+    {
+      "Time (sec)": 31.0,
+      "Extension (mm)": 2.5812,
+      "Load (N)": 429.25
+    },
+    {
+      "Time (sec)": 31.1,
+      "Extension (mm)": 2.5896,
+      "Load (N)": 433.26999
+    },
+    {
+      "Time (sec)": 31.2,
+      "Extension (mm)": 2.5979,
+      "Load (N)": 437.30001
+    },
+    {
+      "Time (sec)": 31.3,
+      "Extension (mm)": 2.6062,
+      "Load (N)": 441.33
+    },
+    {
+      "Time (sec)": 31.4,
+      "Extension (mm)": 2.6145,
+      "Load (N)": 445.34999
+    },
+    {
+      "Time (sec)": 31.5,
+      "Extension (mm)": 2.6229,
+      "Load (N)": 449.38001
+    },
+    {
+      "Time (sec)": 31.6,
+      "Extension (mm)": 2.6312,
+      "Load (N)": 452.6
+    },
+    {
+      "Time (sec)": 31.7,
+      "Extension (mm)": 2.6396,
+      "Load (N)": 456.62999
+    },
+    {
+      "Time (sec)": 31.8,
+      "Extension (mm)": 2.6479,
+      "Load (N)": 460.66001
+    },
+    {
+      "Time (sec)": 31.9,
+      "Extension (mm)": 2.6562,
+      "Load (N)": 464.68
+    },
+    {
+      "Time (sec)": 32.0,
+      "Extension (mm)": 2.6646,
+      "Load (N)": 467.89999
+    },
+    {
+      "Time (sec)": 32.1,
+      "Extension (mm)": 2.6729,
+      "Load (N)": 471.92998
+    },
+    {
+      "Time (sec)": 32.2,
+      "Extension (mm)": 2.6812,
+      "Load (N)": 475.96
+    },
+    {
+      "Time (sec)": 32.3,
+      "Extension (mm)": 2.6895,
+      "Load (N)": 479.17999
+    },
+    {
+      "Time (sec)": 32.4,
+      "Extension (mm)": 2.6979,
+      "Load (N)": 483.21001
+    },
+    {
+      "Time (sec)": 32.5,
+      "Extension (mm)": 2.7062,
+      "Load (N)": 487.22997
+    },
+    {
+      "Time (sec)": 32.6,
+      "Extension (mm)": 2.7146,
+      "Load (N)": 491.25999
+    },
+    {
+      "Time (sec)": 32.7,
+      "Extension (mm)": 2.7229,
+      "Load (N)": 494.47998
+    },
+    {
+      "Time (sec)": 32.8,
+      "Extension (mm)": 2.7312,
+      "Load (N)": 497.69998
+    },
+    {
+      "Time (sec)": 32.9,
+      "Extension (mm)": 2.7396,
+      "Load (N)": 501.73
+    },
+    {
+      "Time (sec)": 33.0,
+      "Extension (mm)": 2.7479,
+      "Load (N)": 504.94999
+    },
+    {
+      "Time (sec)": 33.1,
+      "Extension (mm)": 2.7562,
+      "Load (N)": 508.98001
+    },
+    {
+      "Time (sec)": 33.2,
+      "Extension (mm)": 2.7645,
+      "Load (N)": 513.00002
+    },
+    {
+      "Time (sec)": 33.3,
+      "Extension (mm)": 2.7729,
+      "Load (N)": 516.23002
+    },
+    {
+      "Time (sec)": 33.4,
+      "Extension (mm)": 2.7812,
+      "Load (N)": 519.45001
+    },
+    {
+      "Time (sec)": 33.5,
+      "Extension (mm)": 2.7896,
+      "Load (N)": 522.67
+    },
+    {
+      "Time (sec)": 33.6,
+      "Extension (mm)": 2.7979,
+      "Load (N)": 526.70002
+    },
+    {
+      "Time (sec)": 33.7,
+      "Extension (mm)": 2.8062,
+      "Load (N)": 529.92001
+    },
+    {
+      "Time (sec)": 33.8,
+      "Extension (mm)": 2.8146,
+      "Load (N)": 533.93997
+    },
+    {
+      "Time (sec)": 33.9,
+      "Extension (mm)": 2.8229,
+      "Load (N)": 537.16002
+    },
+    {
+      "Time (sec)": 34.0,
+      "Extension (mm)": 2.8312,
+      "Load (N)": 540.39001
+    },
+    {
+      "Time (sec)": 34.1,
+      "Extension (mm)": 2.8395,
+      "Load (N)": 543.61001
+    },
+    {
+      "Time (sec)": 34.2,
+      "Extension (mm)": 2.8479,
+      "Load (N)": 546.83
+    },
+    {
+      "Time (sec)": 34.3,
+      "Extension (mm)": 2.8562,
+      "Load (N)": 550.04999
+    },
+    {
+      "Time (sec)": 34.4,
+      "Extension (mm)": 2.8646,
+      "Load (N)": 553.26998
+    },
+    {
+      "Time (sec)": 34.5,
+      "Extension (mm)": 2.8729,
+      "Load (N)": 556.48997
+    },
+    {
+      "Time (sec)": 34.6,
+      "Extension (mm)": 2.8812,
+      "Load (N)": 559.71002
+    },
+    {
+      "Time (sec)": 34.7,
+      "Extension (mm)": 2.8896,
+      "Load (N)": 562.94002
+    },
+    {
+      "Time (sec)": 34.8,
+      "Extension (mm)": 2.8979,
+      "Load (N)": 566.16001
+    },
+    {
+      "Time (sec)": 34.9,
+      "Extension (mm)": 2.9062,
+      "Load (N)": 569.38
+    },
+    {
+      "Time (sec)": 35.0,
+      "Extension (mm)": 2.9145,
+      "Load (N)": 572.59999
+    },
+    {
+      "Time (sec)": 35.1,
+      "Extension (mm)": 2.9229,
+      "Load (N)": 575.81998
+    },
+    {
+      "Time (sec)": 35.2,
+      "Extension (mm)": 2.9312,
+      "Load (N)": 578.24001
+    },
+    {
+      "Time (sec)": 35.3,
+      "Extension (mm)": 2.9396,
+      "Load (N)": 581.46
+    },
+    {
+      "Time (sec)": 35.4,
+      "Extension (mm)": 2.9479,
+      "Load (N)": 584.67999
+    },
+    {
+      "Time (sec)": 35.5,
+      "Extension (mm)": 2.9562,
+      "Load (N)": 587.10001
+    },
+    {
+      "Time (sec)": 35.6,
+      "Extension (mm)": 2.9646,
+      "Load (N)": 590.32001
+    },
+    {
+      "Time (sec)": 35.7,
+      "Extension (mm)": 2.9729,
+      "Load (N)": 592.73003
+    },
+    {
+      "Time (sec)": 35.8,
+      "Extension (mm)": 2.9812,
+      "Load (N)": 595.96002
+    },
+    {
+      "Time (sec)": 35.9,
+      "Extension (mm)": 2.9895,
+      "Load (N)": 598.36999
+    },
+    {
+      "Time (sec)": 36.0,
+      "Extension (mm)": 2.9979,
+      "Load (N)": 600.79001
+    },
+    {
+      "Time (sec)": 36.1,
+      "Extension (mm)": 3.0062,
+      "Load (N)": 603.19997
+    },
+    {
+      "Time (sec)": 36.2,
+      "Extension (mm)": 3.0145,
+      "Load (N)": 606.43002
+    },
+    {
+      "Time (sec)": 36.3,
+      "Extension (mm)": 3.0229,
+      "Load (N)": 608.83999
+    },
+    {
+      "Time (sec)": 36.4,
+      "Extension (mm)": 3.0312,
+      "Load (N)": 611.26001
+    },
+    {
+      "Time (sec)": 36.5,
+      "Extension (mm)": 3.0396,
+      "Load (N)": 613.66998
+    },
+    {
+      "Time (sec)": 36.6,
+      "Extension (mm)": 3.0479,
+      "Load (N)": 616.09
+    },
+    {
+      "Time (sec)": 36.7,
+      "Extension (mm)": 3.0562,
+      "Load (N)": 617.7
+    },
+    {
+      "Time (sec)": 36.8,
+      "Extension (mm)": 3.0645,
+      "Load (N)": 619.30999
+    },
+    {
+      "Time (sec)": 36.9,
+      "Extension (mm)": 3.0729,
+      "Load (N)": 621.73001
+    },
+    {
+      "Time (sec)": 37.0,
+      "Extension (mm)": 3.0812,
+      "Load (N)": 624.13998
+    },
+    {
+      "Time (sec)": 37.1,
+      "Extension (mm)": 3.0895,
+      "Load (N)": 625.74998
+    },
+    {
+      "Time (sec)": 37.2,
+      "Extension (mm)": 3.0979,
+      "Load (N)": 628.17
+    },
+    {
+      "Time (sec)": 37.3,
+      "Extension (mm)": 3.1062,
+      "Load (N)": 629.77999
+    },
+    {
+      "Time (sec)": 37.4,
+      "Extension (mm)": 3.1146,
+      "Load (N)": 632.20002
+    },
+    {
+      "Time (sec)": 37.5,
+      "Extension (mm)": 3.1229,
+      "Load (N)": 633.81001
+    },
+    {
+      "Time (sec)": 37.6,
+      "Extension (mm)": 3.1312,
+      "Load (N)": 636.21998
+    },
+    {
+      "Time (sec)": 37.7,
+      "Extension (mm)": 3.1395,
+      "Load (N)": 637.82997
+    },
+    {
+      "Time (sec)": 37.8,
+      "Extension (mm)": 3.1479,
+      "Load (N)": 638.64
+    },
+    {
+      "Time (sec)": 37.9,
+      "Extension (mm)": 3.1562,
+      "Load (N)": 641.06002
+    },
+    {
+      "Time (sec)": 38.0,
+      "Extension (mm)": 3.1645,
+      "Load (N)": 642.67002
+    },
+    {
+      "Time (sec)": 38.1,
+      "Extension (mm)": 3.1729,
+      "Load (N)": 643.46999
+    },
+    {
+      "Time (sec)": 38.2,
+      "Extension (mm)": 3.1812,
+      "Load (N)": 645.07999
+    },
+    {
+      "Time (sec)": 38.3,
+      "Extension (mm)": 3.1896,
+      "Load (N)": 646.68998
+    },
+    {
+      "Time (sec)": 38.4,
+      "Extension (mm)": 3.1979,
+      "Load (N)": 648.29998
+    },
+    {
+      "Time (sec)": 38.5,
+      "Extension (mm)": 3.2062,
+      "Load (N)": 649.11
+    },
+    {
+      "Time (sec)": 38.6,
+      "Extension (mm)": 3.2145,
+      "Load (N)": 649.90997
+    },
+    {
+      "Time (sec)": 38.7,
+      "Extension (mm)": 3.2229,
+      "Load (N)": 650.72
+    },
+    {
+      "Time (sec)": 38.8,
+      "Extension (mm)": 3.2312,
+      "Load (N)": 652.33
+    },
+    {
+      "Time (sec)": 38.9,
+      "Extension (mm)": 3.2395,
+      "Load (N)": 653.14002
+    },
+    {
+      "Time (sec)": 39.0,
+      "Extension (mm)": 3.2479,
+      "Load (N)": 653.93999
+    },
+    {
+      "Time (sec)": 39.1,
+      "Extension (mm)": 3.2562,
+      "Load (N)": 653.93999
+    },
+    {
+      "Time (sec)": 39.2,
+      "Extension (mm)": 3.2646,
+      "Load (N)": 654.75002
+    },
+    {
+      "Time (sec)": 39.3,
+      "Extension (mm)": 3.2729,
+      "Load (N)": 654.75002
+    },
+    {
+      "Time (sec)": 39.4,
+      "Extension (mm)": 3.2812,
+      "Load (N)": 655.54999
+    },
+    {
+      "Time (sec)": 39.5,
+      "Extension (mm)": 3.2895,
+      "Load (N)": 656.36002
+    },
+    {
+      "Time (sec)": 39.6,
+      "Extension (mm)": 3.2979,
+      "Load (N)": 656.36002
+    },
+    {
+      "Time (sec)": 39.7,
+      "Extension (mm)": 3.3062,
+      "Load (N)": 656.36002
+    },
+    {
+      "Time (sec)": 39.8,
+      "Extension (mm)": 3.3145,
+      "Load (N)": 657.15998
+    },
+    {
+      "Time (sec)": 39.9,
+      "Extension (mm)": 3.3229,
+      "Load (N)": 657.15998
+    },
+    {
+      "Time (sec)": 40.0,
+      "Extension (mm)": 3.3312,
+      "Load (N)": 657.15998
+    },
+    {
+      "Time (sec)": 40.1,
+      "Extension (mm)": 3.3396,
+      "Load (N)": 656.36002
+    },
+    {
+      "Time (sec)": 40.2,
+      "Extension (mm)": 3.3479,
+      "Load (N)": 656.36002
+    },
+    {
+      "Time (sec)": 40.3,
+      "Extension (mm)": 3.3562,
+      "Load (N)": 655.54999
+    },
+    {
+      "Time (sec)": 40.4,
+      "Extension (mm)": 3.3645,
+      "Load (N)": 655.54999
+    },
+    {
+      "Time (sec)": 40.5,
+      "Extension (mm)": 3.3729,
+      "Load (N)": 654.75002
+    },
+    {
+      "Time (sec)": 40.6,
+      "Extension (mm)": 3.3812,
+      "Load (N)": 654.75002
+    },
+    {
+      "Time (sec)": 40.7,
+      "Extension (mm)": 3.3895,
+      "Load (N)": 653.93999
+    },
+    {
+      "Time (sec)": 40.8,
+      "Extension (mm)": 3.3979,
+      "Load (N)": 653.14002
+    },
+    {
+      "Time (sec)": 40.9,
+      "Extension (mm)": 3.4062,
+      "Load (N)": 652.33
+    },
+    {
+      "Time (sec)": 41.0,
+      "Extension (mm)": 3.4146,
+      "Load (N)": 651.52002
+    },
+    {
+      "Time (sec)": 41.1,
+      "Extension (mm)": 3.4229,
+      "Load (N)": 649.90997
+    },
+    {
+      "Time (sec)": 41.2,
+      "Extension (mm)": 3.4312,
+      "Load (N)": 649.11
+    },
+    {
+      "Time (sec)": 41.3,
+      "Extension (mm)": 3.4395,
+      "Load (N)": 647.50001
+    },
+    {
+      "Time (sec)": 41.4,
+      "Extension (mm)": 3.4479,
+      "Load (N)": 645.89001
+    },
+    {
+      "Time (sec)": 41.5,
+      "Extension (mm)": 3.4562,
+      "Load (N)": 644.28002
+    },
+    {
+      "Time (sec)": 41.6,
+      "Extension (mm)": 3.4645,
+      "Load (N)": 642.67002
+    },
+    {
+      "Time (sec)": 41.7,
+      "Extension (mm)": 3.4729,
+      "Load (N)": 641.06002
+    },
+    {
+      "Time (sec)": 41.8,
+      "Extension (mm)": 3.4812,
+      "Load (N)": 639.44003
+    },
+    {
+      "Time (sec)": 41.9,
+      "Extension (mm)": 3.4896,
+      "Load (N)": 637.03001
+    },
+    {
+      "Time (sec)": 42.0,
+      "Extension (mm)": 3.4979,
+      "Load (N)": 634.60998
+    },
+    {
+      "Time (sec)": 42.1,
+      "Extension (mm)": 3.5062,
+      "Load (N)": 632.99999
+    },
+    {
+      "Time (sec)": 42.2,
+      "Extension (mm)": 3.5145,
+      "Load (N)": 630.59002
+    },
+    {
+      "Time (sec)": 42.3,
+      "Extension (mm)": 3.5228,
+      "Load (N)": 628.17
+    },
+    {
+      "Time (sec)": 42.4,
+      "Extension (mm)": 3.5312,
+      "Load (N)": 625.74998
+    },
+    {
+      "Time (sec)": 42.5,
+      "Extension (mm)": 3.5395,
+      "Load (N)": 623.34001
+    },
+    {
+      "Time (sec)": 42.6,
+      "Extension (mm)": 3.5479,
+      "Load (N)": 620.91999
+    },
+    {
+      "Time (sec)": 42.7,
+      "Extension (mm)": 3.5561,
+      "Load (N)": 618.51002
+    },
+    {
+      "Time (sec)": 42.8,
+      "Extension (mm)": 3.5645,
+      "Load (N)": 616.09
+    },
+    {
+      "Time (sec)": 42.9,
+      "Extension (mm)": 3.5729,
+      "Load (N)": 613.66998
+    },
+    {
+      "Time (sec)": 43.0,
+      "Extension (mm)": 3.5812,
+      "Load (N)": 610.44998
+    },
+    {
+      "Time (sec)": 43.1,
+      "Extension (mm)": 3.5895,
+      "Load (N)": 608.04002
+    },
+    {
+      "Time (sec)": 43.2,
+      "Extension (mm)": 3.5978,
+      "Load (N)": 605.62
+    },
+    {
+      "Time (sec)": 43.3,
+      "Extension (mm)": 3.6062,
+      "Load (N)": 602.4
+    },
+    {
+      "Time (sec)": 43.4,
+      "Extension (mm)": 3.6145,
+      "Load (N)": 600.79001
+    },
+    {
+      "Time (sec)": 43.5,
+      "Extension (mm)": 3.6229,
+      "Load (N)": 598.36999
+    },
+    {
+      "Time (sec)": 43.6,
+      "Extension (mm)": 3.6311,
+      "Load (N)": 595.96002
+    },
+    {
+      "Time (sec)": 43.7,
+      "Extension (mm)": 3.6395,
+      "Load (N)": 593.54
+    },
+    {
+      "Time (sec)": 43.8,
+      "Extension (mm)": 3.6479,
+      "Load (N)": 591.11997
+    },
+    {
+      "Time (sec)": 43.9,
+      "Extension (mm)": 3.6562,
+      "Load (N)": 589.50998
+    },
+    {
+      "Time (sec)": 44.0,
+      "Extension (mm)": 3.6645,
+      "Load (N)": 587.10001
+    },
+    {
+      "Time (sec)": 44.1,
+      "Extension (mm)": 3.6728,
+      "Load (N)": 585.49002
+    },
+    {
+      "Time (sec)": 44.2,
+      "Extension (mm)": 3.6812,
+      "Load (N)": 583.88002
+    },
+    {
+      "Time (sec)": 44.3,
+      "Extension (mm)": 3.6895,
+      "Load (N)": 581.46
+    },
+    {
+      "Time (sec)": 44.4,
+      "Extension (mm)": 3.6979,
+      "Load (N)": 579.85
+    },
+    {
+      "Time (sec)": 44.5,
+      "Extension (mm)": 3.7061,
+      "Load (N)": 578.24001
+    },
+    {
+      "Time (sec)": 44.6,
+      "Extension (mm)": 3.7145,
+      "Load (N)": 575.81998
+    },
+    {
+      "Time (sec)": 44.7,
+      "Extension (mm)": 3.7229,
+      "Load (N)": 574.20999
+    }
+  ],
+  "0_4": [
+    {
+      "Time (sec)": 21.1,
+      "Extension (mm)": 1.7566,
+      "Load (N)": 17.71
+    },
+    {
+      "Time (sec)": 21.2,
+      "Extension (mm)": 1.7649,
+      "Load (N)": 21.74
+    },
+    {
+      "Time (sec)": 21.3,
+      "Extension (mm)": 1.7733,
+      "Load (N)": 24.96
+    },
+    {
+      "Time (sec)": 21.4,
+      "Extension (mm)": 1.7816,
+      "Load (N)": 28.99
+    },
+    {
+      "Time (sec)": 21.5,
+      "Extension (mm)": 1.7899,
+      "Load (N)": 33.82
+    },
+    {
+      "Time (sec)": 21.6,
+      "Extension (mm)": 1.7982,
+      "Load (N)": 38.65
+    },
+    {
+      "Time (sec)": 21.7,
+      "Extension (mm)": 1.8066,
+      "Load (N)": 43.48
+    },
+    {
+      "Time (sec)": 21.8,
+      "Extension (mm)": 1.8149,
+      "Load (N)": 49.12
+    },
+    {
+      "Time (sec)": 21.9,
+      "Extension (mm)": 1.8233,
+      "Load (N)": 53.95
+    },
+    {
+      "Time (sec)": 22.0,
+      "Extension (mm)": 1.8316,
+      "Load (N)": 59.59
+    },
+    {
+      "Time (sec)": 22.1,
+      "Extension (mm)": 1.8399,
+      "Load (N)": 64.42
+    },
+    {
+      "Time (sec)": 22.2,
+      "Extension (mm)": 1.8483,
+      "Load (N)": 69.26
+    },
+    {
+      "Time (sec)": 22.3,
+      "Extension (mm)": 1.8566,
+      "Load (N)": 74.89
+    },
+    {
+      "Time (sec)": 22.4,
+      "Extension (mm)": 1.8649,
+      "Load (N)": 79.72
+    },
+    {
+      "Time (sec)": 22.5,
+      "Extension (mm)": 1.8732,
+      "Load (N)": 85.36
+    },
+    {
+      "Time (sec)": 22.6,
+      "Extension (mm)": 1.8816,
+      "Load (N)": 90.19
+    },
+    {
+      "Time (sec)": 22.7,
+      "Extension (mm)": 1.8899,
+      "Load (N)": 95.83
+    },
+    {
+      "Time (sec)": 22.8,
+      "Extension (mm)": 1.8983,
+      "Load (N)": 100.66
+    },
+    {
+      "Time (sec)": 22.9,
+      "Extension (mm)": 1.9066,
+      "Load (N)": 106.3
+    },
+    {
+      "Time (sec)": 23.0,
+      "Extension (mm)": 1.9149,
+      "Load (N)": 111.13
+    },
+    {
+      "Time (sec)": 23.1,
+      "Extension (mm)": 1.9233,
+      "Load (N)": 115.97
+    },
+    {
+      "Time (sec)": 23.2,
+      "Extension (mm)": 1.9316,
+      "Load (N)": 120.8
+    },
+    {
+      "Time (sec)": 23.3,
+      "Extension (mm)": 1.9399,
+      "Load (N)": 125.63
+    },
+    {
+      "Time (sec)": 23.4,
+      "Extension (mm)": 1.9482,
+      "Load (N)": 131.27001
+    },
+    {
+      "Time (sec)": 23.5,
+      "Extension (mm)": 1.9566,
+      "Load (N)": 136.09999
+    },
+    {
+      "Time (sec)": 23.6,
+      "Extension (mm)": 1.9649,
+      "Load (N)": 140.93
+    },
+    {
+      "Time (sec)": 23.7,
+      "Extension (mm)": 1.9733,
+      "Load (N)": 145.76
+    },
+    {
+      "Time (sec)": 23.8,
+      "Extension (mm)": 1.9816,
+      "Load (N)": 150.6
+    },
+    {
+      "Time (sec)": 23.9,
+      "Extension (mm)": 1.9899,
+      "Load (N)": 155.43
+    },
+    {
+      "Time (sec)": 24.0,
+      "Extension (mm)": 1.9983,
+      "Load (N)": 161.07
+    },
+    {
+      "Time (sec)": 24.1,
+      "Extension (mm)": 2.0066,
+      "Load (N)": 165.90001
+    },
+    {
+      "Time (sec)": 24.2,
+      "Extension (mm)": 2.0149,
+      "Load (N)": 170.72999
+    },
+    {
+      "Time (sec)": 24.3,
+      "Extension (mm)": 2.0232,
+      "Load (N)": 174.76
+    },
+    {
+      "Time (sec)": 24.4,
+      "Extension (mm)": 2.0316,
+      "Load (N)": 180.39
+    },
+    {
+      "Time (sec)": 24.5,
+      "Extension (mm)": 2.0399,
+      "Load (N)": 184.42
+    },
+    {
+      "Time (sec)": 24.6,
+      "Extension (mm)": 2.0483,
+      "Load (N)": 189.25
+    },
+    {
+      "Time (sec)": 24.7,
+      "Extension (mm)": 2.0566,
+      "Load (N)": 194.89001
+    },
+    {
+      "Time (sec)": 24.8,
+      "Extension (mm)": 2.0649,
+      "Load (N)": 198.92
+    },
+    {
+      "Time (sec)": 24.9,
+      "Extension (mm)": 2.0733,
+      "Load (N)": 203.75
+    },
+    {
+      "Time (sec)": 25.0,
+      "Extension (mm)": 2.0816,
+      "Load (N)": 208.58
+    },
+    {
+      "Time (sec)": 25.1,
+      "Extension (mm)": 2.0899,
+      "Load (N)": 214.22
+    },
+    {
+      "Time (sec)": 25.2,
+      "Extension (mm)": 2.0982,
+      "Load (N)": 218.25001
+    },
+    {
+      "Time (sec)": 25.3,
+      "Extension (mm)": 2.1066,
+      "Load (N)": 223.07999
+    },
+    {
+      "Time (sec)": 25.4,
+      "Extension (mm)": 2.1149,
+      "Load (N)": 227.91
+    },
+    {
+      "Time (sec)": 25.5,
+      "Extension (mm)": 2.1233,
+      "Load (N)": 232.74
+    },
+    {
+      "Time (sec)": 25.6,
+      "Extension (mm)": 2.1316,
+      "Load (N)": 236.76999
+    },
+    {
+      "Time (sec)": 25.7,
+      "Extension (mm)": 2.1399,
+      "Load (N)": 242.41
+    },
+    {
+      "Time (sec)": 25.8,
+      "Extension (mm)": 2.1483,
+      "Load (N)": 246.42999
+    },
+    {
+      "Time (sec)": 25.9,
+      "Extension (mm)": 2.1566,
+      "Load (N)": 251.26001
+    },
+    {
+      "Time (sec)": 26.0,
+      "Extension (mm)": 2.1649,
+      "Load (N)": 256.1
+    },
+    {
+      "Time (sec)": 26.1,
+      "Extension (mm)": 2.1732,
+      "Load (N)": 260.92999
+    },
+    {
+      "Time (sec)": 26.2,
+      "Extension (mm)": 2.1816,
+      "Load (N)": 265.76
+    },
+    {
+      "Time (sec)": 26.3,
+      "Extension (mm)": 2.1899,
+      "Load (N)": 269.78999
+    },
+    {
+      "Time (sec)": 26.4,
+      "Extension (mm)": 2.1982,
+      "Load (N)": 274.62001
+    },
+    {
+      "Time (sec)": 26.5,
+      "Extension (mm)": 2.2066,
+      "Load (N)": 279.45
+    },
+    {
+      "Time (sec)": 26.6,
+      "Extension (mm)": 2.2149,
+      "Load (N)": 283.47999
+    },
+    {
+      "Time (sec)": 26.7,
+      "Extension (mm)": 2.2233,
+      "Load (N)": 288.31
+    },
+    {
+      "Time (sec)": 26.8,
+      "Extension (mm)": 2.2316,
+      "Load (N)": 293.13999
+    },
+    {
+      "Time (sec)": 26.9,
+      "Extension (mm)": 2.2399,
+      "Load (N)": 297.98001
+    },
+    {
+      "Time (sec)": 27.0,
+      "Extension (mm)": 2.2482,
+      "Load (N)": 302.0
+    },
+    {
+      "Time (sec)": 27.1,
+      "Extension (mm)": 2.2566,
+      "Load (N)": 306.82999
+    },
+    {
+      "Time (sec)": 27.2,
+      "Extension (mm)": 2.2649,
+      "Load (N)": 311.67001
+    },
+    {
+      "Time (sec)": 27.3,
+      "Extension (mm)": 2.2732,
+      "Load (N)": 315.68999
+    },
+    {
+      "Time (sec)": 27.4,
+      "Extension (mm)": 2.2815,
+      "Load (N)": 319.72001
+    },
+    {
+      "Time (sec)": 27.5,
+      "Extension (mm)": 2.2899,
+      "Load (N)": 324.55
+    },
+    {
+      "Time (sec)": 27.6,
+      "Extension (mm)": 2.2983,
+      "Load (N)": 329.37999
+    },
+    {
+      "Time (sec)": 27.7,
+      "Extension (mm)": 2.3066,
+      "Load (N)": 333.41001
+    },
+    {
+      "Time (sec)": 27.8,
+      "Extension (mm)": 2.3149,
+      "Load (N)": 338.24
+    },
+    {
+      "Time (sec)": 27.9,
+      "Extension (mm)": 2.3232,
+      "Load (N)": 342.26999
+    },
+    {
+      "Time (sec)": 28.0,
+      "Extension (mm)": 2.3316,
+      "Load (N)": 347.1
+    },
+    {
+      "Time (sec)": 28.1,
+      "Extension (mm)": 2.3399,
+      "Load (N)": 351.12999
+    },
+    {
+      "Time (sec)": 28.2,
+      "Extension (mm)": 2.3482,
+      "Load (N)": 355.96001
+    },
+    {
+      "Time (sec)": 28.3,
+      "Extension (mm)": 2.3565,
+      "Load (N)": 359.99
+    },
+    {
+      "Time (sec)": 28.4,
+      "Extension (mm)": 2.3649,
+      "Load (N)": 364.00999
+    },
+    {
+      "Time (sec)": 28.5,
+      "Extension (mm)": 2.3733,
+      "Load (N)": 368.04001
+    },
+    {
+      "Time (sec)": 28.6,
+      "Extension (mm)": 2.3816,
+      "Load (N)": 372.87
+    },
+    {
+      "Time (sec)": 28.7,
+      "Extension (mm)": 2.3899,
+      "Load (N)": 376.08999
+    },
+    {
+      "Time (sec)": 28.8,
+      "Extension (mm)": 2.3982,
+      "Load (N)": 380.93001
+    },
+    {
+      "Time (sec)": 28.9,
+      "Extension (mm)": 2.4066,
+      "Load (N)": 384.95
+    },
+    {
+      "Time (sec)": 29.0,
+      "Extension (mm)": 2.4149,
+      "Load (N)": 388.97999
+    },
+    {
+      "Time (sec)": 29.1,
+      "Extension (mm)": 2.4232,
+      "Load (N)": 393.01001
+    },
+    {
+      "Time (sec)": 29.2,
+      "Extension (mm)": 2.4315,
+      "Load (N)": 397.02999
+    },
+    {
+      "Time (sec)": 29.3,
+      "Extension (mm)": 2.4399,
+      "Load (N)": 401.06001
+    },
+    {
+      "Time (sec)": 29.4,
+      "Extension (mm)": 2.4483,
+      "Load (N)": 405.09
+    },
+    {
+      "Time (sec)": 29.5,
+      "Extension (mm)": 2.4566,
+      "Load (N)": 409.10999
+    },
+    {
+      "Time (sec)": 29.6,
+      "Extension (mm)": 2.4649,
+      "Load (N)": 413.14001
+    },
+    {
+      "Time (sec)": 29.7,
+      "Extension (mm)": 2.4732,
+      "Load (N)": 417.17
+    },
+    {
+      "Time (sec)": 29.8,
+      "Extension (mm)": 2.4816,
+      "Load (N)": 421.18999
+    },
+    {
+      "Time (sec)": 29.9,
+      "Extension (mm)": 2.4899,
+      "Load (N)": 425.22001
+    },
+    {
+      "Time (sec)": 30.0,
+      "Extension (mm)": 2.4982,
+      "Load (N)": 429.25
+    },
+    {
+      "Time (sec)": 30.1,
+      "Extension (mm)": 2.5065,
+      "Load (N)": 433.26999
+    },
+    {
+      "Time (sec)": 30.2,
+      "Extension (mm)": 2.5149,
+      "Load (N)": 436.50001
+    },
+    {
+      "Time (sec)": 30.3,
+      "Extension (mm)": 2.5233,
+      "Load (N)": 440.52
+    },
+    {
+      "Time (sec)": 30.4,
+      "Extension (mm)": 2.5316,
+      "Load (N)": 444.54999
+    },
+    {
+      "Time (sec)": 30.5,
+      "Extension (mm)": 2.5399,
+      "Load (N)": 447.77001
+    },
+    {
+      "Time (sec)": 30.6,
+      "Extension (mm)": 2.5482,
+      "Load (N)": 451.8
+    },
+    {
+      "Time (sec)": 30.7,
+      "Extension (mm)": 2.5566,
+      "Load (N)": 455.02
+    },
+    {
+      "Time (sec)": 30.8,
+      "Extension (mm)": 2.5649,
+      "Load (N)": 459.04999
+    },
+    {
+      "Time (sec)": 30.9,
+      "Extension (mm)": 2.5732,
+      "Load (N)": 462.27001
+    },
+    {
+      "Time (sec)": 31.0,
+      "Extension (mm)": 2.5815,
+      "Load (N)": 465.49
+    },
+    {
+      "Time (sec)": 31.1,
+      "Extension (mm)": 2.5899,
+      "Load (N)": 468.70999
+    },
+    {
+      "Time (sec)": 31.2,
+      "Extension (mm)": 2.5983,
+      "Load (N)": 472.74001
+    },
+    {
+      "Time (sec)": 31.3,
+      "Extension (mm)": 2.6066,
+      "Load (N)": 475.96
+    },
+    {
+      "Time (sec)": 31.4,
+      "Extension (mm)": 2.6149,
+      "Load (N)": 479.17999
+    },
+    {
+      "Time (sec)": 31.5,
+      "Extension (mm)": 2.6232,
+      "Load (N)": 482.39999
+    },
+    {
+      "Time (sec)": 31.6,
+      "Extension (mm)": 2.6316,
+      "Load (N)": 485.61998
+    },
+    {
+      "Time (sec)": 31.7,
+      "Extension (mm)": 2.6399,
+      "Load (N)": 487.22997
+    },
+    {
+      "Time (sec)": 31.8,
+      "Extension (mm)": 2.6482,
+      "Load (N)": 489.65
+    },
+    {
+      "Time (sec)": 31.9,
+      "Extension (mm)": 2.6565,
+      "Load (N)": 492.07002
+    },
+    {
+      "Time (sec)": 32.0,
+      "Extension (mm)": 2.6649,
+      "Load (N)": 494.47998
+    },
+    {
+      "Time (sec)": 32.1,
+      "Extension (mm)": 2.6733,
+      "Load (N)": 497.69998
+    },
+    {
+      "Time (sec)": 32.2,
+      "Extension (mm)": 2.6816,
+      "Load (N)": 500.12
+    },
+    {
+      "Time (sec)": 32.3,
+      "Extension (mm)": 2.6899,
+      "Load (N)": 502.53002
+    },
+    {
+      "Time (sec)": 32.4,
+      "Extension (mm)": 2.6982,
+      "Load (N)": 504.94999
+    },
+    {
+      "Time (sec)": 32.5,
+      "Extension (mm)": 2.7066,
+      "Load (N)": 507.37001
+    },
+    {
+      "Time (sec)": 32.6,
+      "Extension (mm)": 2.7149,
+      "Load (N)": 509.77997
+    },
+    {
+      "Time (sec)": 32.7,
+      "Extension (mm)": 2.7232,
+      "Load (N)": 512.2
+    },
+    {
+      "Time (sec)": 32.8,
+      "Extension (mm)": 2.7316,
+      "Load (N)": 514.61002
+    },
+    {
+      "Time (sec)": 32.9,
+      "Extension (mm)": 2.7399,
+      "Load (N)": 517.02999
+    },
+    {
+      "Time (sec)": 33.0,
+      "Extension (mm)": 2.7483,
+      "Load (N)": 519.45001
+    },
+    {
+      "Time (sec)": 33.1,
+      "Extension (mm)": 2.7566,
+      "Load (N)": 521.06
+    },
+    {
+      "Time (sec)": 33.2,
+      "Extension (mm)": 2.7649,
+      "Load (N)": 523.47003
+    },
+    {
+      "Time (sec)": 33.3,
+      "Extension (mm)": 2.7732,
+      "Load (N)": 525.88999
+    },
+    {
+      "Time (sec)": 33.4,
+      "Extension (mm)": 2.7816,
+      "Load (N)": 528.31002
+    },
+    {
+      "Time (sec)": 33.5,
+      "Extension (mm)": 2.7899,
+      "Load (N)": 529.92001
+    },
+    {
+      "Time (sec)": 33.6,
+      "Extension (mm)": 2.7982,
+      "Load (N)": 531.53001
+    },
+    {
+      "Time (sec)": 33.7,
+      "Extension (mm)": 2.8066,
+      "Load (N)": 533.93997
+    },
+    {
+      "Time (sec)": 33.8,
+      "Extension (mm)": 2.8149,
+      "Load (N)": 535.55002
+    },
+    {
+      "Time (sec)": 33.9,
+      "Extension (mm)": 2.8232,
+      "Load (N)": 537.96999
+    },
+    {
+      "Time (sec)": 34.0,
+      "Extension (mm)": 2.8316,
+      "Load (N)": 539.57999
+    },
+    {
+      "Time (sec)": 34.1,
+      "Extension (mm)": 2.8399,
+      "Load (N)": 541.18998
+    },
+    {
+      "Time (sec)": 34.2,
+      "Extension (mm)": 2.8482,
+      "Load (N)": 542.79998
+    },
+    {
+      "Time (sec)": 34.3,
+      "Extension (mm)": 2.8566,
+      "Load (N)": 544.40998
+    },
+    {
+      "Time (sec)": 34.4,
+      "Extension (mm)": 2.8649,
+      "Load (N)": 546.02003
+    },
+    {
+      "Time (sec)": 34.5,
+      "Extension (mm)": 2.8732,
+      "Load (N)": 547.63002
+    },
+    {
+      "Time (sec)": 34.6,
+      "Extension (mm)": 2.8816,
+      "Load (N)": 549.25002
+    },
+    {
+      "Time (sec)": 34.7,
+      "Extension (mm)": 2.8899,
+      "Load (N)": 550.04999
+    },
+    {
+      "Time (sec)": 34.8,
+      "Extension (mm)": 2.8982,
+      "Load (N)": 551.65999
+    },
+    {
+      "Time (sec)": 34.9,
+      "Extension (mm)": 2.9066,
+      "Load (N)": 553.26998
+    },
+    {
+      "Time (sec)": 35.0,
+      "Extension (mm)": 2.9149,
+      "Load (N)": 554.08001
+    },
+    {
+      "Time (sec)": 35.1,
+      "Extension (mm)": 2.9232,
+      "Load (N)": 554.87998
+    },
+    {
+      "Time (sec)": 35.2,
+      "Extension (mm)": 2.9316,
+      "Load (N)": 555.69001
+    },
+    {
+      "Time (sec)": 35.3,
+      "Extension (mm)": 2.9399,
+      "Load (N)": 556.48997
+    },
+    {
+      "Time (sec)": 35.4,
+      "Extension (mm)": 2.9482,
+      "Load (N)": 558.10003
+    },
+    {
+      "Time (sec)": 35.5,
+      "Extension (mm)": 2.9566,
+      "Load (N)": 558.91
+    },
+    {
+      "Time (sec)": 35.6,
+      "Extension (mm)": 2.9649,
+      "Load (N)": 558.91
+    },
+    {
+      "Time (sec)": 35.7,
+      "Extension (mm)": 2.9732,
+      "Load (N)": 559.71002
+    },
+    {
+      "Time (sec)": 35.8,
+      "Extension (mm)": 2.9815,
+      "Load (N)": 559.71002
+    },
+    {
+      "Time (sec)": 35.9,
+      "Extension (mm)": 2.9899,
+      "Load (N)": 559.71002
+    },
+    {
+      "Time (sec)": 36.0,
+      "Extension (mm)": 2.9982,
+      "Load (N)": 559.71002
+    },
+    {
+      "Time (sec)": 36.1,
+      "Extension (mm)": 3.0066,
+      "Load (N)": 559.71002
+    },
+    {
+      "Time (sec)": 36.2,
+      "Extension (mm)": 3.0149,
+      "Load (N)": 559.71002
+    },
+    {
+      "Time (sec)": 36.3,
+      "Extension (mm)": 3.0232,
+      "Load (N)": 558.10003
+    },
+    {
+      "Time (sec)": 36.4,
+      "Extension (mm)": 3.0316,
+      "Load (N)": 558.10003
+    },
+    {
+      "Time (sec)": 36.5,
+      "Extension (mm)": 3.0399,
+      "Load (N)": 555.69001
+    },
+    {
+      "Time (sec)": 36.6,
+      "Extension (mm)": 3.0482,
+      "Load (N)": 553.26998
+    },
+    {
+      "Time (sec)": 36.7,
+      "Extension (mm)": 3.0565,
+      "Load (N)": 549.25002
+    }
+  ],
+  "0_5": [
+    {
+      "Time (sec)": 3.7,
+      "Extension (mm)": 0.3061,
+      "Load (N)": 25.77
+    },
+    {
+      "Time (sec)": 3.8,
+      "Extension (mm)": 0.3144,
+      "Load (N)": 28.99
+    },
+    {
+      "Time (sec)": 3.9,
+      "Extension (mm)": 0.3228,
+      "Load (N)": 33.82
+    },
+    {
+      "Time (sec)": 4.0,
+      "Extension (mm)": 0.3311,
+      "Load (N)": 38.65
+    },
+    {
+      "Time (sec)": 4.1,
+      "Extension (mm)": 0.3394,
+      "Load (N)": 42.68
+    },
+    {
+      "Time (sec)": 4.2,
+      "Extension (mm)": 0.3477,
+      "Load (N)": 48.32
+    },
+    {
+      "Time (sec)": 4.3,
+      "Extension (mm)": 0.3561,
+      "Load (N)": 52.34
+    },
+    {
+      "Time (sec)": 4.4,
+      "Extension (mm)": 0.3644,
+      "Load (N)": 57.17
+    },
+    {
+      "Time (sec)": 4.5,
+      "Extension (mm)": 0.3727,
+      "Load (N)": 62.01
+    },
+    {
+      "Time (sec)": 4.6,
+      "Extension (mm)": 0.3811,
+      "Load (N)": 66.84
+    },
+    {
+      "Time (sec)": 4.7,
+      "Extension (mm)": 0.3894,
+      "Load (N)": 71.67
+    },
+    {
+      "Time (sec)": 4.8,
+      "Extension (mm)": 0.3978,
+      "Load (N)": 76.5
+    },
+    {
+      "Time (sec)": 4.9,
+      "Extension (mm)": 0.4061,
+      "Load (N)": 81.34
+    },
+    {
+      "Time (sec)": 5.0,
+      "Extension (mm)": 0.4144,
+      "Load (N)": 86.17
+    },
+    {
+      "Time (sec)": 5.1,
+      "Extension (mm)": 0.4227,
+      "Load (N)": 91.0
+    },
+    {
+      "Time (sec)": 5.2,
+      "Extension (mm)": 0.4311,
+      "Load (N)": 95.03
+    },
+    {
+      "Time (sec)": 5.3,
+      "Extension (mm)": 0.4394,
+      "Load (N)": 100.66
+    },
+    {
+      "Time (sec)": 5.4,
+      "Extension (mm)": 0.4477,
+      "Load (N)": 105.5
+    },
+    {
+      "Time (sec)": 5.5,
+      "Extension (mm)": 0.4561,
+      "Load (N)": 110.33
+    },
+    {
+      "Time (sec)": 5.6,
+      "Extension (mm)": 0.4644,
+      "Load (N)": 115.16
+    },
+    {
+      "Time (sec)": 5.7,
+      "Extension (mm)": 0.4728,
+      "Load (N)": 119.99
+    },
+    {
+      "Time (sec)": 5.8,
+      "Extension (mm)": 0.4811,
+      "Load (N)": 124.82001
+    },
+    {
+      "Time (sec)": 5.9,
+      "Extension (mm)": 0.4894,
+      "Load (N)": 129.66
+    },
+    {
+      "Time (sec)": 6.0,
+      "Extension (mm)": 0.4977,
+      "Load (N)": 134.49
+    },
+    {
+      "Time (sec)": 6.1,
+      "Extension (mm)": 0.5061,
+      "Load (N)": 139.32
+    },
+    {
+      "Time (sec)": 6.2,
+      "Extension (mm)": 0.5144,
+      "Load (N)": 144.15
+    },
+    {
+      "Time (sec)": 6.3,
+      "Extension (mm)": 0.5227,
+      "Load (N)": 148.99001
+    },
+    {
+      "Time (sec)": 6.4,
+      "Extension (mm)": 0.5311,
+      "Load (N)": 153.81999
+    },
+    {
+      "Time (sec)": 6.5,
+      "Extension (mm)": 0.5394,
+      "Load (N)": 158.64999
+    },
+    {
+      "Time (sec)": 6.6,
+      "Extension (mm)": 0.5478,
+      "Load (N)": 163.48
+    },
+    {
+      "Time (sec)": 6.7,
+      "Extension (mm)": 0.5561,
+      "Load (N)": 168.31
+    },
+    {
+      "Time (sec)": 6.8,
+      "Extension (mm)": 0.5644,
+      "Load (N)": 173.15
+    },
+    {
+      "Time (sec)": 6.9,
+      "Extension (mm)": 0.5727,
+      "Load (N)": 178.78
+    },
+    {
+      "Time (sec)": 7.0,
+      "Extension (mm)": 0.5811,
+      "Load (N)": 183.62001
+    },
+    {
+      "Time (sec)": 7.1,
+      "Extension (mm)": 0.5894,
+      "Load (N)": 189.25
+    },
+    {
+      "Time (sec)": 7.2,
+      "Extension (mm)": 0.5977,
+      "Load (N)": 194.08001
+    },
+    {
+      "Time (sec)": 7.3,
+      "Extension (mm)": 0.6061,
+      "Load (N)": 198.92
+    },
+    {
+      "Time (sec)": 7.4,
+      "Extension (mm)": 0.6144,
+      "Load (N)": 203.75
+    },
+    {
+      "Time (sec)": 7.5,
+      "Extension (mm)": 0.6228,
+      "Load (N)": 208.58
+    },
+    {
+      "Time (sec)": 7.6,
+      "Extension (mm)": 0.6311,
+      "Load (N)": 214.22
+    },
+    {
+      "Time (sec)": 7.7,
+      "Extension (mm)": 0.6394,
+      "Load (N)": 219.05
+    },
+    {
+      "Time (sec)": 7.8,
+      "Extension (mm)": 0.6477,
+      "Load (N)": 224.69
+    },
+    {
+      "Time (sec)": 7.9,
+      "Extension (mm)": 0.6561,
+      "Load (N)": 229.52001
+    },
+    {
+      "Time (sec)": 8.0,
+      "Extension (mm)": 0.6644,
+      "Load (N)": 235.15999
+    },
+    {
+      "Time (sec)": 8.1,
+      "Extension (mm)": 0.6727,
+      "Load (N)": 240.80001
+    },
+    {
+      "Time (sec)": 8.2,
+      "Extension (mm)": 0.6811,
+      "Load (N)": 244.82
+    },
+    {
+      "Time (sec)": 8.3,
+      "Extension (mm)": 0.6894,
+      "Load (N)": 250.46001
+    },
+    {
+      "Time (sec)": 8.4,
+      "Extension (mm)": 0.6978,
+      "Load (N)": 255.29
+    },
+    {
+      "Time (sec)": 8.5,
+      "Extension (mm)": 0.7061,
+      "Load (N)": 260.92999
+    },
+    {
+      "Time (sec)": 8.6,
+      "Extension (mm)": 0.7144,
+      "Load (N)": 265.76
+    },
+    {
+      "Time (sec)": 8.7,
+      "Extension (mm)": 0.7227,
+      "Load (N)": 270.58999
+    },
+    {
+      "Time (sec)": 8.8,
+      "Extension (mm)": 0.7311,
+      "Load (N)": 276.23001
+    },
+    {
+      "Time (sec)": 8.9,
+      "Extension (mm)": 0.7394,
+      "Load (N)": 281.05999
+    },
+    {
+      "Time (sec)": 9.0,
+      "Extension (mm)": 0.7477,
+      "Load (N)": 285.89001
+    },
+    {
+      "Time (sec)": 9.1,
+      "Extension (mm)": 0.7561,
+      "Load (N)": 290.73
+    },
+    {
+      "Time (sec)": 9.2,
+      "Extension (mm)": 0.7644,
+      "Load (N)": 296.36001
+    },
+    {
+      "Time (sec)": 9.3,
+      "Extension (mm)": 0.7728,
+      "Load (N)": 300.39
+    },
+    {
+      "Time (sec)": 9.4,
+      "Extension (mm)": 0.7811,
+      "Load (N)": 305.21999
+    },
+    {
+      "Time (sec)": 9.5,
+      "Extension (mm)": 0.7894,
+      "Load (N)": 310.86001
+    },
+    {
+      "Time (sec)": 9.6,
+      "Extension (mm)": 0.7978,
+      "Load (N)": 315.68999
+    },
+    {
+      "Time (sec)": 9.7,
+      "Extension (mm)": 0.8061,
+      "Load (N)": 320.53001
+    },
+    {
+      "Time (sec)": 9.8,
+      "Extension (mm)": 0.8144,
+      "Load (N)": 325.36
+    },
+    {
+      "Time (sec)": 9.9,
+      "Extension (mm)": 0.8227,
+      "Load (N)": 330.18999
+    },
+    {
+      "Time (sec)": 10.0,
+      "Extension (mm)": 0.8311,
+      "Load (N)": 335.02
+    },
+    {
+      "Time (sec)": 10.1,
+      "Extension (mm)": 0.8394,
+      "Load (N)": 339.84999
+    },
+    {
+      "Time (sec)": 10.2,
+      "Extension (mm)": 0.8477,
+      "Load (N)": 344.69001
+    },
+    {
+      "Time (sec)": 10.3,
+      "Extension (mm)": 0.8561,
+      "Load (N)": 349.52
+    },
+    {
+      "Time (sec)": 10.4,
+      "Extension (mm)": 0.8644,
+      "Load (N)": 354.35001
+    },
+    {
+      "Time (sec)": 10.5,
+      "Extension (mm)": 0.8728,
+      "Load (N)": 358.38
+    },
+    {
+      "Time (sec)": 10.6,
+      "Extension (mm)": 0.8811,
+      "Load (N)": 363.20999
+    },
+    {
+      "Time (sec)": 10.7,
+      "Extension (mm)": 0.8894,
+      "Load (N)": 368.04001
+    },
+    {
+      "Time (sec)": 10.8,
+      "Extension (mm)": 0.8977,
+      "Load (N)": 372.07
+    },
+    {
+      "Time (sec)": 10.9,
+      "Extension (mm)": 0.9061,
+      "Load (N)": 376.89999
+    },
+    {
+      "Time (sec)": 11.0,
+      "Extension (mm)": 0.9144,
+      "Load (N)": 380.93001
+    },
+    {
+      "Time (sec)": 11.1,
+      "Extension (mm)": 0.9227,
+      "Load (N)": 385.75999
+    },
+    {
+      "Time (sec)": 11.2,
+      "Extension (mm)": 0.9311,
+      "Load (N)": 389.79001
+    },
+    {
+      "Time (sec)": 11.3,
+      "Extension (mm)": 0.9394,
+      "Load (N)": 394.62
+    },
+    {
+      "Time (sec)": 11.4,
+      "Extension (mm)": 0.9478,
+      "Load (N)": 398.63999
+    },
+    {
+      "Time (sec)": 11.5,
+      "Extension (mm)": 0.9561,
+      "Load (N)": 403.48001
+    },
+    {
+      "Time (sec)": 11.6,
+      "Extension (mm)": 0.9644,
+      "Load (N)": 407.5
+    },
+    {
+      "Time (sec)": 11.7,
+      "Extension (mm)": 0.9727,
+      "Load (N)": 411.52999
+    },
+    {
+      "Time (sec)": 11.8,
+      "Extension (mm)": 0.9811,
+      "Load (N)": 416.36
+    },
+    {
+      "Time (sec)": 11.9,
+      "Extension (mm)": 0.9894,
+      "Load (N)": 421.18999
+    },
+    {
+      "Time (sec)": 12.0,
+      "Extension (mm)": 0.9977,
+      "Load (N)": 424.41999
+    },
+    {
+      "Time (sec)": 12.1,
+      "Extension (mm)": 1.006,
+      "Load (N)": 428.44
+    },
+    {
+      "Time (sec)": 12.2,
+      "Extension (mm)": 1.0144,
+      "Load (N)": 432.46999
+    },
+    {
+      "Time (sec)": 12.3,
+      "Extension (mm)": 1.0228,
+      "Load (N)": 437.30001
+    },
+    {
+      "Time (sec)": 12.4,
+      "Extension (mm)": 1.0311,
+      "Load (N)": 441.33
+    },
+    {
+      "Time (sec)": 12.5,
+      "Extension (mm)": 1.0394,
+      "Load (N)": 445.34999
+    },
+    {
+      "Time (sec)": 12.6,
+      "Extension (mm)": 1.0477,
+      "Load (N)": 449.38001
+    },
+    {
+      "Time (sec)": 12.7,
+      "Extension (mm)": 1.0561,
+      "Load (N)": 452.6
+    },
+    {
+      "Time (sec)": 12.8,
+      "Extension (mm)": 1.0644,
+      "Load (N)": 456.62999
+    },
+    {
+      "Time (sec)": 12.9,
+      "Extension (mm)": 1.0727,
+      "Load (N)": 460.66001
+    },
+    {
+      "Time (sec)": 13.0,
+      "Extension (mm)": 1.081,
+      "Load (N)": 463.88
+    },
+    {
+      "Time (sec)": 13.1,
+      "Extension (mm)": 1.0894,
+      "Load (N)": 467.89999
+    },
+    {
+      "Time (sec)": 13.2,
+      "Extension (mm)": 1.0978,
+      "Load (N)": 471.92998
+    },
+    {
+      "Time (sec)": 13.3,
+      "Extension (mm)": 1.1061,
+      "Load (N)": 475.14997
+    },
+    {
+      "Time (sec)": 13.4,
+      "Extension (mm)": 1.1144,
+      "Load (N)": 479.17999
+    },
+    {
+      "Time (sec)": 13.5,
+      "Extension (mm)": 1.1227,
+      "Load (N)": 482.39999
+    },
+    {
+      "Time (sec)": 13.6,
+      "Extension (mm)": 1.1311,
+      "Load (N)": 486.43
+    },
+    {
+      "Time (sec)": 13.7,
+      "Extension (mm)": 1.1394,
+      "Load (N)": 489.65
+    },
+    {
+      "Time (sec)": 13.8,
+      "Extension (mm)": 1.1477,
+      "Load (N)": 492.86999
+    },
+    {
+      "Time (sec)": 13.9,
+      "Extension (mm)": 1.156,
+      "Load (N)": 496.90001
+    },
+    {
+      "Time (sec)": 14.0,
+      "Extension (mm)": 1.1644,
+      "Load (N)": 500.12
+    },
+    {
+      "Time (sec)": 14.1,
+      "Extension (mm)": 1.1728,
+      "Load (N)": 503.33999
+    },
+    {
+      "Time (sec)": 14.2,
+      "Extension (mm)": 1.1811,
+      "Load (N)": 506.55998
+    },
+    {
+      "Time (sec)": 14.3,
+      "Extension (mm)": 1.1894,
+      "Load (N)": 509.77997
+    },
+    {
+      "Time (sec)": 14.4,
+      "Extension (mm)": 1.1977,
+      "Load (N)": 512.2
+    },
+    {
+      "Time (sec)": 14.5,
+      "Extension (mm)": 1.2061,
+      "Load (N)": 515.41999
+    },
+    {
+      "Time (sec)": 14.6,
+      "Extension (mm)": 1.2144,
+      "Load (N)": 518.63998
+    },
+    {
+      "Time (sec)": 14.7,
+      "Extension (mm)": 1.2227,
+      "Load (N)": 521.85997
+    },
+    {
+      "Time (sec)": 14.8,
+      "Extension (mm)": 1.231,
+      "Load (N)": 524.28
+    },
+    {
+      "Time (sec)": 14.9,
+      "Extension (mm)": 1.2394,
+      "Load (N)": 527.49999
+    },
+    {
+      "Time (sec)": 15.0,
+      "Extension (mm)": 1.2478,
+      "Load (N)": 529.92001
+    },
+    {
+      "Time (sec)": 15.1,
+      "Extension (mm)": 1.2561,
+      "Load (N)": 532.32998
+    },
+    {
+      "Time (sec)": 15.2,
+      "Extension (mm)": 1.2644,
+      "Load (N)": 534.75
+    },
+    {
+      "Time (sec)": 15.3,
+      "Extension (mm)": 1.2727,
+      "Load (N)": 537.16002
+    },
+    {
+      "Time (sec)": 15.4,
+      "Extension (mm)": 1.2811,
+      "Load (N)": 538.78002
+    },
+    {
+      "Time (sec)": 15.5,
+      "Extension (mm)": 1.2894,
+      "Load (N)": 541.18998
+    },
+    {
+      "Time (sec)": 15.6,
+      "Extension (mm)": 1.2977,
+      "Load (N)": 542.79998
+    },
+    {
+      "Time (sec)": 15.7,
+      "Extension (mm)": 1.306,
+      "Load (N)": 545.22
+    },
+    {
+      "Time (sec)": 15.8,
+      "Extension (mm)": 1.3144,
+      "Load (N)": 546.02003
+    },
+    {
+      "Time (sec)": 15.9,
+      "Extension (mm)": 1.3228,
+      "Load (N)": 547.63002
+    },
+    {
+      "Time (sec)": 16.0,
+      "Extension (mm)": 1.3311,
+      "Load (N)": 549.25002
+    },
+    {
+      "Time (sec)": 16.1,
+      "Extension (mm)": 1.3394,
+      "Load (N)": 550.04999
+    },
+    {
+      "Time (sec)": 16.2,
+      "Extension (mm)": 1.3477,
+      "Load (N)": 550.86002
+    },
+    {
+      "Time (sec)": 16.3,
+      "Extension (mm)": 1.3561,
+      "Load (N)": 551.65999
+    },
+    {
+      "Time (sec)": 16.4,
+      "Extension (mm)": 1.3644,
+      "Load (N)": 551.65999
+    },
+    {
+      "Time (sec)": 16.5,
+      "Extension (mm)": 1.3727,
+      "Load (N)": 551.65999
+    },
+    {
+      "Time (sec)": 16.6,
+      "Extension (mm)": 1.381,
+      "Load (N)": 551.65999
+    },
+    {
+      "Time (sec)": 16.7,
+      "Extension (mm)": 1.3894,
+      "Load (N)": 550.86002
+    },
+    {
+      "Time (sec)": 16.8,
+      "Extension (mm)": 1.3978,
+      "Load (N)": 550.04999
+    },
+    {
+      "Time (sec)": 16.9,
+      "Extension (mm)": 1.4061,
+      "Load (N)": 549.25002
+    },
+    {
+      "Time (sec)": 17.0,
+      "Extension (mm)": 1.4144,
+      "Load (N)": 547.63002
+    },
+    {
+      "Time (sec)": 17.1,
+      "Extension (mm)": 1.4227,
+      "Load (N)": 546.02003
+    },
+    {
+      "Time (sec)": 17.2,
+      "Extension (mm)": 1.4311,
+      "Load (N)": 543.61001
+    },
+    {
+      "Time (sec)": 17.3,
+      "Extension (mm)": 1.4394,
+      "Load (N)": 540.39001
+    },
+    {
+      "Time (sec)": 17.4,
+      "Extension (mm)": 1.4477,
+      "Load (N)": 537.96999
+    },
+    {
+      "Time (sec)": 17.5,
+      "Extension (mm)": 1.456,
+      "Load (N)": 534.75
+    },
+    {
+      "Time (sec)": 17.6,
+      "Extension (mm)": 1.4644,
+      "Load (N)": 530.71998
+    },
+    {
+      "Time (sec)": 17.7,
+      "Extension (mm)": 1.4728,
+      "Load (N)": 525.88999
+    },
+    {
+      "Time (sec)": 17.8,
+      "Extension (mm)": 1.4811,
+      "Load (N)": 520.24998
+    },
+    {
+      "Time (sec)": 17.9,
+      "Extension (mm)": 1.4894,
+      "Load (N)": 513.80999
+    }
+  ],
+  "0_6": [
+    {
+      "Time (sec)": 3.7,
+      "Extension (mm)": 0.3063,
+      "Load (N)": 28.18
+    },
+    {
+      "Time (sec)": 3.8,
+      "Extension (mm)": 0.3146,
+      "Load (N)": 32.21
+    },
+    {
+      "Time (sec)": 3.9,
+      "Extension (mm)": 0.3229,
+      "Load (N)": 36.24
+    },
+    {
+      "Time (sec)": 4.0,
+      "Extension (mm)": 0.3313,
+      "Load (N)": 40.26
+    },
+    {
+      "Time (sec)": 4.1,
+      "Extension (mm)": 0.3396,
+      "Load (N)": 44.29
+    },
+    {
+      "Time (sec)": 4.2,
+      "Extension (mm)": 0.3479,
+      "Load (N)": 48.32
+    },
+    {
+      "Time (sec)": 4.3,
+      "Extension (mm)": 0.3562,
+      "Load (N)": 53.15
+    },
+    {
+      "Time (sec)": 4.4,
+      "Extension (mm)": 0.3646,
+      "Load (N)": 57.17
+    },
+    {
+      "Time (sec)": 4.5,
+      "Extension (mm)": 0.3729,
+      "Load (N)": 62.01
+    },
+    {
+      "Time (sec)": 4.6,
+      "Extension (mm)": 0.3813,
+      "Load (N)": 66.03
+    },
+    {
+      "Time (sec)": 4.7,
+      "Extension (mm)": 0.3896,
+      "Load (N)": 70.06
+    },
+    {
+      "Time (sec)": 4.8,
+      "Extension (mm)": 0.3979,
+      "Load (N)": 74.09
+    },
+    {
+      "Time (sec)": 4.9,
+      "Extension (mm)": 0.4063,
+      "Load (N)": 78.92
+    },
+    {
+      "Time (sec)": 5.0,
+      "Extension (mm)": 0.4146,
+      "Load (N)": 82.95
+    },
+    {
+      "Time (sec)": 5.1,
+      "Extension (mm)": 0.4229,
+      "Load (N)": 86.97
+    },
+    {
+      "Time (sec)": 5.2,
+      "Extension (mm)": 0.4312,
+      "Load (N)": 91.81
+    },
+    {
+      "Time (sec)": 5.3,
+      "Extension (mm)": 0.4396,
+      "Load (N)": 95.83
+    },
+    {
+      "Time (sec)": 5.4,
+      "Extension (mm)": 0.4479,
+      "Load (N)": 99.86
+    },
+    {
+      "Time (sec)": 5.5,
+      "Extension (mm)": 0.4563,
+      "Load (N)": 104.69
+    },
+    {
+      "Time (sec)": 5.6,
+      "Extension (mm)": 0.4646,
+      "Load (N)": 108.72
+    },
+    {
+      "Time (sec)": 5.7,
+      "Extension (mm)": 0.4729,
+      "Load (N)": 112.74
+    },
+    {
+      "Time (sec)": 5.8,
+      "Extension (mm)": 0.4813,
+      "Load (N)": 117.58
+    },
+    {
+      "Time (sec)": 5.9,
+      "Extension (mm)": 0.4896,
+      "Load (N)": 122.41
+    },
+    {
+      "Time (sec)": 6.0,
+      "Extension (mm)": 0.4979,
+      "Load (N)": 126.44
+    },
+    {
+      "Time (sec)": 6.1,
+      "Extension (mm)": 0.5062,
+      "Load (N)": 130.46001
+    },
+    {
+      "Time (sec)": 6.2,
+      "Extension (mm)": 0.5146,
+      "Load (N)": 135.28999
+    },
+    {
+      "Time (sec)": 6.3,
+      "Extension (mm)": 0.5229,
+      "Load (N)": 139.32
+    },
+    {
+      "Time (sec)": 6.4,
+      "Extension (mm)": 0.5313,
+      "Load (N)": 143.35
+    },
+    {
+      "Time (sec)": 6.5,
+      "Extension (mm)": 0.5396,
+      "Load (N)": 148.18001
+    },
+    {
+      "Time (sec)": 6.6,
+      "Extension (mm)": 0.5479,
+      "Load (N)": 153.00999
+    },
+    {
+      "Time (sec)": 6.7,
+      "Extension (mm)": 0.5563,
+      "Load (N)": 158.64999
+    },
+    {
+      "Time (sec)": 6.8,
+      "Extension (mm)": 0.5646,
+      "Load (N)": 163.48
+    },
+    {
+      "Time (sec)": 6.9,
+      "Extension (mm)": 0.5729,
+      "Load (N)": 168.31
+    },
+    {
+      "Time (sec)": 7.0,
+      "Extension (mm)": 0.5812,
+      "Load (N)": 173.15
+    },
+    {
+      "Time (sec)": 7.1,
+      "Extension (mm)": 0.5896,
+      "Load (N)": 177.98
+    },
+    {
+      "Time (sec)": 7.2,
+      "Extension (mm)": 0.5979,
+      "Load (N)": 182.81001
+    },
+    {
+      "Time (sec)": 7.3,
+      "Extension (mm)": 0.6063,
+      "Load (N)": 188.44999
+    },
+    {
+      "Time (sec)": 7.4,
+      "Extension (mm)": 0.6146,
+      "Load (N)": 193.28
+    },
+    {
+      "Time (sec)": 7.5,
+      "Extension (mm)": 0.6229,
+      "Load (N)": 198.11
+    },
+    {
+      "Time (sec)": 7.6,
+      "Extension (mm)": 0.6313,
+      "Load (N)": 202.94
+    },
+    {
+      "Time (sec)": 7.7,
+      "Extension (mm)": 0.6396,
+      "Load (N)": 207.78
+    },
+    {
+      "Time (sec)": 7.8,
+      "Extension (mm)": 0.6479,
+      "Load (N)": 212.61001
+    },
+    {
+      "Time (sec)": 7.9,
+      "Extension (mm)": 0.6562,
+      "Load (N)": 218.25001
+    },
+    {
+      "Time (sec)": 8.0,
+      "Extension (mm)": 0.6646,
+      "Load (N)": 222.27
+    },
+    {
+      "Time (sec)": 8.1,
+      "Extension (mm)": 0.6729,
+      "Load (N)": 227.1
+    },
+    {
+      "Time (sec)": 8.2,
+      "Extension (mm)": 0.6813,
+      "Load (N)": 231.94
+    },
+    {
+      "Time (sec)": 8.3,
+      "Extension (mm)": 0.6896,
+      "Load (N)": 236.76999
+    },
+    {
+      "Time (sec)": 8.4,
+      "Extension (mm)": 0.6979,
+      "Load (N)": 241.6
+    },
+    {
+      "Time (sec)": 8.5,
+      "Extension (mm)": 0.7063,
+      "Load (N)": 246.42999
+    },
+    {
+      "Time (sec)": 8.6,
+      "Extension (mm)": 0.7146,
+      "Load (N)": 250.46001
+    },
+    {
+      "Time (sec)": 8.7,
+      "Extension (mm)": 0.7229,
+      "Load (N)": 255.29
+    },
+    {
+      "Time (sec)": 8.8,
+      "Extension (mm)": 0.7312,
+      "Load (N)": 260.11999
+    },
+    {
+      "Time (sec)": 8.9,
+      "Extension (mm)": 0.7396,
+      "Load (N)": 264.96001
+    },
+    {
+      "Time (sec)": 9.0,
+      "Extension (mm)": 0.7479,
+      "Load (N)": 269.78999
+    },
+    {
+      "Time (sec)": 9.1,
+      "Extension (mm)": 0.7563,
+      "Load (N)": 273.81001
+    },
+    {
+      "Time (sec)": 9.2,
+      "Extension (mm)": 0.7646,
+      "Load (N)": 278.65
+    },
+    {
+      "Time (sec)": 9.3,
+      "Extension (mm)": 0.7729,
+      "Load (N)": 283.47999
+    },
+    {
+      "Time (sec)": 9.4,
+      "Extension (mm)": 0.7813,
+      "Load (N)": 287.51001
+    },
+    {
+      "Time (sec)": 9.5,
+      "Extension (mm)": 0.7896,
+      "Load (N)": 293.13999
+    },
+    {
+      "Time (sec)": 9.6,
+      "Extension (mm)": 0.7979,
+      "Load (N)": 297.17001
+    },
+    {
+      "Time (sec)": 9.7,
+      "Extension (mm)": 0.8062,
+      "Load (N)": 302.0
+    },
+    {
+      "Time (sec)": 9.8,
+      "Extension (mm)": 0.8146,
+      "Load (N)": 306.02999
+    },
+    {
+      "Time (sec)": 9.9,
+      "Extension (mm)": 0.8229,
+      "Load (N)": 310.86001
+    },
+    {
+      "Time (sec)": 10.0,
+      "Extension (mm)": 0.8312,
+      "Load (N)": 314.89
+    },
+    {
+      "Time (sec)": 10.1,
+      "Extension (mm)": 0.8396,
+      "Load (N)": 319.72001
+    },
+    {
+      "Time (sec)": 10.2,
+      "Extension (mm)": 0.8479,
+      "Load (N)": 324.55
+    },
+    {
+      "Time (sec)": 10.3,
+      "Extension (mm)": 0.8563,
+      "Load (N)": 328.57999
+    },
+    {
+      "Time (sec)": 10.4,
+      "Extension (mm)": 0.8646,
+      "Load (N)": 332.61001
+    },
+    {
+      "Time (sec)": 10.5,
+      "Extension (mm)": 0.8729,
+      "Load (N)": 337.44
+    },
+    {
+      "Time (sec)": 10.6,
+      "Extension (mm)": 0.8812,
+      "Load (N)": 341.45999
+    },
+    {
+      "Time (sec)": 10.7,
+      "Extension (mm)": 0.8896,
+      "Load (N)": 346.30001
+    },
+    {
+      "Time (sec)": 10.8,
+      "Extension (mm)": 0.8979,
+      "Load (N)": 350.31999
+    },
+    {
+      "Time (sec)": 10.9,
+      "Extension (mm)": 0.9062,
+      "Load (N)": 355.16001
+    },
+    {
+      "Time (sec)": 11.0,
+      "Extension (mm)": 0.9146,
+      "Load (N)": 358.38
+    },
+    {
+      "Time (sec)": 11.1,
+      "Extension (mm)": 0.9229,
+      "Load (N)": 363.20999
+    },
+    {
+      "Time (sec)": 11.2,
+      "Extension (mm)": 0.9313,
+      "Load (N)": 367.24001
+    },
+    {
+      "Time (sec)": 11.3,
+      "Extension (mm)": 0.9396,
+      "Load (N)": 371.26
+    },
+    {
+      "Time (sec)": 11.4,
+      "Extension (mm)": 0.9479,
+      "Load (N)": 376.08999
+    },
+    {
+      "Time (sec)": 11.5,
+      "Extension (mm)": 0.9562,
+      "Load (N)": 380.12001
+    },
+    {
+      "Time (sec)": 11.6,
+      "Extension (mm)": 0.9646,
+      "Load (N)": 383.34
+    },
+    {
+      "Time (sec)": 11.7,
+      "Extension (mm)": 0.9729,
+      "Load (N)": 388.16999
+    },
+    {
+      "Time (sec)": 11.8,
+      "Extension (mm)": 0.9812,
+      "Load (N)": 392.20001
+    },
+    {
+      "Time (sec)": 11.9,
+      "Extension (mm)": 0.9895,
+      "Load (N)": 396.23
+    },
+    {
+      "Time (sec)": 12.0,
+      "Extension (mm)": 0.9979,
+      "Load (N)": 400.25001
+    },
+    {
+      "Time (sec)": 12.1,
+      "Extension (mm)": 1.0063,
+      "Load (N)": 404.28001
+    },
+    {
+      "Time (sec)": 12.2,
+      "Extension (mm)": 1.0146,
+      "Load (N)": 408.31
+    },
+    {
+      "Time (sec)": 12.3,
+      "Extension (mm)": 1.0229,
+      "Load (N)": 412.33999
+    },
+    {
+      "Time (sec)": 12.4,
+      "Extension (mm)": 1.0312,
+      "Load (N)": 415.56001
+    },
+    {
+      "Time (sec)": 12.5,
+      "Extension (mm)": 1.0396,
+      "Load (N)": 419.58
+    },
+    {
+      "Time (sec)": 12.6,
+      "Extension (mm)": 1.0479,
+      "Load (N)": 423.60999
+    },
+    {
+      "Time (sec)": 12.7,
+      "Extension (mm)": 1.0562,
+      "Load (N)": 427.64001
+    },
+    {
+      "Time (sec)": 12.8,
+      "Extension (mm)": 1.0645,
+      "Load (N)": 430.86
+    },
+    {
+      "Time (sec)": 12.9,
+      "Extension (mm)": 1.0729,
+      "Load (N)": 434.88999
+    },
+    {
+      "Time (sec)": 13.0,
+      "Extension (mm)": 1.0813,
+      "Load (N)": 438.11001
+    },
+    {
+      "Time (sec)": 13.1,
+      "Extension (mm)": 1.0896,
+      "Load (N)": 442.13
+    },
+    {
+      "Time (sec)": 13.2,
+      "Extension (mm)": 1.0979,
+      "Load (N)": 446.15999
+    },
+    {
+      "Time (sec)": 13.3,
+      "Extension (mm)": 1.1062,
+      "Load (N)": 449.38001
+    },
+    {
+      "Time (sec)": 13.4,
+      "Extension (mm)": 1.1146,
+      "Load (N)": 453.41
+    },
+    {
+      "Time (sec)": 13.5,
+      "Extension (mm)": 1.1229,
+      "Load (N)": 456.62999
+    },
+    {
+      "Time (sec)": 13.6,
+      "Extension (mm)": 1.1312,
+      "Load (N)": 459.85001
+    },
+    {
+      "Time (sec)": 13.7,
+      "Extension (mm)": 1.1395,
+      "Load (N)": 463.07
+    },
+    {
+      "Time (sec)": 13.8,
+      "Extension (mm)": 1.1479,
+      "Load (N)": 467.09999
+    },
+    {
+      "Time (sec)": 13.9,
+      "Extension (mm)": 1.1563,
+      "Load (N)": 470.31999
+    },
+    {
+      "Time (sec)": 14.0,
+      "Extension (mm)": 1.1646,
+      "Load (N)": 473.53998
+    },
+    {
+      "Time (sec)": 14.1,
+      "Extension (mm)": 1.1729,
+      "Load (N)": 476.76003
+    },
+    {
+      "Time (sec)": 14.2,
+      "Extension (mm)": 1.1812,
+      "Load (N)": 480.78999
+    },
+    {
+      "Time (sec)": 14.3,
+      "Extension (mm)": 1.1896,
+      "Load (N)": 483.21001
+    },
+    {
+      "Time (sec)": 14.4,
+      "Extension (mm)": 1.1979,
+      "Load (N)": 487.22997
+    },
+    {
+      "Time (sec)": 14.5,
+      "Extension (mm)": 1.2062,
+      "Load (N)": 489.65
+    },
+    {
+      "Time (sec)": 14.6,
+      "Extension (mm)": 1.2145,
+      "Load (N)": 493.68002
+    },
+    {
+      "Time (sec)": 14.7,
+      "Extension (mm)": 1.2229,
+      "Load (N)": 496.08998
+    },
+    {
+      "Time (sec)": 14.8,
+      "Extension (mm)": 1.2313,
+      "Load (N)": 499.31003
+    },
+    {
+      "Time (sec)": 14.9,
+      "Extension (mm)": 1.2396,
+      "Load (N)": 502.53002
+    },
+    {
+      "Time (sec)": 15.0,
+      "Extension (mm)": 1.2479,
+      "Load (N)": 505.76001
+    },
+    {
+      "Time (sec)": 15.1,
+      "Extension (mm)": 1.2562,
+      "Load (N)": 508.16998
+    },
+    {
+      "Time (sec)": 15.2,
+      "Extension (mm)": 1.2646,
+      "Load (N)": 511.39003
+    },
+    {
+      "Time (sec)": 15.3,
+      "Extension (mm)": 1.2729,
+      "Load (N)": 514.61002
+    },
+    {
+      "Time (sec)": 15.4,
+      "Extension (mm)": 1.2812,
+      "Load (N)": 517.02999
+    },
+    {
+      "Time (sec)": 15.5,
+      "Extension (mm)": 1.2895,
+      "Load (N)": 519.45001
+    },
+    {
+      "Time (sec)": 15.6,
+      "Extension (mm)": 1.2979,
+      "Load (N)": 522.67
+    },
+    {
+      "Time (sec)": 15.7,
+      "Extension (mm)": 1.3063,
+      "Load (N)": 525.08002
+    },
+    {
+      "Time (sec)": 15.8,
+      "Extension (mm)": 1.3146,
+      "Load (N)": 528.31002
+    },
+    {
+      "Time (sec)": 15.9,
+      "Extension (mm)": 1.3229,
+      "Load (N)": 530.71998
+    },
+    {
+      "Time (sec)": 16.0,
+      "Extension (mm)": 1.3312,
+      "Load (N)": 533.14
+    },
+    {
+      "Time (sec)": 16.1,
+      "Extension (mm)": 1.3396,
+      "Load (N)": 535.55002
+    },
+    {
+      "Time (sec)": 16.2,
+      "Extension (mm)": 1.3479,
+      "Load (N)": 537.96999
+    },
+    {
+      "Time (sec)": 16.3,
+      "Extension (mm)": 1.3562,
+      "Load (N)": 540.39001
+    },
+    {
+      "Time (sec)": 16.4,
+      "Extension (mm)": 1.3645,
+      "Load (N)": 542.79998
+    },
+    {
+      "Time (sec)": 16.5,
+      "Extension (mm)": 1.3729,
+      "Load (N)": 544.40998
+    },
+    {
+      "Time (sec)": 16.6,
+      "Extension (mm)": 1.3813,
+      "Load (N)": 546.83
+    },
+    {
+      "Time (sec)": 16.7,
+      "Extension (mm)": 1.3896,
+      "Load (N)": 548.43999
+    },
+    {
+      "Time (sec)": 16.8,
+      "Extension (mm)": 1.3979,
+      "Load (N)": 550.86002
+    },
+    {
+      "Time (sec)": 16.9,
+      "Extension (mm)": 1.4062,
+      "Load (N)": 552.47001
+    },
+    {
+      "Time (sec)": 17.0,
+      "Extension (mm)": 1.4146,
+      "Load (N)": 554.08001
+    },
+    {
+      "Time (sec)": 17.1,
+      "Extension (mm)": 1.4229,
+      "Load (N)": 555.69001
+    },
+    {
+      "Time (sec)": 17.2,
+      "Extension (mm)": 1.4312,
+      "Load (N)": 557.3
+    },
+    {
+      "Time (sec)": 17.3,
+      "Extension (mm)": 1.4395,
+      "Load (N)": 558.91
+    },
+    {
+      "Time (sec)": 17.4,
+      "Extension (mm)": 1.4479,
+      "Load (N)": 560.51999
+    },
+    {
+      "Time (sec)": 17.5,
+      "Extension (mm)": 1.4563,
+      "Load (N)": 561.33002
+    },
+    {
+      "Time (sec)": 17.6,
+      "Extension (mm)": 1.4646,
+      "Load (N)": 562.12999
+    },
+    {
+      "Time (sec)": 17.7,
+      "Extension (mm)": 1.4729,
+      "Load (N)": 562.94002
+    },
+    {
+      "Time (sec)": 17.8,
+      "Extension (mm)": 1.4812,
+      "Load (N)": 564.55001
+    },
+    {
+      "Time (sec)": 17.9,
+      "Extension (mm)": 1.4896,
+      "Load (N)": 564.55001
+    },
+    {
+      "Time (sec)": 18.0,
+      "Extension (mm)": 1.4979,
+      "Load (N)": 565.34998
+    },
+    {
+      "Time (sec)": 18.1,
+      "Extension (mm)": 1.5062,
+      "Load (N)": 564.55001
+    },
+    {
+      "Time (sec)": 18.2,
+      "Extension (mm)": 1.5145,
+      "Load (N)": 564.55001
+    },
+    {
+      "Time (sec)": 18.3,
+      "Extension (mm)": 1.5229,
+      "Load (N)": 564.55001
+    },
+    {
+      "Time (sec)": 18.4,
+      "Extension (mm)": 1.5312,
+      "Load (N)": 563.73999
+    },
+    {
+      "Time (sec)": 18.5,
+      "Extension (mm)": 1.5396,
+      "Load (N)": 562.12999
+    },
+    {
+      "Time (sec)": 18.6,
+      "Extension (mm)": 1.5479,
+      "Load (N)": 560.51999
+    },
+    {
+      "Time (sec)": 18.7,
+      "Extension (mm)": 1.5562,
+      "Load (N)": 557.3
+    },
+    {
+      "Time (sec)": 18.8,
+      "Extension (mm)": 1.5646,
+      "Load (N)": 552.47001
+    }
+  ],
+  "0_7": [
+    {
+      "Time (sec)": 3.8,
+      "Extension (mm)": 0.3144,
+      "Load (N)": 28.99
+    },
+    {
+      "Time (sec)": 3.9,
+      "Extension (mm)": 0.3228,
+      "Load (N)": 33.82
+    },
+    {
+      "Time (sec)": 4.0,
+      "Extension (mm)": 0.3311,
+      "Load (N)": 38.65
+    },
+    {
+      "Time (sec)": 4.1,
+      "Extension (mm)": 0.3394,
+      "Load (N)": 42.68
+    },
+    {
+      "Time (sec)": 4.2,
+      "Extension (mm)": 0.3477,
+      "Load (N)": 48.32
+    },
+    {
+      "Time (sec)": 4.3,
+      "Extension (mm)": 0.3561,
+      "Load (N)": 52.34
+    },
+    {
+      "Time (sec)": 4.4,
+      "Extension (mm)": 0.3644,
+      "Load (N)": 57.17
+    },
+    {
+      "Time (sec)": 4.5,
+      "Extension (mm)": 0.3727,
+      "Load (N)": 62.01
+    },
+    {
+      "Time (sec)": 4.6,
+      "Extension (mm)": 0.3811,
+      "Load (N)": 66.84
+    },
+    {
+      "Time (sec)": 4.7,
+      "Extension (mm)": 0.3894,
+      "Load (N)": 71.67
+    },
+    {
+      "Time (sec)": 4.8,
+      "Extension (mm)": 0.3978,
+      "Load (N)": 76.5
+    },
+    {
+      "Time (sec)": 4.9,
+      "Extension (mm)": 0.4061,
+      "Load (N)": 81.34
+    },
+    {
+      "Time (sec)": 5.0,
+      "Extension (mm)": 0.4144,
+      "Load (N)": 86.17
+    },
+    {
+      "Time (sec)": 5.1,
+      "Extension (mm)": 0.4227,
+      "Load (N)": 91.0
+    },
+    {
+      "Time (sec)": 5.2,
+      "Extension (mm)": 0.4311,
+      "Load (N)": 95.03
+    },
+    {
+      "Time (sec)": 5.3,
+      "Extension (mm)": 0.4394,
+      "Load (N)": 100.66
+    },
+    {
+      "Time (sec)": 5.4,
+      "Extension (mm)": 0.4477,
+      "Load (N)": 105.5
+    },
+    {
+      "Time (sec)": 5.5,
+      "Extension (mm)": 0.4561,
+      "Load (N)": 110.33
+    },
+    {
+      "Time (sec)": 5.6,
+      "Extension (mm)": 0.4644,
+      "Load (N)": 115.16
+    },
+    {
+      "Time (sec)": 5.7,
+      "Extension (mm)": 0.4728,
+      "Load (N)": 119.99
+    },
+    {
+      "Time (sec)": 5.8,
+      "Extension (mm)": 0.4811,
+      "Load (N)": 124.82001
+    },
+    {
+      "Time (sec)": 5.9,
+      "Extension (mm)": 0.4894,
+      "Load (N)": 129.66
+    },
+    {
+      "Time (sec)": 6.0,
+      "Extension (mm)": 0.4977,
+      "Load (N)": 134.49
+    },
+    {
+      "Time (sec)": 6.1,
+      "Extension (mm)": 0.5061,
+      "Load (N)": 139.32
+    },
+    {
+      "Time (sec)": 6.2,
+      "Extension (mm)": 0.5144,
+      "Load (N)": 144.15
+    },
+    {
+      "Time (sec)": 6.3,
+      "Extension (mm)": 0.5227,
+      "Load (N)": 148.99001
+    },
+    {
+      "Time (sec)": 6.4,
+      "Extension (mm)": 0.5311,
+      "Load (N)": 153.81999
+    },
+    {
+      "Time (sec)": 6.5,
+      "Extension (mm)": 0.5394,
+      "Load (N)": 158.64999
+    },
+    {
+      "Time (sec)": 6.6,
+      "Extension (mm)": 0.5478,
+      "Load (N)": 163.48
+    },
+    {
+      "Time (sec)": 6.7,
+      "Extension (mm)": 0.5561,
+      "Load (N)": 168.31
+    },
+    {
+      "Time (sec)": 6.8,
+      "Extension (mm)": 0.5644,
+      "Load (N)": 173.15
+    },
+    {
+      "Time (sec)": 6.9,
+      "Extension (mm)": 0.5727,
+      "Load (N)": 178.78
+    },
+    {
+      "Time (sec)": 7.0,
+      "Extension (mm)": 0.5811,
+      "Load (N)": 183.62001
+    },
+    {
+      "Time (sec)": 7.1,
+      "Extension (mm)": 0.5894,
+      "Load (N)": 189.25
+    },
+    {
+      "Time (sec)": 7.2,
+      "Extension (mm)": 0.5977,
+      "Load (N)": 194.08001
+    },
+    {
+      "Time (sec)": 7.3,
+      "Extension (mm)": 0.6061,
+      "Load (N)": 198.92
+    },
+    {
+      "Time (sec)": 7.4,
+      "Extension (mm)": 0.6144,
+      "Load (N)": 203.75
+    },
+    {
+      "Time (sec)": 7.5,
+      "Extension (mm)": 0.6228,
+      "Load (N)": 208.58
+    },
+    {
+      "Time (sec)": 7.6,
+      "Extension (mm)": 0.6311,
+      "Load (N)": 214.22
+    },
+    {
+      "Time (sec)": 7.7,
+      "Extension (mm)": 0.6394,
+      "Load (N)": 219.05
+    },
+    {
+      "Time (sec)": 7.8,
+      "Extension (mm)": 0.6477,
+      "Load (N)": 224.69
+    },
+    {
+      "Time (sec)": 7.9,
+      "Extension (mm)": 0.6561,
+      "Load (N)": 229.52001
+    },
+    {
+      "Time (sec)": 8.0,
+      "Extension (mm)": 0.6644,
+      "Load (N)": 235.15999
+    },
+    {
+      "Time (sec)": 8.1,
+      "Extension (mm)": 0.6727,
+      "Load (N)": 240.80001
+    },
+    {
+      "Time (sec)": 8.2,
+      "Extension (mm)": 0.6811,
+      "Load (N)": 244.82
+    },
+    {
+      "Time (sec)": 8.3,
+      "Extension (mm)": 0.6894,
+      "Load (N)": 250.46001
+    },
+    {
+      "Time (sec)": 8.4,
+      "Extension (mm)": 0.6978,
+      "Load (N)": 255.29
+    },
+    {
+      "Time (sec)": 8.5,
+      "Extension (mm)": 0.7061,
+      "Load (N)": 260.92999
+    },
+    {
+      "Time (sec)": 8.6,
+      "Extension (mm)": 0.7144,
+      "Load (N)": 265.76
+    },
+    {
+      "Time (sec)": 8.7,
+      "Extension (mm)": 0.7227,
+      "Load (N)": 270.58999
+    },
+    {
+      "Time (sec)": 8.8,
+      "Extension (mm)": 0.7311,
+      "Load (N)": 276.23001
+    },
+    {
+      "Time (sec)": 8.9,
+      "Extension (mm)": 0.7394,
+      "Load (N)": 281.05999
+    },
+    {
+      "Time (sec)": 9.0,
+      "Extension (mm)": 0.7477,
+      "Load (N)": 285.89001
+    },
+    {
+      "Time (sec)": 9.1,
+      "Extension (mm)": 0.7561,
+      "Load (N)": 290.73
+    },
+    {
+      "Time (sec)": 9.2,
+      "Extension (mm)": 0.7644,
+      "Load (N)": 296.36001
+    },
+    {
+      "Time (sec)": 9.3,
+      "Extension (mm)": 0.7728,
+      "Load (N)": 300.39
+    },
+    {
+      "Time (sec)": 9.4,
+      "Extension (mm)": 0.7811,
+      "Load (N)": 305.21999
+    },
+    {
+      "Time (sec)": 9.5,
+      "Extension (mm)": 0.7894,
+      "Load (N)": 310.86001
+    },
+    {
+      "Time (sec)": 9.6,
+      "Extension (mm)": 0.7978,
+      "Load (N)": 315.68999
+    },
+    {
+      "Time (sec)": 9.7,
+      "Extension (mm)": 0.8061,
+      "Load (N)": 320.53001
+    },
+    {
+      "Time (sec)": 9.8,
+      "Extension (mm)": 0.8144,
+      "Load (N)": 325.36
+    },
+    {
+      "Time (sec)": 9.9,
+      "Extension (mm)": 0.8227,
+      "Load (N)": 330.18999
+    },
+    {
+      "Time (sec)": 10.0,
+      "Extension (mm)": 0.8311,
+      "Load (N)": 335.02
+    },
+    {
+      "Time (sec)": 10.1,
+      "Extension (mm)": 0.8394,
+      "Load (N)": 339.84999
+    },
+    {
+      "Time (sec)": 10.2,
+      "Extension (mm)": 0.8477,
+      "Load (N)": 344.69001
+    },
+    {
+      "Time (sec)": 10.3,
+      "Extension (mm)": 0.8561,
+      "Load (N)": 349.52
+    },
+    {
+      "Time (sec)": 10.4,
+      "Extension (mm)": 0.8644,
+      "Load (N)": 354.35001
+    },
+    {
+      "Time (sec)": 10.5,
+      "Extension (mm)": 0.8728,
+      "Load (N)": 358.38
+    },
+    {
+      "Time (sec)": 10.6,
+      "Extension (mm)": 0.8811,
+      "Load (N)": 363.20999
+    },
+    {
+      "Time (sec)": 10.7,
+      "Extension (mm)": 0.8894,
+      "Load (N)": 368.04001
+    },
+    {
+      "Time (sec)": 10.8,
+      "Extension (mm)": 0.8977,
+      "Load (N)": 372.07
+    },
+    {
+      "Time (sec)": 10.9,
+      "Extension (mm)": 0.9061,
+      "Load (N)": 376.89999
+    },
+    {
+      "Time (sec)": 11.0,
+      "Extension (mm)": 0.9144,
+      "Load (N)": 380.93001
+    },
+    {
+      "Time (sec)": 11.1,
+      "Extension (mm)": 0.9227,
+      "Load (N)": 385.75999
+    },
+    {
+      "Time (sec)": 11.2,
+      "Extension (mm)": 0.9311,
+      "Load (N)": 389.79001
+    },
+    {
+      "Time (sec)": 11.3,
+      "Extension (mm)": 0.9394,
+      "Load (N)": 394.62
+    },
+    {
+      "Time (sec)": 11.4,
+      "Extension (mm)": 0.9478,
+      "Load (N)": 398.63999
+    },
+    {
+      "Time (sec)": 11.5,
+      "Extension (mm)": 0.9561,
+      "Load (N)": 403.48001
+    },
+    {
+      "Time (sec)": 11.6,
+      "Extension (mm)": 0.9644,
+      "Load (N)": 407.5
+    },
+    {
+      "Time (sec)": 11.7,
+      "Extension (mm)": 0.9727,
+      "Load (N)": 411.52999
+    },
+    {
+      "Time (sec)": 11.8,
+      "Extension (mm)": 0.9811,
+      "Load (N)": 416.36
+    },
+    {
+      "Time (sec)": 11.9,
+      "Extension (mm)": 0.9894,
+      "Load (N)": 421.18999
+    },
+    {
+      "Time (sec)": 12.0,
+      "Extension (mm)": 0.9977,
+      "Load (N)": 424.41999
+    },
+    {
+      "Time (sec)": 12.1,
+      "Extension (mm)": 1.006,
+      "Load (N)": 428.44
+    },
+    {
+      "Time (sec)": 12.2,
+      "Extension (mm)": 1.0144,
+      "Load (N)": 432.46999
+    },
+    {
+      "Time (sec)": 12.3,
+      "Extension (mm)": 1.0228,
+      "Load (N)": 437.30001
+    },
+    {
+      "Time (sec)": 12.4,
+      "Extension (mm)": 1.0311,
+      "Load (N)": 441.33
+    },
+    {
+      "Time (sec)": 12.5,
+      "Extension (mm)": 1.0394,
+      "Load (N)": 445.34999
+    },
+    {
+      "Time (sec)": 12.6,
+      "Extension (mm)": 1.0477,
+      "Load (N)": 449.38001
+    },
+    {
+      "Time (sec)": 12.7,
+      "Extension (mm)": 1.0561,
+      "Load (N)": 452.6
+    },
+    {
+      "Time (sec)": 12.8,
+      "Extension (mm)": 1.0644,
+      "Load (N)": 456.62999
+    },
+    {
+      "Time (sec)": 12.9,
+      "Extension (mm)": 1.0727,
+      "Load (N)": 460.66001
+    },
+    {
+      "Time (sec)": 13.0,
+      "Extension (mm)": 1.081,
+      "Load (N)": 463.88
+    },
+    {
+      "Time (sec)": 13.1,
+      "Extension (mm)": 1.0894,
+      "Load (N)": 467.89999
+    },
+    {
+      "Time (sec)": 13.2,
+      "Extension (mm)": 1.0978,
+      "Load (N)": 471.92998
+    },
+    {
+      "Time (sec)": 13.3,
+      "Extension (mm)": 1.1061,
+      "Load (N)": 475.14997
+    },
+    {
+      "Time (sec)": 13.4,
+      "Extension (mm)": 1.1144,
+      "Load (N)": 479.17999
+    },
+    {
+      "Time (sec)": 13.5,
+      "Extension (mm)": 1.1227,
+      "Load (N)": 482.39999
+    },
+    {
+      "Time (sec)": 13.6,
+      "Extension (mm)": 1.1311,
+      "Load (N)": 486.43
+    },
+    {
+      "Time (sec)": 13.7,
+      "Extension (mm)": 1.1394,
+      "Load (N)": 489.65
+    },
+    {
+      "Time (sec)": 13.8,
+      "Extension (mm)": 1.1477,
+      "Load (N)": 492.86999
+    },
+    {
+      "Time (sec)": 13.9,
+      "Extension (mm)": 1.156,
+      "Load (N)": 496.90001
+    },
+    {
+      "Time (sec)": 14.0,
+      "Extension (mm)": 1.1644,
+      "Load (N)": 500.12
+    },
+    {
+      "Time (sec)": 14.1,
+      "Extension (mm)": 1.1728,
+      "Load (N)": 503.33999
+    },
+    {
+      "Time (sec)": 14.2,
+      "Extension (mm)": 1.1811,
+      "Load (N)": 506.55998
+    },
+    {
+      "Time (sec)": 14.3,
+      "Extension (mm)": 1.1894,
+      "Load (N)": 509.77997
+    },
+    {
+      "Time (sec)": 14.4,
+      "Extension (mm)": 1.1977,
+      "Load (N)": 512.2
+    },
+    {
+      "Time (sec)": 14.5,
+      "Extension (mm)": 1.2061,
+      "Load (N)": 515.41999
+    },
+    {
+      "Time (sec)": 14.6,
+      "Extension (mm)": 1.2144,
+      "Load (N)": 518.63998
+    },
+    {
+      "Time (sec)": 14.7,
+      "Extension (mm)": 1.2227,
+      "Load (N)": 521.85997
+    },
+    {
+      "Time (sec)": 14.8,
+      "Extension (mm)": 1.231,
+      "Load (N)": 524.28
+    },
+    {
+      "Time (sec)": 14.9,
+      "Extension (mm)": 1.2394,
+      "Load (N)": 527.49999
+    },
+    {
+      "Time (sec)": 15.0,
+      "Extension (mm)": 1.2478,
+      "Load (N)": 529.92001
+    },
+    {
+      "Time (sec)": 15.1,
+      "Extension (mm)": 1.2561,
+      "Load (N)": 532.32998
+    },
+    {
+      "Time (sec)": 15.2,
+      "Extension (mm)": 1.2644,
+      "Load (N)": 534.75
+    },
+    {
+      "Time (sec)": 15.3,
+      "Extension (mm)": 1.2727,
+      "Load (N)": 537.16002
+    },
+    {
+      "Time (sec)": 15.4,
+      "Extension (mm)": 1.2811,
+      "Load (N)": 538.78002
+    },
+    {
+      "Time (sec)": 15.5,
+      "Extension (mm)": 1.2894,
+      "Load (N)": 541.18998
+    },
+    {
+      "Time (sec)": 15.6,
+      "Extension (mm)": 1.2977,
+      "Load (N)": 542.79998
+    },
+    {
+      "Time (sec)": 15.7,
+      "Extension (mm)": 1.306,
+      "Load (N)": 545.22
+    },
+    {
+      "Time (sec)": 15.8,
+      "Extension (mm)": 1.3144,
+      "Load (N)": 546.02003
+    },
+    {
+      "Time (sec)": 15.9,
+      "Extension (mm)": 1.3228,
+      "Load (N)": 547.63002
+    },
+    {
+      "Time (sec)": 16.0,
+      "Extension (mm)": 1.3311,
+      "Load (N)": 549.25002
+    },
+    {
+      "Time (sec)": 16.1,
+      "Extension (mm)": 1.3394,
+      "Load (N)": 550.04999
+    },
+    {
+      "Time (sec)": 16.2,
+      "Extension (mm)": 1.3477,
+      "Load (N)": 550.86002
+    },
+    {
+      "Time (sec)": 16.3,
+      "Extension (mm)": 1.3561,
+      "Load (N)": 551.65999
+    },
+    {
+      "Time (sec)": 16.4,
+      "Extension (mm)": 1.3644,
+      "Load (N)": 551.65999
+    },
+    {
+      "Time (sec)": 16.5,
+      "Extension (mm)": 1.3727,
+      "Load (N)": 551.65999
+    },
+    {
+      "Time (sec)": 16.6,
+      "Extension (mm)": 1.381,
+      "Load (N)": 551.65999
+    },
+    {
+      "Time (sec)": 16.7,
+      "Extension (mm)": 1.3894,
+      "Load (N)": 550.86002
+    },
+    {
+      "Time (sec)": 16.8,
+      "Extension (mm)": 1.3978,
+      "Load (N)": 550.04999
+    },
+    {
+      "Time (sec)": 16.9,
+      "Extension (mm)": 1.4061,
+      "Load (N)": 549.25002
+    },
+    {
+      "Time (sec)": 17.0,
+      "Extension (mm)": 1.4144,
+      "Load (N)": 547.63002
+    },
+    {
+      "Time (sec)": 17.1,
+      "Extension (mm)": 1.4227,
+      "Load (N)": 546.02003
+    },
+    {
+      "Time (sec)": 17.2,
+      "Extension (mm)": 1.4311,
+      "Load (N)": 543.61001
+    },
+    {
+      "Time (sec)": 17.3,
+      "Extension (mm)": 1.4394,
+      "Load (N)": 540.39001
+    },
+    {
+      "Time (sec)": 17.4,
+      "Extension (mm)": 1.4477,
+      "Load (N)": 537.96999
+    },
+    {
+      "Time (sec)": 17.5,
+      "Extension (mm)": 1.456,
+      "Load (N)": 534.75
+    },
+    {
+      "Time (sec)": 17.6,
+      "Extension (mm)": 1.4644,
+      "Load (N)": 530.71998
+    },
+    {
+      "Time (sec)": 17.7,
+      "Extension (mm)": 1.4728,
+      "Load (N)": 525.88999
+    },
+    {
+      "Time (sec)": 17.8,
+      "Extension (mm)": 1.4811,
+      "Load (N)": 520.24998
+    },
+    {
+      "Time (sec)": 17.9,
+      "Extension (mm)": 1.4894,
+      "Load (N)": 513.80999
+    },
+    {
+      "Time (sec)": 18.0,
+      "Extension (mm)": 1.4977,
+      "Load (N)": 504.94999
+    }
+  ],
+  "0_8": [
+    {
+      "Time (sec)": 19.8,
+      "Extension (mm)": 1.6481,
+      "Load (N)": 20.93
+    },
+    {
+      "Time (sec)": 19.9,
+      "Extension (mm)": 1.6564,
+      "Load (N)": 24.96
+    },
+    {
+      "Time (sec)": 20.0,
+      "Extension (mm)": 1.6647,
+      "Load (N)": 28.18
+    },
+    {
+      "Time (sec)": 20.1,
+      "Extension (mm)": 1.673,
+      "Load (N)": 33.01
+    },
+    {
+      "Time (sec)": 20.2,
+      "Extension (mm)": 1.6814,
+      "Load (N)": 37.04
+    },
+    {
+      "Time (sec)": 20.3,
+      "Extension (mm)": 1.6897,
+      "Load (N)": 41.87
+    },
+    {
+      "Time (sec)": 20.4,
+      "Extension (mm)": 1.6981,
+      "Load (N)": 45.9
+    },
+    {
+      "Time (sec)": 20.5,
+      "Extension (mm)": 1.7064,
+      "Load (N)": 50.73
+    },
+    {
+      "Time (sec)": 20.6,
+      "Extension (mm)": 1.7147,
+      "Load (N)": 54.76
+    },
+    {
+      "Time (sec)": 20.7,
+      "Extension (mm)": 1.7231,
+      "Load (N)": 59.59
+    },
+    {
+      "Time (sec)": 20.8,
+      "Extension (mm)": 1.7314,
+      "Load (N)": 63.62
+    },
+    {
+      "Time (sec)": 20.9,
+      "Extension (mm)": 1.7397,
+      "Load (N)": 69.26
+    },
+    {
+      "Time (sec)": 21.0,
+      "Extension (mm)": 1.748,
+      "Load (N)": 73.28
+    },
+    {
+      "Time (sec)": 21.1,
+      "Extension (mm)": 1.7564,
+      "Load (N)": 77.31
+    },
+    {
+      "Time (sec)": 21.2,
+      "Extension (mm)": 1.7647,
+      "Load (N)": 82.14
+    },
+    {
+      "Time (sec)": 21.3,
+      "Extension (mm)": 1.7731,
+      "Load (N)": 86.97
+    },
+    {
+      "Time (sec)": 21.4,
+      "Extension (mm)": 1.7814,
+      "Load (N)": 91.81
+    },
+    {
+      "Time (sec)": 21.5,
+      "Extension (mm)": 1.7897,
+      "Load (N)": 96.64
+    },
+    {
+      "Time (sec)": 21.6,
+      "Extension (mm)": 1.7981,
+      "Load (N)": 101.47
+    },
+    {
+      "Time (sec)": 21.7,
+      "Extension (mm)": 1.8064,
+      "Load (N)": 105.5
+    },
+    {
+      "Time (sec)": 21.8,
+      "Extension (mm)": 1.8147,
+      "Load (N)": 110.33
+    },
+    {
+      "Time (sec)": 21.9,
+      "Extension (mm)": 1.823,
+      "Load (N)": 115.16
+    },
+    {
+      "Time (sec)": 22.0,
+      "Extension (mm)": 1.8314,
+      "Load (N)": 119.99
+    },
+    {
+      "Time (sec)": 22.1,
+      "Extension (mm)": 1.8397,
+      "Load (N)": 124.01999
+    },
+    {
+      "Time (sec)": 22.2,
+      "Extension (mm)": 1.8481,
+      "Load (N)": 128.85
+    },
+    {
+      "Time (sec)": 22.3,
+      "Extension (mm)": 1.8564,
+      "Load (N)": 133.68
+    },
+    {
+      "Time (sec)": 22.4,
+      "Extension (mm)": 1.8647,
+      "Load (N)": 138.52
+    },
+    {
+      "Time (sec)": 22.5,
+      "Extension (mm)": 1.8731,
+      "Load (N)": 142.54001
+    },
+    {
+      "Time (sec)": 22.6,
+      "Extension (mm)": 1.8814,
+      "Load (N)": 147.37001
+    },
+    {
+      "Time (sec)": 22.7,
+      "Extension (mm)": 1.8897,
+      "Load (N)": 152.21
+    },
+    {
+      "Time (sec)": 22.8,
+      "Extension (mm)": 1.898,
+      "Load (N)": 157.04
+    },
+    {
+      "Time (sec)": 22.9,
+      "Extension (mm)": 1.9064,
+      "Load (N)": 161.07
+    },
+    {
+      "Time (sec)": 23.0,
+      "Extension (mm)": 1.9147,
+      "Load (N)": 165.90001
+    },
+    {
+      "Time (sec)": 23.1,
+      "Extension (mm)": 1.9231,
+      "Load (N)": 170.72999
+    },
+    {
+      "Time (sec)": 23.2,
+      "Extension (mm)": 1.9314,
+      "Load (N)": 174.76
+    },
+    {
+      "Time (sec)": 23.3,
+      "Extension (mm)": 1.9397,
+      "Load (N)": 179.59
+    },
+    {
+      "Time (sec)": 23.4,
+      "Extension (mm)": 1.9481,
+      "Load (N)": 184.42
+    },
+    {
+      "Time (sec)": 23.5,
+      "Extension (mm)": 1.9564,
+      "Load (N)": 189.25
+    },
+    {
+      "Time (sec)": 23.6,
+      "Extension (mm)": 1.9647,
+      "Load (N)": 193.28
+    },
+    {
+      "Time (sec)": 23.7,
+      "Extension (mm)": 1.973,
+      "Load (N)": 198.11
+    },
+    {
+      "Time (sec)": 23.8,
+      "Extension (mm)": 1.9814,
+      "Load (N)": 202.94
+    },
+    {
+      "Time (sec)": 23.9,
+      "Extension (mm)": 1.9897,
+      "Load (N)": 207.78
+    },
+    {
+      "Time (sec)": 24.0,
+      "Extension (mm)": 1.9981,
+      "Load (N)": 211.80001
+    },
+    {
+      "Time (sec)": 24.1,
+      "Extension (mm)": 2.0064,
+      "Load (N)": 216.62999
+    },
+    {
+      "Time (sec)": 24.2,
+      "Extension (mm)": 2.0147,
+      "Load (N)": 221.47
+    },
+    {
+      "Time (sec)": 24.3,
+      "Extension (mm)": 2.0231,
+      "Load (N)": 225.49
+    },
+    {
+      "Time (sec)": 24.4,
+      "Extension (mm)": 2.0314,
+      "Load (N)": 230.33001
+    },
+    {
+      "Time (sec)": 24.5,
+      "Extension (mm)": 2.0397,
+      "Load (N)": 235.15999
+    },
+    {
+      "Time (sec)": 24.6,
+      "Extension (mm)": 2.048,
+      "Load (N)": 239.18001
+    },
+    {
+      "Time (sec)": 24.7,
+      "Extension (mm)": 2.0564,
+      "Load (N)": 244.02
+    },
+    {
+      "Time (sec)": 24.8,
+      "Extension (mm)": 2.0647,
+      "Load (N)": 248.84999
+    },
+    {
+      "Time (sec)": 24.9,
+      "Extension (mm)": 2.0731,
+      "Load (N)": 253.68
+    },
+    {
+      "Time (sec)": 25.0,
+      "Extension (mm)": 2.0814,
+      "Load (N)": 257.70999
+    },
+    {
+      "Time (sec)": 25.1,
+      "Extension (mm)": 2.0897,
+      "Load (N)": 262.54001
+    },
+    {
+      "Time (sec)": 25.2,
+      "Extension (mm)": 2.0981,
+      "Load (N)": 266.57
+    },
+    {
+      "Time (sec)": 25.3,
+      "Extension (mm)": 2.1064,
+      "Load (N)": 270.58999
+    },
+    {
+      "Time (sec)": 25.4,
+      "Extension (mm)": 2.1147,
+      "Load (N)": 275.43001
+    },
+    {
+      "Time (sec)": 25.5,
+      "Extension (mm)": 2.123,
+      "Load (N)": 279.45
+    },
+    {
+      "Time (sec)": 25.6,
+      "Extension (mm)": 2.1314,
+      "Load (N)": 284.28001
+    },
+    {
+      "Time (sec)": 25.7,
+      "Extension (mm)": 2.1397,
+      "Load (N)": 288.31
+    },
+    {
+      "Time (sec)": 25.8,
+      "Extension (mm)": 2.1481,
+      "Load (N)": 293.13999
+    },
+    {
+      "Time (sec)": 25.9,
+      "Extension (mm)": 2.1564,
+      "Load (N)": 297.17001
+    },
+    {
+      "Time (sec)": 26.0,
+      "Extension (mm)": 2.1647,
+      "Load (N)": 301.2
+    },
+    {
+      "Time (sec)": 26.1,
+      "Extension (mm)": 2.1731,
+      "Load (N)": 306.02999
+    },
+    {
+      "Time (sec)": 26.2,
+      "Extension (mm)": 2.1814,
+      "Load (N)": 310.06001
+    },
+    {
+      "Time (sec)": 26.3,
+      "Extension (mm)": 2.1897,
+      "Load (N)": 314.08
+    },
+    {
+      "Time (sec)": 26.4,
+      "Extension (mm)": 2.198,
+      "Load (N)": 318.91001
+    },
+    {
+      "Time (sec)": 26.5,
+      "Extension (mm)": 2.2064,
+      "Load (N)": 323.75
+    },
+    {
+      "Time (sec)": 26.6,
+      "Extension (mm)": 2.2147,
+      "Load (N)": 327.76999
+    },
+    {
+      "Time (sec)": 26.7,
+      "Extension (mm)": 2.2231,
+      "Load (N)": 332.61001
+    },
+    {
+      "Time (sec)": 26.8,
+      "Extension (mm)": 2.2314,
+      "Load (N)": 336.63
+    },
+    {
+      "Time (sec)": 26.9,
+      "Extension (mm)": 2.2397,
+      "Load (N)": 340.65999
+    },
+    {
+      "Time (sec)": 27.0,
+      "Extension (mm)": 2.2481,
+      "Load (N)": 345.49001
+    },
+    {
+      "Time (sec)": 27.1,
+      "Extension (mm)": 2.2564,
+      "Load (N)": 350.31999
+    },
+    {
+      "Time (sec)": 27.2,
+      "Extension (mm)": 2.2647,
+      "Load (N)": 354.35001
+    },
+    {
+      "Time (sec)": 27.3,
+      "Extension (mm)": 2.273,
+      "Load (N)": 358.38
+    },
+    {
+      "Time (sec)": 27.4,
+      "Extension (mm)": 2.2814,
+      "Load (N)": 363.20999
+    },
+    {
+      "Time (sec)": 27.5,
+      "Extension (mm)": 2.2897,
+      "Load (N)": 367.24001
+    },
+    {
+      "Time (sec)": 27.6,
+      "Extension (mm)": 2.298,
+      "Load (N)": 371.26
+    },
+    {
+      "Time (sec)": 27.7,
+      "Extension (mm)": 2.3064,
+      "Load (N)": 376.08999
+    },
+    {
+      "Time (sec)": 27.8,
+      "Extension (mm)": 2.3147,
+      "Load (N)": 380.12001
+    },
+    {
+      "Time (sec)": 27.9,
+      "Extension (mm)": 2.3231,
+      "Load (N)": 384.95
+    },
+    {
+      "Time (sec)": 28.0,
+      "Extension (mm)": 2.3314,
+      "Load (N)": 388.97999
+    },
+    {
+      "Time (sec)": 28.1,
+      "Extension (mm)": 2.3397,
+      "Load (N)": 393.01001
+    },
+    {
+      "Time (sec)": 28.2,
+      "Extension (mm)": 2.348,
+      "Load (N)": 397.83999
+    },
+    {
+      "Time (sec)": 28.3,
+      "Extension (mm)": 2.3564,
+      "Load (N)": 401.87001
+    },
+    {
+      "Time (sec)": 28.4,
+      "Extension (mm)": 2.3647,
+      "Load (N)": 405.89
+    },
+    {
+      "Time (sec)": 28.5,
+      "Extension (mm)": 2.373,
+      "Load (N)": 409.91999
+    },
+    {
+      "Time (sec)": 28.6,
+      "Extension (mm)": 2.3814,
+      "Load (N)": 413.95001
+    },
+    {
+      "Time (sec)": 28.7,
+      "Extension (mm)": 2.3897,
+      "Load (N)": 418.78
+    },
+    {
+      "Time (sec)": 28.8,
+      "Extension (mm)": 2.3981,
+      "Load (N)": 422.79999
+    },
+    {
+      "Time (sec)": 28.9,
+      "Extension (mm)": 2.4064,
+      "Load (N)": 426.83001
+    },
+    {
+      "Time (sec)": 29.0,
+      "Extension (mm)": 2.4147,
+      "Load (N)": 430.86
+    },
+    {
+      "Time (sec)": 29.1,
+      "Extension (mm)": 2.423,
+      "Load (N)": 434.88999
+    },
+    {
+      "Time (sec)": 29.2,
+      "Extension (mm)": 2.4314,
+      "Load (N)": 438.91001
+    },
+    {
+      "Time (sec)": 29.3,
+      "Extension (mm)": 2.4397,
+      "Load (N)": 442.94
+    },
+    {
+      "Time (sec)": 29.4,
+      "Extension (mm)": 2.448,
+      "Load (N)": 447.77001
+    },
+    {
+      "Time (sec)": 29.5,
+      "Extension (mm)": 2.4564,
+      "Load (N)": 451.8
+    },
+    {
+      "Time (sec)": 29.6,
+      "Extension (mm)": 2.4647,
+      "Load (N)": 455.02
+    },
+    {
+      "Time (sec)": 29.7,
+      "Extension (mm)": 2.4731,
+      "Load (N)": 459.04999
+    },
+    {
+      "Time (sec)": 29.8,
+      "Extension (mm)": 2.4814,
+      "Load (N)": 463.07
+    },
+    {
+      "Time (sec)": 29.9,
+      "Extension (mm)": 2.4897,
+      "Load (N)": 466.29
+    },
+    {
+      "Time (sec)": 30.0,
+      "Extension (mm)": 2.498,
+      "Load (N)": 470.31999
+    },
+    {
+      "Time (sec)": 30.1,
+      "Extension (mm)": 2.5064,
+      "Load (N)": 475.14997
+    },
+    {
+      "Time (sec)": 30.2,
+      "Extension (mm)": 2.5147,
+      "Load (N)": 478.37002
+    },
+    {
+      "Time (sec)": 30.3,
+      "Extension (mm)": 2.523,
+      "Load (N)": 482.39999
+    },
+    {
+      "Time (sec)": 30.4,
+      "Extension (mm)": 2.5314,
+      "Load (N)": 485.61998
+    },
+    {
+      "Time (sec)": 30.5,
+      "Extension (mm)": 2.5397,
+      "Load (N)": 489.65
+    },
+    {
+      "Time (sec)": 30.6,
+      "Extension (mm)": 2.5481,
+      "Load (N)": 493.68002
+    },
+    {
+      "Time (sec)": 30.7,
+      "Extension (mm)": 2.5564,
+      "Load (N)": 497.69998
+    },
+    {
+      "Time (sec)": 30.8,
+      "Extension (mm)": 2.5647,
+      "Load (N)": 500.92002
+    },
+    {
+      "Time (sec)": 30.9,
+      "Extension (mm)": 2.573,
+      "Load (N)": 504.15002
+    },
+    {
+      "Time (sec)": 31.0,
+      "Extension (mm)": 2.5814,
+      "Load (N)": 508.16998
+    },
+    {
+      "Time (sec)": 31.1,
+      "Extension (mm)": 2.5897,
+      "Load (N)": 512.2
+    },
+    {
+      "Time (sec)": 31.2,
+      "Extension (mm)": 2.598,
+      "Load (N)": 515.41999
+    },
+    {
+      "Time (sec)": 31.3,
+      "Extension (mm)": 2.6064,
+      "Load (N)": 518.63998
+    },
+    {
+      "Time (sec)": 31.4,
+      "Extension (mm)": 2.6147,
+      "Load (N)": 521.85997
+    },
+    {
+      "Time (sec)": 31.5,
+      "Extension (mm)": 2.6231,
+      "Load (N)": 525.88999
+    },
+    {
+      "Time (sec)": 31.6,
+      "Extension (mm)": 2.6314,
+      "Load (N)": 529.10998
+    },
+    {
+      "Time (sec)": 31.7,
+      "Extension (mm)": 2.6397,
+      "Load (N)": 532.32998
+    },
+    {
+      "Time (sec)": 31.8,
+      "Extension (mm)": 2.648,
+      "Load (N)": 535.55002
+    },
+    {
+      "Time (sec)": 31.9,
+      "Extension (mm)": 2.6564,
+      "Load (N)": 538.78002
+    },
+    {
+      "Time (sec)": 32.0,
+      "Extension (mm)": 2.6647,
+      "Load (N)": 542.00001
+    },
+    {
+      "Time (sec)": 32.1,
+      "Extension (mm)": 2.673,
+      "Load (N)": 546.02003
+    },
+    {
+      "Time (sec)": 32.2,
+      "Extension (mm)": 2.6814,
+      "Load (N)": 548.43999
+    },
+    {
+      "Time (sec)": 32.3,
+      "Extension (mm)": 2.6897,
+      "Load (N)": 551.65999
+    },
+    {
+      "Time (sec)": 32.4,
+      "Extension (mm)": 2.6981,
+      "Load (N)": 554.87998
+    },
+    {
+      "Time (sec)": 32.5,
+      "Extension (mm)": 2.7064,
+      "Load (N)": 558.10003
+    },
+    {
+      "Time (sec)": 32.6,
+      "Extension (mm)": 2.7147,
+      "Load (N)": 561.33002
+    },
+    {
+      "Time (sec)": 32.7,
+      "Extension (mm)": 2.723,
+      "Load (N)": 564.55001
+    },
+    {
+      "Time (sec)": 32.8,
+      "Extension (mm)": 2.7314,
+      "Load (N)": 566.95998
+    },
+    {
+      "Time (sec)": 32.9,
+      "Extension (mm)": 2.7397,
+      "Load (N)": 570.18002
+    },
+    {
+      "Time (sec)": 33.0,
+      "Extension (mm)": 2.748,
+      "Load (N)": 572.59999
+    },
+    {
+      "Time (sec)": 33.1,
+      "Extension (mm)": 2.7564,
+      "Load (N)": 575.81998
+    },
+    {
+      "Time (sec)": 33.2,
+      "Extension (mm)": 2.7647,
+      "Load (N)": 579.03998
+    },
+    {
+      "Time (sec)": 33.3,
+      "Extension (mm)": 2.7731,
+      "Load (N)": 581.46
+    },
+    {
+      "Time (sec)": 33.4,
+      "Extension (mm)": 2.7814,
+      "Load (N)": 584.67999
+    },
+    {
+      "Time (sec)": 33.5,
+      "Extension (mm)": 2.7897,
+      "Load (N)": 587.10001
+    },
+    {
+      "Time (sec)": 33.6,
+      "Extension (mm)": 2.798,
+      "Load (N)": 589.50998
+    },
+    {
+      "Time (sec)": 33.7,
+      "Extension (mm)": 2.8064,
+      "Load (N)": 591.93
+    },
+    {
+      "Time (sec)": 33.8,
+      "Extension (mm)": 2.8147,
+      "Load (N)": 595.14999
+    },
+    {
+      "Time (sec)": 33.9,
+      "Extension (mm)": 2.823,
+      "Load (N)": 596.75999
+    },
+    {
+      "Time (sec)": 34.0,
+      "Extension (mm)": 2.8314,
+      "Load (N)": 599.18001
+    },
+    {
+      "Time (sec)": 34.1,
+      "Extension (mm)": 2.8397,
+      "Load (N)": 601.58998
+    },
+    {
+      "Time (sec)": 34.2,
+      "Extension (mm)": 2.8481,
+      "Load (N)": 604.01
+    },
+    {
+      "Time (sec)": 34.3,
+      "Extension (mm)": 2.8564,
+      "Load (N)": 606.43002
+    },
+    {
+      "Time (sec)": 34.4,
+      "Extension (mm)": 2.8647,
+      "Load (N)": 608.04002
+    },
+    {
+      "Time (sec)": 34.5,
+      "Extension (mm)": 2.873,
+      "Load (N)": 610.44998
+    },
+    {
+      "Time (sec)": 34.6,
+      "Extension (mm)": 2.8814,
+      "Load (N)": 612.05998
+    },
+    {
+      "Time (sec)": 34.7,
+      "Extension (mm)": 2.8897,
+      "Load (N)": 613.66998
+    },
+    {
+      "Time (sec)": 34.8,
+      "Extension (mm)": 2.898,
+      "Load (N)": 615.27997
+    },
+    {
+      "Time (sec)": 34.9,
+      "Extension (mm)": 2.9064,
+      "Load (N)": 616.89002
+    },
+    {
+      "Time (sec)": 35.0,
+      "Extension (mm)": 2.9147,
+      "Load (N)": 618.51002
+    },
+    {
+      "Time (sec)": 35.1,
+      "Extension (mm)": 2.9231,
+      "Load (N)": 619.30999
+    },
+    {
+      "Time (sec)": 35.2,
+      "Extension (mm)": 2.9314,
+      "Load (N)": 620.12002
+    },
+    {
+      "Time (sec)": 35.3,
+      "Extension (mm)": 2.9397,
+      "Load (N)": 620.91999
+    },
+    {
+      "Time (sec)": 35.4,
+      "Extension (mm)": 2.948,
+      "Load (N)": 621.73001
+    },
+    {
+      "Time (sec)": 35.5,
+      "Extension (mm)": 2.9564,
+      "Load (N)": 621.73001
+    },
+    {
+      "Time (sec)": 35.6,
+      "Extension (mm)": 2.9647,
+      "Load (N)": 620.91999
+    },
+    {
+      "Time (sec)": 35.7,
+      "Extension (mm)": 2.973,
+      "Load (N)": 620.12002
+    },
+    {
+      "Time (sec)": 35.8,
+      "Extension (mm)": 2.9814,
+      "Load (N)": 617.7
+    },
+    {
+      "Time (sec)": 35.9,
+      "Extension (mm)": 2.9897,
+      "Load (N)": 613.66998
+    }
+  ],
+  "0_9": [
+    {
+      "Time (sec)": 21.0,
+      "Extension (mm)": 1.9506,
+      "Load (N)": 16.1
+    },
+    {
+      "Time (sec)": 21.1,
+      "Extension (mm)": 1.959,
+      "Load (N)": 20.13
+    },
+    {
+      "Time (sec)": 21.2,
+      "Extension (mm)": 1.9673,
+      "Load (N)": 24.16
+    },
+    {
+      "Time (sec)": 21.3,
+      "Extension (mm)": 1.9757,
+      "Load (N)": 28.99
+    },
+    {
+      "Time (sec)": 21.4,
+      "Extension (mm)": 1.984,
+      "Load (N)": 33.01
+    },
+    {
+      "Time (sec)": 21.5,
+      "Extension (mm)": 1.9923,
+      "Load (N)": 37.04
+    },
+    {
+      "Time (sec)": 21.6,
+      "Extension (mm)": 2.0007,
+      "Load (N)": 41.87
+    },
+    {
+      "Time (sec)": 21.7,
+      "Extension (mm)": 2.009,
+      "Load (N)": 46.71
+    },
+    {
+      "Time (sec)": 21.8,
+      "Extension (mm)": 2.0173,
+      "Load (N)": 51.54
+    },
+    {
+      "Time (sec)": 21.9,
+      "Extension (mm)": 2.0256,
+      "Load (N)": 56.37
+    },
+    {
+      "Time (sec)": 22.0,
+      "Extension (mm)": 2.034,
+      "Load (N)": 61.2
+    },
+    {
+      "Time (sec)": 22.1,
+      "Extension (mm)": 2.0423,
+      "Load (N)": 66.03
+    },
+    {
+      "Time (sec)": 22.2,
+      "Extension (mm)": 2.0507,
+      "Load (N)": 70.87
+    },
+    {
+      "Time (sec)": 22.3,
+      "Extension (mm)": 2.059,
+      "Load (N)": 76.5
+    },
+    {
+      "Time (sec)": 22.4,
+      "Extension (mm)": 2.0673,
+      "Load (N)": 81.34
+    },
+    {
+      "Time (sec)": 22.5,
+      "Extension (mm)": 2.0757,
+      "Load (N)": 86.17
+    },
+    {
+      "Time (sec)": 22.6,
+      "Extension (mm)": 2.084,
+      "Load (N)": 91.81
+    },
+    {
+      "Time (sec)": 22.7,
+      "Extension (mm)": 2.0923,
+      "Load (N)": 96.64
+    },
+    {
+      "Time (sec)": 22.8,
+      "Extension (mm)": 2.1006,
+      "Load (N)": 101.47
+    },
+    {
+      "Time (sec)": 22.9,
+      "Extension (mm)": 2.109,
+      "Load (N)": 107.11
+    },
+    {
+      "Time (sec)": 23.0,
+      "Extension (mm)": 2.1173,
+      "Load (N)": 111.94
+    },
+    {
+      "Time (sec)": 23.1,
+      "Extension (mm)": 2.1257,
+      "Load (N)": 116.77
+    },
+    {
+      "Time (sec)": 23.2,
+      "Extension (mm)": 2.134,
+      "Load (N)": 121.6
+    },
+    {
+      "Time (sec)": 23.3,
+      "Extension (mm)": 2.1423,
+      "Load (N)": 127.24
+    },
+    {
+      "Time (sec)": 23.4,
+      "Extension (mm)": 2.1507,
+      "Load (N)": 132.07
+    },
+    {
+      "Time (sec)": 23.5,
+      "Extension (mm)": 2.159,
+      "Load (N)": 136.9
+    },
+    {
+      "Time (sec)": 23.6,
+      "Extension (mm)": 2.1673,
+      "Load (N)": 141.73999
+    },
+    {
+      "Time (sec)": 23.7,
+      "Extension (mm)": 2.1756,
+      "Load (N)": 147.37001
+    },
+    {
+      "Time (sec)": 23.8,
+      "Extension (mm)": 2.184,
+      "Load (N)": 152.21
+    },
+    {
+      "Time (sec)": 23.9,
+      "Extension (mm)": 2.1923,
+      "Load (N)": 157.04
+    },
+    {
+      "Time (sec)": 24.0,
+      "Extension (mm)": 2.2007,
+      "Load (N)": 161.87
+    },
+    {
+      "Time (sec)": 24.1,
+      "Extension (mm)": 2.209,
+      "Load (N)": 167.51
+    },
+    {
+      "Time (sec)": 24.2,
+      "Extension (mm)": 2.2173,
+      "Load (N)": 172.34
+    },
+    {
+      "Time (sec)": 24.3,
+      "Extension (mm)": 2.2257,
+      "Load (N)": 177.17001
+    },
+    {
+      "Time (sec)": 24.4,
+      "Extension (mm)": 2.234,
+      "Load (N)": 181.99999
+    },
+    {
+      "Time (sec)": 24.5,
+      "Extension (mm)": 2.2423,
+      "Load (N)": 187.63999
+    },
+    {
+      "Time (sec)": 24.6,
+      "Extension (mm)": 2.2506,
+      "Load (N)": 192.47
+    },
+    {
+      "Time (sec)": 24.7,
+      "Extension (mm)": 2.259,
+      "Load (N)": 197.31
+    },
+    {
+      "Time (sec)": 24.8,
+      "Extension (mm)": 2.2673,
+      "Load (N)": 202.94
+    },
+    {
+      "Time (sec)": 24.9,
+      "Extension (mm)": 2.2757,
+      "Load (N)": 207.78
+    },
+    {
+      "Time (sec)": 25.0,
+      "Extension (mm)": 2.284,
+      "Load (N)": 212.61001
+    },
+    {
+      "Time (sec)": 25.1,
+      "Extension (mm)": 2.2923,
+      "Load (N)": 217.43999
+    },
+    {
+      "Time (sec)": 25.2,
+      "Extension (mm)": 2.3007,
+      "Load (N)": 222.27
+    },
+    {
+      "Time (sec)": 25.3,
+      "Extension (mm)": 2.309,
+      "Load (N)": 227.1
+    },
+    {
+      "Time (sec)": 25.4,
+      "Extension (mm)": 2.3173,
+      "Load (N)": 232.74
+    },
+    {
+      "Time (sec)": 25.5,
+      "Extension (mm)": 2.3256,
+      "Load (N)": 237.57001
+    },
+    {
+      "Time (sec)": 25.6,
+      "Extension (mm)": 2.334,
+      "Load (N)": 242.41
+    },
+    {
+      "Time (sec)": 25.7,
+      "Extension (mm)": 2.3423,
+      "Load (N)": 247.23999
+    },
+    {
+      "Time (sec)": 25.8,
+      "Extension (mm)": 2.3507,
+      "Load (N)": 252.07001
+    },
+    {
+      "Time (sec)": 25.9,
+      "Extension (mm)": 2.359,
+      "Load (N)": 256.9
+    },
+    {
+      "Time (sec)": 26.0,
+      "Extension (mm)": 2.3673,
+      "Load (N)": 261.73001
+    },
+    {
+      "Time (sec)": 26.1,
+      "Extension (mm)": 2.3757,
+      "Load (N)": 266.57
+    },
+    {
+      "Time (sec)": 26.2,
+      "Extension (mm)": 2.384,
+      "Load (N)": 271.39999
+    },
+    {
+      "Time (sec)": 26.3,
+      "Extension (mm)": 2.3923,
+      "Load (N)": 276.23001
+    },
+    {
+      "Time (sec)": 26.4,
+      "Extension (mm)": 2.4006,
+      "Load (N)": 281.05999
+    },
+    {
+      "Time (sec)": 26.5,
+      "Extension (mm)": 2.409,
+      "Load (N)": 285.89001
+    },
+    {
+      "Time (sec)": 26.6,
+      "Extension (mm)": 2.4173,
+      "Load (N)": 290.73
+    },
+    {
+      "Time (sec)": 26.7,
+      "Extension (mm)": 2.4257,
+      "Load (N)": 295.55999
+    },
+    {
+      "Time (sec)": 26.8,
+      "Extension (mm)": 2.434,
+      "Load (N)": 301.2
+    },
+    {
+      "Time (sec)": 26.9,
+      "Extension (mm)": 2.4423,
+      "Load (N)": 305.21999
+    },
+    {
+      "Time (sec)": 27.0,
+      "Extension (mm)": 2.4507,
+      "Load (N)": 310.86001
+    },
+    {
+      "Time (sec)": 27.1,
+      "Extension (mm)": 2.459,
+      "Load (N)": 314.89
+    },
+    {
+      "Time (sec)": 27.2,
+      "Extension (mm)": 2.4673,
+      "Load (N)": 319.72001
+    },
+    {
+      "Time (sec)": 27.3,
+      "Extension (mm)": 2.4756,
+      "Load (N)": 324.55
+    },
+    {
+      "Time (sec)": 27.4,
+      "Extension (mm)": 2.484,
+      "Load (N)": 329.37999
+    },
+    {
+      "Time (sec)": 27.5,
+      "Extension (mm)": 2.4923,
+      "Load (N)": 334.22001
+    },
+    {
+      "Time (sec)": 27.6,
+      "Extension (mm)": 2.5007,
+      "Load (N)": 339.04999
+    },
+    {
+      "Time (sec)": 27.7,
+      "Extension (mm)": 2.509,
+      "Load (N)": 343.88001
+    },
+    {
+      "Time (sec)": 27.8,
+      "Extension (mm)": 2.5173,
+      "Load (N)": 348.71
+    },
+    {
+      "Time (sec)": 27.9,
+      "Extension (mm)": 2.5257,
+      "Load (N)": 352.73999
+    },
+    {
+      "Time (sec)": 28.0,
+      "Extension (mm)": 2.534,
+      "Load (N)": 357.57001
+    },
+    {
+      "Time (sec)": 28.1,
+      "Extension (mm)": 2.5423,
+      "Load (N)": 362.39999
+    },
+    {
+      "Time (sec)": 28.2,
+      "Extension (mm)": 2.5506,
+      "Load (N)": 366.43001
+    },
+    {
+      "Time (sec)": 28.3,
+      "Extension (mm)": 2.559,
+      "Load (N)": 371.26
+    },
+    {
+      "Time (sec)": 28.4,
+      "Extension (mm)": 2.5673,
+      "Load (N)": 375.28999
+    },
+    {
+      "Time (sec)": 28.5,
+      "Extension (mm)": 2.5756,
+      "Load (N)": 380.12001
+    },
+    {
+      "Time (sec)": 28.6,
+      "Extension (mm)": 2.584,
+      "Load (N)": 384.15
+    },
+    {
+      "Time (sec)": 28.7,
+      "Extension (mm)": 2.5923,
+      "Load (N)": 388.97999
+    },
+    {
+      "Time (sec)": 28.8,
+      "Extension (mm)": 2.6007,
+      "Load (N)": 393.81
+    },
+    {
+      "Time (sec)": 28.9,
+      "Extension (mm)": 2.609,
+      "Load (N)": 397.83999
+    },
+    {
+      "Time (sec)": 29.0,
+      "Extension (mm)": 2.6173,
+      "Load (N)": 401.87001
+    },
+    {
+      "Time (sec)": 29.1,
+      "Extension (mm)": 2.6256,
+      "Load (N)": 405.89
+    },
+    {
+      "Time (sec)": 29.2,
+      "Extension (mm)": 2.634,
+      "Load (N)": 409.91999
+    },
+    {
+      "Time (sec)": 29.3,
+      "Extension (mm)": 2.6423,
+      "Load (N)": 414.75001
+    },
+    {
+      "Time (sec)": 29.4,
+      "Extension (mm)": 2.6506,
+      "Load (N)": 418.78
+    },
+    {
+      "Time (sec)": 29.5,
+      "Extension (mm)": 2.659,
+      "Load (N)": 422.79999
+    },
+    {
+      "Time (sec)": 29.6,
+      "Extension (mm)": 2.6673,
+      "Load (N)": 426.83001
+    },
+    {
+      "Time (sec)": 29.7,
+      "Extension (mm)": 2.6757,
+      "Load (N)": 430.86
+    },
+    {
+      "Time (sec)": 29.8,
+      "Extension (mm)": 2.684,
+      "Load (N)": 434.88999
+    },
+    {
+      "Time (sec)": 29.9,
+      "Extension (mm)": 2.6923,
+      "Load (N)": 438.91001
+    },
+    {
+      "Time (sec)": 30.0,
+      "Extension (mm)": 2.7006,
+      "Load (N)": 442.94
+    },
+    {
+      "Time (sec)": 30.1,
+      "Extension (mm)": 2.709,
+      "Load (N)": 446.96999
+    },
+    {
+      "Time (sec)": 30.2,
+      "Extension (mm)": 2.7173,
+      "Load (N)": 450.19001
+    },
+    {
+      "Time (sec)": 30.3,
+      "Extension (mm)": 2.7256,
+      "Load (N)": 455.02
+    },
+    {
+      "Time (sec)": 30.4,
+      "Extension (mm)": 2.7339,
+      "Load (N)": 458.23999
+    },
+    {
+      "Time (sec)": 30.5,
+      "Extension (mm)": 2.7423,
+      "Load (N)": 461.46001
+    },
+    {
+      "Time (sec)": 30.6,
+      "Extension (mm)": 2.7507,
+      "Load (N)": 465.49
+    },
+    {
+      "Time (sec)": 30.7,
+      "Extension (mm)": 2.759,
+      "Load (N)": 468.70999
+    },
+    {
+      "Time (sec)": 30.8,
+      "Extension (mm)": 2.7673,
+      "Load (N)": 472.74001
+    },
+    {
+      "Time (sec)": 30.9,
+      "Extension (mm)": 2.7756,
+      "Load (N)": 475.96
+    },
+    {
+      "Time (sec)": 31.0,
+      "Extension (mm)": 2.784,
+      "Load (N)": 479.17999
+    },
+    {
+      "Time (sec)": 31.1,
+      "Extension (mm)": 2.7923,
+      "Load (N)": 482.39999
+    },
+    {
+      "Time (sec)": 31.2,
+      "Extension (mm)": 2.8006,
+      "Load (N)": 486.43
+    },
+    {
+      "Time (sec)": 31.3,
+      "Extension (mm)": 2.8089,
+      "Load (N)": 489.65
+    },
+    {
+      "Time (sec)": 31.4,
+      "Extension (mm)": 2.8173,
+      "Load (N)": 492.86999
+    },
+    {
+      "Time (sec)": 31.5,
+      "Extension (mm)": 2.8257,
+      "Load (N)": 496.08998
+    },
+    {
+      "Time (sec)": 31.6,
+      "Extension (mm)": 2.834,
+      "Load (N)": 499.31003
+    },
+    {
+      "Time (sec)": 31.7,
+      "Extension (mm)": 2.8423,
+      "Load (N)": 502.53002
+    },
+    {
+      "Time (sec)": 31.8,
+      "Extension (mm)": 2.8506,
+      "Load (N)": 505.76001
+    },
+    {
+      "Time (sec)": 31.9,
+      "Extension (mm)": 2.859,
+      "Load (N)": 508.98001
+    },
+    {
+      "Time (sec)": 32.0,
+      "Extension (mm)": 2.8673,
+      "Load (N)": 512.2
+    },
+    {
+      "Time (sec)": 32.1,
+      "Extension (mm)": 2.8756,
+      "Load (N)": 514.61002
+    },
+    {
+      "Time (sec)": 32.2,
+      "Extension (mm)": 2.8839,
+      "Load (N)": 517.84001
+    },
+    {
+      "Time (sec)": 32.3,
+      "Extension (mm)": 2.8923,
+      "Load (N)": 521.06
+    },
+    {
+      "Time (sec)": 32.4,
+      "Extension (mm)": 2.9007,
+      "Load (N)": 523.47003
+    },
+    {
+      "Time (sec)": 32.5,
+      "Extension (mm)": 2.909,
+      "Load (N)": 525.88999
+    },
+    {
+      "Time (sec)": 32.6,
+      "Extension (mm)": 2.9173,
+      "Load (N)": 529.10998
+    },
+    {
+      "Time (sec)": 32.7,
+      "Extension (mm)": 2.9256,
+      "Load (N)": 531.53001
+    },
+    {
+      "Time (sec)": 32.8,
+      "Extension (mm)": 2.934,
+      "Load (N)": 534.75
+    },
+    {
+      "Time (sec)": 32.9,
+      "Extension (mm)": 2.9423,
+      "Load (N)": 537.16002
+    },
+    {
+      "Time (sec)": 33.0,
+      "Extension (mm)": 2.9506,
+      "Load (N)": 538.78002
+    },
+    {
+      "Time (sec)": 33.1,
+      "Extension (mm)": 2.9589,
+      "Load (N)": 542.00001
+    },
+    {
+      "Time (sec)": 33.2,
+      "Extension (mm)": 2.9673,
+      "Load (N)": 544.40998
+    },
+    {
+      "Time (sec)": 33.3,
+      "Extension (mm)": 2.9757,
+      "Load (N)": 546.83
+    },
+    {
+      "Time (sec)": 33.4,
+      "Extension (mm)": 2.984,
+      "Load (N)": 549.25002
+    },
+    {
+      "Time (sec)": 33.5,
+      "Extension (mm)": 2.9923,
+      "Load (N)": 551.65999
+    },
+    {
+      "Time (sec)": 33.6,
+      "Extension (mm)": 3.0006,
+      "Load (N)": 553.26998
+    },
+    {
+      "Time (sec)": 33.7,
+      "Extension (mm)": 3.009,
+      "Load (N)": 555.69001
+    },
+    {
+      "Time (sec)": 33.8,
+      "Extension (mm)": 3.0173,
+      "Load (N)": 557.3
+    },
+    {
+      "Time (sec)": 33.9,
+      "Extension (mm)": 3.0256,
+      "Load (N)": 558.91
+    },
+    {
+      "Time (sec)": 34.0,
+      "Extension (mm)": 3.0339,
+      "Load (N)": 560.51999
+    },
+    {
+      "Time (sec)": 34.1,
+      "Extension (mm)": 3.0423,
+      "Load (N)": 562.12999
+    },
+    {
+      "Time (sec)": 34.2,
+      "Extension (mm)": 3.0507,
+      "Load (N)": 563.73999
+    },
+    {
+      "Time (sec)": 34.3,
+      "Extension (mm)": 3.059,
+      "Load (N)": 565.34998
+    },
+    {
+      "Time (sec)": 34.4,
+      "Extension (mm)": 3.0673,
+      "Load (N)": 566.95998
+    },
+    {
+      "Time (sec)": 34.5,
+      "Extension (mm)": 3.0756,
+      "Load (N)": 567.77
+    },
+    {
+      "Time (sec)": 34.6,
+      "Extension (mm)": 3.084,
+      "Load (N)": 568.56997
+    },
+    {
+      "Time (sec)": 34.7,
+      "Extension (mm)": 3.0923,
+      "Load (N)": 569.38
+    },
+    {
+      "Time (sec)": 34.8,
+      "Extension (mm)": 3.1006,
+      "Load (N)": 569.38
+    },
+    {
+      "Time (sec)": 34.9,
+      "Extension (mm)": 3.1089,
+      "Load (N)": 570.18002
+    },
+    {
+      "Time (sec)": 35.0,
+      "Extension (mm)": 3.1173,
+      "Load (N)": 570.18002
+    },
+    {
+      "Time (sec)": 35.1,
+      "Extension (mm)": 3.1257,
+      "Load (N)": 569.38
+    },
+    {
+      "Time (sec)": 35.2,
+      "Extension (mm)": 3.134,
+      "Load (N)": 568.56997
+    },
+    {
+      "Time (sec)": 35.3,
+      "Extension (mm)": 3.1423,
+      "Load (N)": 567.77
+    },
+    {
+      "Time (sec)": 35.4,
+      "Extension (mm)": 3.1506,
+      "Load (N)": 566.16001
+    },
+    {
+      "Time (sec)": 35.5,
+      "Extension (mm)": 3.159,
+      "Load (N)": 562.94002
+    }
+  ],
+  "0_10": [
+    {
+      "Time (sec)": 20.8,
+      "Extension (mm)": 1.7316,
+      "Load (N)": 15.3
+    },
+    {
+      "Time (sec)": 20.9,
+      "Extension (mm)": 1.7399,
+      "Load (N)": 19.32
+    },
+    {
+      "Time (sec)": 21.0,
+      "Extension (mm)": 1.7483,
+      "Load (N)": 24.16
+    },
+    {
+      "Time (sec)": 21.1,
+      "Extension (mm)": 1.7566,
+      "Load (N)": 28.99
+    },
+    {
+      "Time (sec)": 21.2,
+      "Extension (mm)": 1.7649,
+      "Load (N)": 34.63
+    },
+    {
+      "Time (sec)": 21.3,
+      "Extension (mm)": 1.7732,
+      "Load (N)": 38.65
+    },
+    {
+      "Time (sec)": 21.4,
+      "Extension (mm)": 1.7816,
+      "Load (N)": 44.29
+    },
+    {
+      "Time (sec)": 21.5,
+      "Extension (mm)": 1.7899,
+      "Load (N)": 49.12
+    },
+    {
+      "Time (sec)": 21.6,
+      "Extension (mm)": 1.7982,
+      "Load (N)": 54.76
+    },
+    {
+      "Time (sec)": 21.7,
+      "Extension (mm)": 1.8066,
+      "Load (N)": 59.59
+    },
+    {
+      "Time (sec)": 21.8,
+      "Extension (mm)": 1.8149,
+      "Load (N)": 65.23
+    },
+    {
+      "Time (sec)": 21.9,
+      "Extension (mm)": 1.8233,
+      "Load (N)": 70.06
+    },
+    {
+      "Time (sec)": 22.0,
+      "Extension (mm)": 1.8316,
+      "Load (N)": 74.89
+    },
+    {
+      "Time (sec)": 22.1,
+      "Extension (mm)": 1.8399,
+      "Load (N)": 79.72
+    },
+    {
+      "Time (sec)": 22.2,
+      "Extension (mm)": 1.8482,
+      "Load (N)": 84.56
+    },
+    {
+      "Time (sec)": 22.3,
+      "Extension (mm)": 1.8566,
+      "Load (N)": 90.19
+    },
+    {
+      "Time (sec)": 22.4,
+      "Extension (mm)": 1.8649,
+      "Load (N)": 95.03
+    },
+    {
+      "Time (sec)": 22.5,
+      "Extension (mm)": 1.8732,
+      "Load (N)": 100.66
+    },
+    {
+      "Time (sec)": 22.6,
+      "Extension (mm)": 1.8816,
+      "Load (N)": 105.5
+    },
+    {
+      "Time (sec)": 22.7,
+      "Extension (mm)": 1.8899,
+      "Load (N)": 110.33
+    },
+    {
+      "Time (sec)": 22.8,
+      "Extension (mm)": 1.8983,
+      "Load (N)": 115.16
+    },
+    {
+      "Time (sec)": 22.9,
+      "Extension (mm)": 1.9066,
+      "Load (N)": 119.99
+    },
+    {
+      "Time (sec)": 23.0,
+      "Extension (mm)": 1.9149,
+      "Load (N)": 125.63
+    },
+    {
+      "Time (sec)": 23.1,
+      "Extension (mm)": 1.9232,
+      "Load (N)": 130.46001
+    },
+    {
+      "Time (sec)": 23.2,
+      "Extension (mm)": 1.9316,
+      "Load (N)": 135.28999
+    },
+    {
+      "Time (sec)": 23.3,
+      "Extension (mm)": 1.9399,
+      "Load (N)": 140.93
+    },
+    {
+      "Time (sec)": 23.4,
+      "Extension (mm)": 1.9482,
+      "Load (N)": 144.96
+    },
+    {
+      "Time (sec)": 23.5,
+      "Extension (mm)": 1.9566,
+      "Load (N)": 150.6
+    },
+    {
+      "Time (sec)": 23.6,
+      "Extension (mm)": 1.9649,
+      "Load (N)": 155.43
+    },
+    {
+      "Time (sec)": 23.7,
+      "Extension (mm)": 1.9733,
+      "Load (N)": 160.26
+    },
+    {
+      "Time (sec)": 23.8,
+      "Extension (mm)": 1.9816,
+      "Load (N)": 165.09001
+    },
+    {
+      "Time (sec)": 23.9,
+      "Extension (mm)": 1.9899,
+      "Load (N)": 170.72999
+    },
+    {
+      "Time (sec)": 24.0,
+      "Extension (mm)": 1.9982,
+      "Load (N)": 175.56
+    },
+    {
+      "Time (sec)": 24.1,
+      "Extension (mm)": 2.0066,
+      "Load (N)": 179.59
+    },
+    {
+      "Time (sec)": 24.2,
+      "Extension (mm)": 2.0149,
+      "Load (N)": 184.42
+    },
+    {
+      "Time (sec)": 24.3,
+      "Extension (mm)": 2.0232,
+      "Load (N)": 190.06
+    },
+    {
+      "Time (sec)": 24.4,
+      "Extension (mm)": 2.0316,
+      "Load (N)": 194.89001
+    },
+    {
+      "Time (sec)": 24.5,
+      "Extension (mm)": 2.0399,
+      "Load (N)": 199.71999
+    },
+    {
+      "Time (sec)": 24.6,
+      "Extension (mm)": 2.0483,
+      "Load (N)": 203.75
+    },
+    {
+      "Time (sec)": 24.7,
+      "Extension (mm)": 2.0566,
+      "Load (N)": 208.58
+    },
+    {
+      "Time (sec)": 24.8,
+      "Extension (mm)": 2.0649,
+      "Load (N)": 213.41
+    },
+    {
+      "Time (sec)": 24.9,
+      "Extension (mm)": 2.0732,
+      "Load (N)": 218.25001
+    },
+    {
+      "Time (sec)": 25.0,
+      "Extension (mm)": 2.0816,
+      "Load (N)": 223.07999
+    },
+    {
+      "Time (sec)": 25.1,
+      "Extension (mm)": 2.0899,
+      "Load (N)": 227.91
+    },
+    {
+      "Time (sec)": 25.2,
+      "Extension (mm)": 2.0982,
+      "Load (N)": 232.74
+    },
+    {
+      "Time (sec)": 25.3,
+      "Extension (mm)": 2.1066,
+      "Load (N)": 237.57001
+    },
+    {
+      "Time (sec)": 25.4,
+      "Extension (mm)": 2.1149,
+      "Load (N)": 242.41
+    },
+    {
+      "Time (sec)": 25.5,
+      "Extension (mm)": 2.1233,
+      "Load (N)": 247.23999
+    },
+    {
+      "Time (sec)": 25.6,
+      "Extension (mm)": 2.1316,
+      "Load (N)": 252.07001
+    },
+    {
+      "Time (sec)": 25.7,
+      "Extension (mm)": 2.1399,
+      "Load (N)": 256.1
+    },
+    {
+      "Time (sec)": 25.8,
+      "Extension (mm)": 2.1482,
+      "Load (N)": 260.11999
+    },
+    {
+      "Time (sec)": 25.9,
+      "Extension (mm)": 2.1566,
+      "Load (N)": 264.96001
+    },
+    {
+      "Time (sec)": 26.0,
+      "Extension (mm)": 2.1649,
+      "Load (N)": 269.78999
+    },
+    {
+      "Time (sec)": 26.1,
+      "Extension (mm)": 2.1732,
+      "Load (N)": 274.62001
+    },
+    {
+      "Time (sec)": 26.2,
+      "Extension (mm)": 2.1816,
+      "Load (N)": 278.65
+    },
+    {
+      "Time (sec)": 26.3,
+      "Extension (mm)": 2.1899,
+      "Load (N)": 283.47999
+    },
+    {
+      "Time (sec)": 26.4,
+      "Extension (mm)": 2.1982,
+      "Load (N)": 288.31
+    },
+    {
+      "Time (sec)": 26.5,
+      "Extension (mm)": 2.2066,
+      "Load (N)": 292.34
+    },
+    {
+      "Time (sec)": 26.6,
+      "Extension (mm)": 2.2149,
+      "Load (N)": 297.17001
+    },
+    {
+      "Time (sec)": 26.7,
+      "Extension (mm)": 2.2232,
+      "Load (N)": 301.2
+    },
+    {
+      "Time (sec)": 26.8,
+      "Extension (mm)": 2.2316,
+      "Load (N)": 306.02999
+    },
+    {
+      "Time (sec)": 26.9,
+      "Extension (mm)": 2.2399,
+      "Load (N)": 310.06001
+    },
+    {
+      "Time (sec)": 27.0,
+      "Extension (mm)": 2.2482,
+      "Load (N)": 314.08
+    },
+    {
+      "Time (sec)": 27.1,
+      "Extension (mm)": 2.2566,
+      "Load (N)": 318.91001
+    },
+    {
+      "Time (sec)": 27.2,
+      "Extension (mm)": 2.2649,
+      "Load (N)": 322.94
+    },
+    {
+      "Time (sec)": 27.3,
+      "Extension (mm)": 2.2732,
+      "Load (N)": 327.76999
+    },
+    {
+      "Time (sec)": 27.4,
+      "Extension (mm)": 2.2815,
+      "Load (N)": 331.80001
+    },
+    {
+      "Time (sec)": 27.5,
+      "Extension (mm)": 2.2899,
+      "Load (N)": 336.63
+    },
+    {
+      "Time (sec)": 27.6,
+      "Extension (mm)": 2.2982,
+      "Load (N)": 340.65999
+    },
+    {
+      "Time (sec)": 27.7,
+      "Extension (mm)": 2.3066,
+      "Load (N)": 344.69001
+    },
+    {
+      "Time (sec)": 27.8,
+      "Extension (mm)": 2.3149,
+      "Load (N)": 348.71
+    },
+    {
+      "Time (sec)": 27.9,
+      "Extension (mm)": 2.3232,
+      "Load (N)": 353.53999
+    },
+    {
+      "Time (sec)": 28.0,
+      "Extension (mm)": 2.3316,
+      "Load (N)": 356.77001
+    },
+    {
+      "Time (sec)": 28.1,
+      "Extension (mm)": 2.3399,
+      "Load (N)": 361.6
+    },
+    {
+      "Time (sec)": 28.2,
+      "Extension (mm)": 2.3482,
+      "Load (N)": 365.62001
+    },
+    {
+      "Time (sec)": 28.3,
+      "Extension (mm)": 2.3565,
+      "Load (N)": 369.65
+    },
+    {
+      "Time (sec)": 28.4,
+      "Extension (mm)": 2.3649,
+      "Load (N)": 373.68
+    },
+    {
+      "Time (sec)": 28.5,
+      "Extension (mm)": 2.3732,
+      "Load (N)": 377.70999
+    },
+    {
+      "Time (sec)": 28.6,
+      "Extension (mm)": 2.3816,
+      "Load (N)": 381.73
+    },
+    {
+      "Time (sec)": 28.7,
+      "Extension (mm)": 2.3899,
+      "Load (N)": 385.75999
+    },
+    {
+      "Time (sec)": 28.8,
+      "Extension (mm)": 2.3982,
+      "Load (N)": 389.79001
+    },
+    {
+      "Time (sec)": 28.9,
+      "Extension (mm)": 2.4066,
+      "Load (N)": 393.81
+    },
+    {
+      "Time (sec)": 29.0,
+      "Extension (mm)": 2.4149,
+      "Load (N)": 397.83999
+    },
+    {
+      "Time (sec)": 29.1,
+      "Extension (mm)": 2.4232,
+      "Load (N)": 401.87001
+    },
+    {
+      "Time (sec)": 29.2,
+      "Extension (mm)": 2.4315,
+      "Load (N)": 405.89
+    },
+    {
+      "Time (sec)": 29.3,
+      "Extension (mm)": 2.4399,
+      "Load (N)": 409.10999
+    },
+    {
+      "Time (sec)": 29.4,
+      "Extension (mm)": 2.4482,
+      "Load (N)": 413.14001
+    },
+    {
+      "Time (sec)": 29.5,
+      "Extension (mm)": 2.4566,
+      "Load (N)": 416.36
+    },
+    {
+      "Time (sec)": 29.6,
+      "Extension (mm)": 2.4649,
+      "Load (N)": 420.38999
+    },
+    {
+      "Time (sec)": 29.7,
+      "Extension (mm)": 2.4732,
+      "Load (N)": 424.41999
+    },
+    {
+      "Time (sec)": 29.8,
+      "Extension (mm)": 2.4816,
+      "Load (N)": 427.64001
+    },
+    {
+      "Time (sec)": 29.9,
+      "Extension (mm)": 2.4899,
+      "Load (N)": 431.65999
+    },
+    {
+      "Time (sec)": 30.0,
+      "Extension (mm)": 2.4982,
+      "Load (N)": 434.88999
+    },
+    {
+      "Time (sec)": 30.1,
+      "Extension (mm)": 2.5065,
+      "Load (N)": 438.91001
+    },
+    {
+      "Time (sec)": 30.2,
+      "Extension (mm)": 2.5149,
+      "Load (N)": 442.13
+    },
+    {
+      "Time (sec)": 30.3,
+      "Extension (mm)": 2.5232,
+      "Load (N)": 446.15999
+    },
+    {
+      "Time (sec)": 30.4,
+      "Extension (mm)": 2.5316,
+      "Load (N)": 449.38001
+    },
+    {
+      "Time (sec)": 30.5,
+      "Extension (mm)": 2.5399,
+      "Load (N)": 452.6
+    },
+    {
+      "Time (sec)": 30.6,
+      "Extension (mm)": 2.5482,
+      "Load (N)": 456.62999
+    },
+    {
+      "Time (sec)": 30.7,
+      "Extension (mm)": 2.5566,
+      "Load (N)": 459.85001
+    },
+    {
+      "Time (sec)": 30.8,
+      "Extension (mm)": 2.5649,
+      "Load (N)": 463.07
+    },
+    {
+      "Time (sec)": 30.9,
+      "Extension (mm)": 2.5732,
+      "Load (N)": 467.09999
+    },
+    {
+      "Time (sec)": 31.0,
+      "Extension (mm)": 2.5815,
+      "Load (N)": 470.31999
+    },
+    {
+      "Time (sec)": 31.1,
+      "Extension (mm)": 2.5899,
+      "Load (N)": 473.53998
+    },
+    {
+      "Time (sec)": 31.2,
+      "Extension (mm)": 2.5982,
+      "Load (N)": 476.76003
+    },
+    {
+      "Time (sec)": 31.3,
+      "Extension (mm)": 2.6066,
+      "Load (N)": 479.98002
+    },
+    {
+      "Time (sec)": 31.4,
+      "Extension (mm)": 2.6149,
+      "Load (N)": 483.21001
+    },
+    {
+      "Time (sec)": 31.5,
+      "Extension (mm)": 2.6232,
+      "Load (N)": 486.43
+    },
+    {
+      "Time (sec)": 31.6,
+      "Extension (mm)": 2.6316,
+      "Load (N)": 489.65
+    },
+    {
+      "Time (sec)": 31.7,
+      "Extension (mm)": 2.6399,
+      "Load (N)": 492.07002
+    },
+    {
+      "Time (sec)": 31.8,
+      "Extension (mm)": 2.6482,
+      "Load (N)": 495.29001
+    },
+    {
+      "Time (sec)": 31.9,
+      "Extension (mm)": 2.6565,
+      "Load (N)": 497.69998
+    },
+    {
+      "Time (sec)": 32.0,
+      "Extension (mm)": 2.6649,
+      "Load (N)": 500.92002
+    },
+    {
+      "Time (sec)": 32.1,
+      "Extension (mm)": 2.6732,
+      "Load (N)": 504.15002
+    },
+    {
+      "Time (sec)": 32.2,
+      "Extension (mm)": 2.6816,
+      "Load (N)": 506.55998
+    },
+    {
+      "Time (sec)": 32.3,
+      "Extension (mm)": 2.6899,
+      "Load (N)": 509.77997
+    },
+    {
+      "Time (sec)": 32.4,
+      "Extension (mm)": 2.6982,
+      "Load (N)": 512.2
+    },
+    {
+      "Time (sec)": 32.5,
+      "Extension (mm)": 2.7066,
+      "Load (N)": 514.61002
+    },
+    {
+      "Time (sec)": 32.6,
+      "Extension (mm)": 2.7149,
+      "Load (N)": 517.02999
+    },
+    {
+      "Time (sec)": 32.7,
+      "Extension (mm)": 2.7232,
+      "Load (N)": 519.45001
+    },
+    {
+      "Time (sec)": 32.8,
+      "Extension (mm)": 2.7315,
+      "Load (N)": 521.85997
+    },
+    {
+      "Time (sec)": 32.9,
+      "Extension (mm)": 2.7399,
+      "Load (N)": 524.28
+    },
+    {
+      "Time (sec)": 33.0,
+      "Extension (mm)": 2.7482,
+      "Load (N)": 526.70002
+    },
+    {
+      "Time (sec)": 33.1,
+      "Extension (mm)": 2.7566,
+      "Load (N)": 528.31002
+    },
+    {
+      "Time (sec)": 33.2,
+      "Extension (mm)": 2.7649,
+      "Load (N)": 531.53001
+    },
+    {
+      "Time (sec)": 33.3,
+      "Extension (mm)": 2.7732,
+      "Load (N)": 533.14
+    },
+    {
+      "Time (sec)": 33.4,
+      "Extension (mm)": 2.7816,
+      "Load (N)": 535.55002
+    },
+    {
+      "Time (sec)": 33.5,
+      "Extension (mm)": 2.7899,
+      "Load (N)": 537.16002
+    },
+    {
+      "Time (sec)": 33.6,
+      "Extension (mm)": 2.7982,
+      "Load (N)": 539.57999
+    },
+    {
+      "Time (sec)": 33.7,
+      "Extension (mm)": 2.8065,
+      "Load (N)": 541.18998
+    },
+    {
+      "Time (sec)": 33.8,
+      "Extension (mm)": 2.8149,
+      "Load (N)": 542.79998
+    },
+    {
+      "Time (sec)": 33.9,
+      "Extension (mm)": 2.8232,
+      "Load (N)": 544.40998
+    },
+    {
+      "Time (sec)": 34.0,
+      "Extension (mm)": 2.8316,
+      "Load (N)": 546.02003
+    },
+    {
+      "Time (sec)": 34.1,
+      "Extension (mm)": 2.8399,
+      "Load (N)": 547.63002
+    },
+    {
+      "Time (sec)": 34.2,
+      "Extension (mm)": 2.8482,
+      "Load (N)": 549.25002
+    },
+    {
+      "Time (sec)": 34.3,
+      "Extension (mm)": 2.8566,
+      "Load (N)": 550.04999
+    },
+    {
+      "Time (sec)": 34.4,
+      "Extension (mm)": 2.8649,
+      "Load (N)": 551.65999
+    },
+    {
+      "Time (sec)": 34.5,
+      "Extension (mm)": 2.8732,
+      "Load (N)": 553.26998
+    },
+    {
+      "Time (sec)": 34.6,
+      "Extension (mm)": 2.8815,
+      "Load (N)": 554.08001
+    },
+    {
+      "Time (sec)": 34.7,
+      "Extension (mm)": 2.8899,
+      "Load (N)": 554.87998
+    },
+    {
+      "Time (sec)": 34.8,
+      "Extension (mm)": 2.8982,
+      "Load (N)": 555.69001
+    },
+    {
+      "Time (sec)": 34.9,
+      "Extension (mm)": 2.9066,
+      "Load (N)": 556.48997
+    },
+    {
+      "Time (sec)": 35.0,
+      "Extension (mm)": 2.9149,
+      "Load (N)": 556.48997
+    },
+    {
+      "Time (sec)": 35.1,
+      "Extension (mm)": 2.9232,
+      "Load (N)": 557.3
+    },
+    {
+      "Time (sec)": 35.2,
+      "Extension (mm)": 2.9316,
+      "Load (N)": 557.3
+    },
+    {
+      "Time (sec)": 35.3,
+      "Extension (mm)": 2.9399,
+      "Load (N)": 557.3
+    },
+    {
+      "Time (sec)": 35.4,
+      "Extension (mm)": 2.9482,
+      "Load (N)": 557.3
+    },
+    {
+      "Time (sec)": 35.5,
+      "Extension (mm)": 2.9565,
+      "Load (N)": 556.48997
+    },
+    {
+      "Time (sec)": 35.6,
+      "Extension (mm)": 2.9649,
+      "Load (N)": 555.69001
+    },
+    {
+      "Time (sec)": 35.7,
+      "Extension (mm)": 2.9732,
+      "Load (N)": 554.87998
+    },
+    {
+      "Time (sec)": 35.8,
+      "Extension (mm)": 2.9815,
+      "Load (N)": 553.26998
+    },
+    {
+      "Time (sec)": 35.9,
+      "Extension (mm)": 2.9899,
+      "Load (N)": 550.04999
+    },
+    {
+      "Time (sec)": 36.0,
+      "Extension (mm)": 2.9982,
+      "Load (N)": 546.02003
+    }
+  ]
+}
